@@ -1,4 +1,5 @@
 #!/bin/bash
+# https://github.com/tabulapdf/tabula-extractor/wiki/Using-the-command-line-tabula-extractor-tool
 export RBENV_VERSION=jruby-1.7.19
 for f in 2005/*.pdf; do
     # 2005 Presidential runoff
