@@ -1,0 +1,823 @@
+election_county,precinct,polling_place,address,election,election_year,election_type,election_round,valid_votes,invalid_votes,total_votes,candidate,cand_party,cand_votes,registered_voters
+Nimba,33001 ,1,"Duayee Palava Hut, Duayee ",President/Vice-President Runoff ,2005,Presidential,2,351,2,353,"JOHNSON-SIRLEAF, Ellen",UP,336,554
+Nimba,33001 ,1,"Duayee Palava Hut, Duayee ",President/Vice-President Runoff ,2005,Presidential,2,351,2,353,"WEAH, George Manneh",CDC,15,554
+Nimba,33002 ,1,"Garw anpa Palava Hut, Garw anpa ",President/Vice-President Runoff ,2005,Presidential,2,180,18,198,"JOHNSON-SIRLEAF, Ellen",UP,170,433
+Nimba,33002 ,1,"Garw anpa Palava Hut, Garw anpa ",President/Vice-President Runoff ,2005,Presidential,2,180,18,198,"WEAH, George Manneh",CDC,10,433
+Nimba,33004 ,1,"Civil Compound, Saclepea ",President/Vice-President Runoff ,2005,Presidential,2,281,10,291,"JOHNSON-SIRLEAF, Ellen",UP,207,490
+Nimba,33004 ,1,"Civil Compound, Saclepea ",President/Vice-President Runoff ,2005,Presidential,2,281,10,291,"WEAH, George Manneh",CDC,74,490
+Nimba,33004 ,4,"Civil Compound, Saclepea ",President/Vice-President Runoff ,2005,Presidential,2,300,15,315,"JOHNSON-SIRLEAF, Ellen",UP,215,501
+Nimba,33004 ,4,"Civil Compound, Saclepea ",President/Vice-President Runoff ,2005,Presidential,2,300,15,315,"WEAH, George Manneh",CDC,85,501
+Nimba,33005 ,2,"S.d. Palava Hut, Saclepea ",President/Vice-President Runoff ,2005,Presidential,2,224,4,228,"JOHNSON-SIRLEAF, Ellen",UP,170,567
+Nimba,33005 ,2,"S.d. Palava Hut, Saclepea ",President/Vice-President Runoff ,2005,Presidential,2,224,4,228,"WEAH, George Manneh",CDC,54,567
+Nimba,33006 ,2,"Johnny Voker School, Saclepea ",President/Vice-President Runoff ,2005,Presidential,2,250,6,256,"JOHNSON-SIRLEAF, Ellen",UP,183,529
+Nimba,33006 ,2,"Johnny Voker School, Saclepea ",President/Vice-President Runoff ,2005,Presidential,2,250,6,256,"WEAH, George Manneh",CDC,67,529
+Nimba,33006 ,5,"Johnny Voker School, Saclepea ",President/Vice-President Runoff ,2005,Presidential,2,252,10,262,"JOHNSON-SIRLEAF, Ellen",UP,177,529
+Nimba,33006 ,5,"Johnny Voker School, Saclepea ",President/Vice-President Runoff ,2005,Presidential,2,252,10,262,"WEAH, George Manneh",CDC,75,529
+Nimba,33008 ,1,"Kpaytuo Public School, Kpaytuo ",President/Vice-President Runoff ,2005,Presidential,2,394,2,396,"JOHNSON-SIRLEAF, Ellen",UP,303,578
+Nimba,33008 ,1,"Kpaytuo Public School, Kpaytuo ",President/Vice-President Runoff ,2005,Presidential,2,394,2,396,"WEAH, George Manneh",CDC,91,578
+Nimba,33009 ,1,"Kpow in Public School, Kpow in ",President/Vice-President Runoff ,2005,Presidential,2,247,5,252,"JOHNSON-SIRLEAF, Ellen",UP,214,410
+Nimba,33009 ,1,"Kpow in Public School, Kpow in ",President/Vice-President Runoff ,2005,Presidential,2,247,5,252,"WEAH, George Manneh",CDC,33,410
+Nimba,33010 ,3,"Gbanquoi Public School, Nyasein New  Tow n ",President/Vice-President Runoff ,2005,Presidential,2,190,6,196,"JOHNSON-SIRLEAF, Ellen",UP,144,465
+Nimba,33010 ,3,"Gbanquoi Public School, Nyasein New  Tow n ",President/Vice-President Runoff ,2005,Presidential,2,190,6,196,"WEAH, George Manneh",CDC,46,465
+Nimba,33011 ,2,"Bahnla Palava Hut, Bahnla ",President/Vice-President Runoff ,2005,Presidential,2,258,9,267,"JOHNSON-SIRLEAF, Ellen",UP,184,411
+Nimba,33011 ,2,"Bahnla Palava Hut, Bahnla ",President/Vice-President Runoff ,2005,Presidential,2,258,9,267,"WEAH, George Manneh",CDC,74,411
+Nimba,33013 ,1,"Duo Palava Hut, Duo ",President/Vice-President Runoff ,2005,Presidential,2,204,5,209,"JOHNSON-SIRLEAF, Ellen",UP,40,568
+Nimba,33013 ,1,"Duo Palava Hut, Duo ",President/Vice-President Runoff ,2005,Presidential,2,204,5,209,"WEAH, George Manneh",CDC,164,568
+Nimba,33014 ,2,"Bainakplela Palava Hut, Bainakplela ",President/Vice-President Runoff ,2005,Presidential,2,151,2,153,"JOHNSON-SIRLEAF, Ellen",UP,98,426
+Nimba,33014 ,2,"Bainakplela Palava Hut, Bainakplela ",President/Vice-President Runoff ,2005,Presidential,2,151,2,153,"WEAH, George Manneh",CDC,53,426
+Nimba,33016 ,1,"Bunadin Public School, Bunadin ",President/Vice-President Runoff ,2005,Presidential,2,195,7,202,"JOHNSON-SIRLEAF, Ellen",UP,157,492
+Nimba,33016 ,1,"Bunadin Public School, Bunadin ",President/Vice-President Runoff ,2005,Presidential,2,195,7,202,"WEAH, George Manneh",CDC,38,492
+Nimba,33017 ,1,"Sokopa Palava Hut, Sokopa ",President/Vice-President Runoff ,2005,Presidential,2,167,7,174,"JOHNSON-SIRLEAF, Ellen",UP,75,339
+Nimba,33017 ,1,"Sokopa Palava Hut, Sokopa ",President/Vice-President Runoff ,2005,Presidential,2,167,7,174,"WEAH, George Manneh",CDC,92,339
+Nimba,33018 ,3,"Kpein Palava Hut, Kpein ",President/Vice-President Runoff ,2005,Presidential,2,225,12,237,"JOHNSON-SIRLEAF, Ellen",UP,142,579
+Nimba,33018 ,3,"Kpein Palava Hut, Kpein ",President/Vice-President Runoff ,2005,Presidential,2,225,12,237,"WEAH, George Manneh",CDC,83,579
+Nimba,33020 ,1,"Baipa Public School, Baipa ",President/Vice-President Runoff ,2005,Presidential,2,160,16,176,"JOHNSON-SIRLEAF, Ellen",UP,94,465
+Nimba,33020 ,1,"Baipa Public School, Baipa ",President/Vice-President Runoff ,2005,Presidential,2,160,16,176,"WEAH, George Manneh",CDC,66,465
+Nimba,33021 ,1,"Flumpa Palava Hut, Flumpa ",President/Vice-President Runoff ,2005,Presidential,2,205,3,208,"JOHNSON-SIRLEAF, Ellen",UP,158,599
+Nimba,33021 ,1,"Flumpa Palava Hut, Flumpa ",President/Vice-President Runoff ,2005,Presidential,2,205,3,208,"WEAH, George Manneh",CDC,47,599
+Nimba,33021 ,4,"Flumpa Palava Hut, Flumpa ",President/Vice-President Runoff ,2005,Presidential,2,162,9,171,"JOHNSON-SIRLEAF, Ellen",UP,123,561
+Nimba,33021 ,4,"Flumpa Palava Hut, Flumpa ",President/Vice-President Runoff ,2005,Presidential,2,162,9,171,"WEAH, George Manneh",CDC,39,561
+Nimba,33023 ,1,"Gepoe Public School, Gepoe ",President/Vice-President Runoff ,2005,Presidential,2,252,5,257,"JOHNSON-SIRLEAF, Ellen",UP,183,545
+Nimba,33023 ,1,"Gepoe Public School, Gepoe ",President/Vice-President Runoff ,2005,Presidential,2,252,5,257,"WEAH, George Manneh",CDC,69,545
+Nimba,33024 ,2,"Cocopa Camp 4 School Compound, Cocopa 1 ",President/Vice-President Runoff ,2005,Presidential,2,437,26,463,"JOHNSON-SIRLEAF, Ellen",UP,389,596
+Nimba,33024 ,2,"Cocopa Camp 4 School Compound, Cocopa 1 ",President/Vice-President Runoff ,2005,Presidential,2,437,26,463,"WEAH, George Manneh",CDC,48,596
+Nimba,33026 ,1,"Karnw ee Palava Hut, Karnw ee ",President/Vice-President Runoff ,2005,Presidential,2,363,5,368,"JOHNSON-SIRLEAF, Ellen",UP,300,485
+Nimba,33026 ,1,"Karnw ee Palava Hut, Karnw ee ",President/Vice-President Runoff ,2005,Presidential,2,363,5,368,"WEAH, George Manneh",CDC,63,485
+Nimba,33027 ,1,"Kpallah Palava Hut, Kpallah ",President/Vice-President Runoff ,2005,Presidential,2,184,20,204,"JOHNSON-SIRLEAF, Ellen",UP,150,532
+Nimba,33027 ,1,"Kpallah Palava Hut, Kpallah ",President/Vice-President Runoff ,2005,Presidential,2,184,20,204,"WEAH, George Manneh",CDC,34,532
+Nimba,33028 ,1,"Burtein Palava Hut, Burtein ",President/Vice-President Runoff ,2005,Presidential,2,127,6,133,"JOHNSON-SIRLEAF, Ellen",UP,72,356
+Nimba,33028 ,1,"Burtein Palava Hut, Burtein ",President/Vice-President Runoff ,2005,Presidential,2,127,6,133,"WEAH, George Manneh",CDC,55,356
+Nimba,33029 ,2,"Boe Bounglay Public School, Boe Bounglay ",President/Vice-President Runoff ,2005,Presidential,2,243,2,245,"JOHNSON-SIRLEAF, Ellen",UP,237,461
+Nimba,33029 ,2,"Boe Bounglay Public School, Boe Bounglay ",President/Vice-President Runoff ,2005,Presidential,2,243,2,245,"WEAH, George Manneh",CDC,6,461
+Nimba,33030 ,2,"Sarbugentuo Public School, Sarbugentuo ",President/Vice-President Runoff ,2005,Presidential,2,203,6,209,"JOHNSON-SIRLEAF, Ellen",UP,133,509
+Nimba,33030 ,2,"Sarbugentuo Public School, Sarbugentuo ",President/Vice-President Runoff ,2005,Presidential,2,203,6,209,"WEAH, George Manneh",CDC,70,509
+Nimba,33031 ,3,"Tow eh Tow n Palava Hut, Tow eh Tow n ",President/Vice-President Runoff ,2005,Presidential,2,226,5,231,"JOHNSON-SIRLEAF, Ellen",UP,171,507
+Nimba,33031 ,3,"Tow eh Tow n Palava Hut, Tow eh Tow n ",President/Vice-President Runoff ,2005,Presidential,2,226,5,231,"WEAH, George Manneh",CDC,55,507
+Nimba,33033 ,1,"Louplay Public School, Louplay ",President/Vice-President Runoff ,2005,Presidential,2,228,4,232,"JOHNSON-SIRLEAF, Ellen",UP,215,485
+Nimba,33033 ,1,"Louplay Public School, Louplay ",President/Vice-President Runoff ,2005,Presidential,2,228,4,232,"WEAH, George Manneh",CDC,13,485
+Nimba,33033 ,4,"Louplay Public School, Louplay ",President/Vice-President Runoff ,2005,Presidential,2,264,3,267,"JOHNSON-SIRLEAF, Ellen",UP,237,499
+Nimba,33033 ,4,"Louplay Public School, Louplay ",President/Vice-President Runoff ,2005,Presidential,2,264,3,267,"WEAH, George Manneh",CDC,27,499
+Nimba,33034 ,3,"Yourpea Old Tow n Public School, Yourpea Old Tow n ",President/Vice-President Runoff ,2005,Presidential,2,262,8,270,"JOHNSON-SIRLEAF, Ellen",UP,16,419
+Nimba,33034 ,3,"Yourpea Old Tow n Public School, Yourpea Old Tow n ",President/Vice-President Runoff ,2005,Presidential,2,262,8,270,"WEAH, George Manneh",CDC,246,419
+Nimba,33035 ,3,"Beatuo Public School, Beatuo ",President/Vice-President Runoff ,2005,Presidential,2,284,8,292,"JOHNSON-SIRLEAF, Ellen",UP,244,487
+Nimba,33035 ,3,"Beatuo Public School, Beatuo ",President/Vice-President Runoff ,2005,Presidential,2,284,8,292,"WEAH, George Manneh",CDC,40,487
+Nimba,33037 ,1,"Vahn Tow n Public School, Vahn Tow n ",President/Vice-President Runoff ,2005,Presidential,2,172,5,177,"JOHNSON-SIRLEAF, Ellen",UP,168,308
+Nimba,33037 ,1,"Vahn Tow n Public School, Vahn Tow n ",President/Vice-President Runoff ,2005,Presidential,2,172,5,177,"WEAH, George Manneh",CDC,4,308
+Nimba,33038 ,2,"Memorial High School, Tappita City ",President/Vice-President Runoff ,2005,Presidential,2,261,2,263,"JOHNSON-SIRLEAF, Ellen",UP,222,535
+Nimba,33038 ,2,"Memorial High School, Tappita City ",President/Vice-President Runoff ,2005,Presidential,2,261,2,263,"WEAH, George Manneh",CDC,39,535
+Nimba,33039 ,2,"Public Work Yard, Tappita City ",President/Vice-President Runoff ,2005,Presidential,2,249,27,276,"JOHNSON-SIRLEAF, Ellen",UP,203,529
+Nimba,33039 ,2,"Public Work Yard, Tappita City ",President/Vice-President Runoff ,2005,Presidential,2,249,27,276,"WEAH, George Manneh",CDC,46,529
+Nimba,33040 ,3,"Chief Compound, Tappita City ",President/Vice-President Runoff ,2005,Presidential,2,296,7,303,"JOHNSON-SIRLEAF, Ellen",UP,256,553
+Nimba,33040 ,3,"Chief Compound, Tappita City ",President/Vice-President Runoff ,2005,Presidential,2,296,7,303,"WEAH, George Manneh",CDC,40,553
+Nimba,33041 ,2,"Zeongehn Public School, Zeongehn ",President/Vice-President Runoff ,2005,Presidential,2,254,6,260,"JOHNSON-SIRLEAF, Ellen",UP,231,406
+Nimba,33041 ,2,"Zeongehn Public School, Zeongehn ",President/Vice-President Runoff ,2005,Presidential,2,254,6,260,"WEAH, George Manneh",CDC,23,406
+Nimba,33042 ,2,"Graie Palava Hut, Graie ",President/Vice-President Runoff ,2005,Presidential,2,397,1,398,"JOHNSON-SIRLEAF, Ellen",UP,356,576
+Nimba,33042 ,2,"Graie Palava Hut, Graie ",President/Vice-President Runoff ,2005,Presidential,2,397,1,398,"WEAH, George Manneh",CDC,41,576
+Nimba,33043 ,3,"Zoulay Civil Compound, Zoulay ",President/Vice-President Runoff ,2005,Presidential,2,284,2,286,"JOHNSON-SIRLEAF, Ellen",UP,267,406
+Nimba,33043 ,3,"Zoulay Civil Compound, Zoulay ",President/Vice-President Runoff ,2005,Presidential,2,284,2,286,"WEAH, George Manneh",CDC,17,406
+Nimba,33044 ,3,"Ziah Public School, Ziah ",President/Vice-President Runoff ,2005,Presidential,2,259,1,260,"JOHNSON-SIRLEAF, Ellen",UP,246,434
+Nimba,33044 ,3,"Ziah Public School, Ziah ",President/Vice-President Runoff ,2005,Presidential,2,259,1,260,"WEAH, George Manneh",CDC,13,434
+Nimba,33046 ,1,"Grenpea Public School, Grenpea ",President/Vice-President Runoff ,2005,Presidential,2,312,3,315,"JOHNSON-SIRLEAF, Ellen",UP,297,358
+Nimba,33046 ,1,"Grenpea Public School, Grenpea ",President/Vice-President Runoff ,2005,Presidential,2,312,3,315,"WEAH, George Manneh",CDC,15,358
+Nimba,33047 ,2,"Dialah Public School, Dialah ",President/Vice-President Runoff ,2005,Presidential,2,335,36,371,"JOHNSON-SIRLEAF, Ellen",UP,292,584
+Nimba,33047 ,2,"Dialah Public School, Dialah ",President/Vice-President Runoff ,2005,Presidential,2,335,36,371,"WEAH, George Manneh",CDC,43,584
+Nimba,33049 ,1,"Kaidka Palava Hut, Kaidka Tow n ",President/Vice-President Runoff ,2005,Presidential,2,150,3,153,"JOHNSON-SIRLEAF, Ellen",UP,37,244
+Nimba,33049 ,1,"Kaidka Palava Hut, Kaidka Tow n ",President/Vice-President Runoff ,2005,Presidential,2,150,3,153,"WEAH, George Manneh",CDC,113,244
+Nimba,33052 ,1,"Wantoe Tow n Public School, Wantoe Tow n ",President/Vice-President Runoff ,2005,Presidential,2,131,3,134,"JOHNSON-SIRLEAF, Ellen",UP,42,220
+Nimba,33052 ,1,"Wantoe Tow n Public School, Wantoe Tow n ",President/Vice-President Runoff ,2005,Presidential,2,131,3,134,"WEAH, George Manneh",CDC,89,220
+Nimba,33055 ,1,"Gogbor Tow n Palava Hut, Gogbor Tow n ",President/Vice-President Runoff ,2005,Presidential,2,188,5,193,"JOHNSON-SIRLEAF, Ellen",UP,35,325
+Nimba,33055 ,1,"Gogbor Tow n Palava Hut, Gogbor Tow n ",President/Vice-President Runoff ,2005,Presidential,2,188,5,193,"WEAH, George Manneh",CDC,153,325
+Nimba,33058 ,1,"Teah Tow n Public School, Teah Tow n ",President/Vice-President Runoff ,2005,Presidential,2,128,3,131,"JOHNSON-SIRLEAF, Ellen",UP,21,224
+Nimba,33058 ,1,"Teah Tow n Public School, Teah Tow n ",President/Vice-President Runoff ,2005,Presidential,2,128,3,131,"WEAH, George Manneh",CDC,107,224
+Nimba,33060 ,2,"Mehnla Tow n Palava Hut, Mehnla Tow n ",President/Vice-President Runoff ,2005,Presidential,2,256,3,259,"JOHNSON-SIRLEAF, Ellen",UP,231,492
+Nimba,33060 ,2,"Mehnla Tow n Palava Hut, Mehnla Tow n ",President/Vice-President Runoff ,2005,Presidential,2,256,3,259,"WEAH, George Manneh",CDC,25,492
+Nimba,33062 ,1,"Ghelyee Zorpea Palava Hut, Gleh Zorpea ",President/Vice-President Runoff ,2005,Presidential,2,243,2,245,"JOHNSON-SIRLEAF, Ellen",UP,216,468
+Nimba,33062 ,1,"Ghelyee Zorpea Palava Hut, Gleh Zorpea ",President/Vice-President Runoff ,2005,Presidential,2,243,2,245,"WEAH, George Manneh",CDC,27,468
+Nimba,33063 ,2,"Guotein Palava Hut, Guotein ",President/Vice-President Runoff ,2005,Presidential,2,286,5,291,"JOHNSON-SIRLEAF, Ellen",UP,261,407
+Nimba,33063 ,2,"Guotein Palava Hut, Guotein ",President/Vice-President Runoff ,2005,Presidential,2,286,5,291,"WEAH, George Manneh",CDC,25,407
+Nimba,33065 ,1,"Kpow ein Palava Hut, Kpow ein ",President/Vice-President Runoff ,2005,Presidential,2,146,5,151,"JOHNSON-SIRLEAF, Ellen",UP,98,310
+Nimba,33065 ,1,"Kpow ein Palava Hut, Kpow ein ",President/Vice-President Runoff ,2005,Presidential,2,146,5,151,"WEAH, George Manneh",CDC,48,310
+Nimba,33066 ,2,"Zekepa Palava Hut, Zekepa ",President/Vice-President Runoff ,2005,Presidential,2,233,4,237,"JOHNSON-SIRLEAF, Ellen",UP,185,499
+Nimba,33066 ,2,"Zekepa Palava Hut, Zekepa ",President/Vice-President Runoff ,2005,Presidential,2,233,4,237,"WEAH, George Manneh",CDC,48,499
+Nimba,33068 ,2,"Dahupa Palava Hut, Dahnopa ",President/Vice-President Runoff ,2005,Presidential,2,178,2,180,"JOHNSON-SIRLEAF, Ellen",UP,159,372
+Nimba,33068 ,2,"Dahupa Palava Hut, Dahnopa ",President/Vice-President Runoff ,2005,Presidential,2,178,2,180,"WEAH, George Manneh",CDC,19,372
+Nimba,33070 ,1,"Boyee Palava Hut, Boyee ",President/Vice-President Runoff ,2005,Presidential,2,305,9,314,"JOHNSON-SIRLEAF, Ellen",UP,237,558
+Nimba,33070 ,1,"Boyee Palava Hut, Boyee ",President/Vice-President Runoff ,2005,Presidential,2,305,9,314,"WEAH, George Manneh",CDC,68,558
+Nimba,33072 ,2,"Kw endin Palava Hut, Kw endin ",President/Vice-President Runoff ,2005,Presidential,2,242,6,248,"JOHNSON-SIRLEAF, Ellen",UP,213,545
+Nimba,33072 ,2,"Kw endin Palava Hut, Kw endin ",President/Vice-President Runoff ,2005,Presidential,2,242,6,248,"WEAH, George Manneh",CDC,29,545
+Nimba,33502 ,1,"Kinnon Public School, Kinnon ",President/Vice-President Runoff ,2005,Presidential,2,194,7,201,"JOHNSON-SIRLEAF, Ellen",UP,114,444
+Nimba,33502 ,1,"Kinnon Public School, Kinnon ",President/Vice-President Runoff ,2005,Presidential,2,194,7,201,"WEAH, George Manneh",CDC,80,444
+Nimba,33503 ,2,"New  Yekepa Public Sch, New  Yekepa ",President/Vice-President Runoff ,2005,Presidential,2,170,4,174,"JOHNSON-SIRLEAF, Ellen",UP,153,453
+Nimba,33503 ,2,"New  Yekepa Public Sch, New  Yekepa ",President/Vice-President Runoff ,2005,Presidential,2,170,4,174,"WEAH, George Manneh",CDC,17,453
+Nimba,33505 ,2,"Gbonnie Public School, Gbonnie ",President/Vice-President Runoff ,2005,Presidential,2,203,6,209,"JOHNSON-SIRLEAF, Ellen",UP,143,378
+Nimba,33505 ,2,"Gbonnie Public School, Gbonnie ",President/Vice-President Runoff ,2005,Presidential,2,203,6,209,"WEAH, George Manneh",CDC,60,378
+Nimba,33507 ,1,"Paul D. How ard, Camp # 4 ",President/Vice-President Runoff ,2005,Presidential,2,308,15,323,"JOHNSON-SIRLEAF, Ellen",UP,245,511
+Nimba,33507 ,1,"Paul D. How ard, Camp # 4 ",President/Vice-President Runoff ,2005,Presidential,2,308,15,323,"WEAH, George Manneh",CDC,63,511
+Nimba,33510 ,1,"Vtc Campus, Yekepa ",President/Vice-President Runoff ,2005,Presidential,2,247,3,250,"JOHNSON-SIRLEAF, Ellen",UP,179,577
+Nimba,33510 ,1,"Vtc Campus, Yekepa ",President/Vice-President Runoff ,2005,Presidential,2,247,3,250,"WEAH, George Manneh",CDC,68,577
+Nimba,33512 ,2,"Area “c” School, Yekepa ",President/Vice-President Runoff ,2005,Presidential,2,284,5,289,"JOHNSON-SIRLEAF, Ellen",UP,206,572
+Nimba,33512 ,2,"Area “c” School, Yekepa ",President/Vice-President Runoff ,2005,Presidential,2,284,5,289,"WEAH, George Manneh",CDC,78,572
+Nimba,33513 ,3,"Gbarpa Public School, Gbarpa ",President/Vice-President Runoff ,2005,Presidential,2,267,8,275,"JOHNSON-SIRLEAF, Ellen",UP,226,549
+Nimba,33513 ,3,"Gbarpa Public School, Gbarpa ",President/Vice-President Runoff ,2005,Presidential,2,267,8,275,"WEAH, George Manneh",CDC,41,549
+Nimba,33516 ,1,"Sehyikimpa Public School, Sehyikimpa ",President/Vice-President Runoff ,2005,Presidential,2,223,13,236,"JOHNSON-SIRLEAF, Ellen",UP,157,353
+Nimba,33516 ,1,"Sehyikimpa Public School, Sehyikimpa ",President/Vice-President Runoff ,2005,Presidential,2,223,13,236,"WEAH, George Manneh",CDC,66,353
+Nimba,33518 ,1,"Gbalasonnon Public Sch., Gbalasonnon ",President/Vice-President Runoff ,2005,Presidential,2,219,5,224,"JOHNSON-SIRLEAF, Ellen",UP,210,342
+Nimba,33518 ,1,"Gbalasonnon Public Sch., Gbalasonnon ",President/Vice-President Runoff ,2005,Presidential,2,219,5,224,"WEAH, George Manneh",CDC,9,342
+Nimba,33520 ,1,"Baptist Compound, Geh ",President/Vice-President Runoff ,2005,Presidential,2,274,7,281,"JOHNSON-SIRLEAF, Ellen",UP,262,566
+Nimba,33520 ,1,"Baptist Compound, Geh ",President/Vice-President Runoff ,2005,Presidential,2,274,7,281,"WEAH, George Manneh",CDC,12,566
+Nimba,33522 ,1,"Martha Tubman Elem., Sanniquellie ",President/Vice-President Runoff ,2005,Presidential,2,249,7,256,"JOHNSON-SIRLEAF, Ellen",UP,195,496
+Nimba,33522 ,1,"Martha Tubman Elem., Sanniquellie ",President/Vice-President Runoff ,2005,Presidential,2,249,7,256,"WEAH, George Manneh",CDC,54,496
+Nimba,33522 ,4,"Martha Tubman Elem., Sanniquellie ",President/Vice-President Runoff ,2005,Presidential,2,235,6,241,"JOHNSON-SIRLEAF, Ellen",UP,185,500
+Nimba,33522 ,4,"Martha Tubman Elem., Sanniquellie ",President/Vice-President Runoff ,2005,Presidential,2,235,6,241,"WEAH, George Manneh",CDC,50,500
+Nimba,33524 ,3,"St. Mary's School , Sanniquellie ",President/Vice-President Runoff ,2005,Presidential,2,225,4,229,"JOHNSON-SIRLEAF, Ellen",UP,176,450
+Nimba,33524 ,3,"St. Mary's School , Sanniquellie ",President/Vice-President Runoff ,2005,Presidential,2,225,4,229,"WEAH, George Manneh",CDC,49,450
+Nimba,33525 ,2,"Administration Building, Sanniquellie ",President/Vice-President Runoff ,2005,Presidential,2,256,10,266,"JOHNSON-SIRLEAF, Ellen",UP,211,525
+Nimba,33525 ,2,"Administration Building, Sanniquellie ",President/Vice-President Runoff ,2005,Presidential,2,256,10,266,"WEAH, George Manneh",CDC,45,525
+Nimba,33527 ,1,"Sopea Public School, Sopea ",President/Vice-President Runoff ,2005,Presidential,2,223,32,255,"JOHNSON-SIRLEAF, Ellen",UP,201,522
+Nimba,33527 ,1,"Sopea Public School, Sopea ",President/Vice-President Runoff ,2005,Presidential,2,223,32,255,"WEAH, George Manneh",CDC,22,522
+Nimba,33529 ,1,"Tiapa Public School, Tiapa ",President/Vice-President Runoff ,2005,Presidential,2,491,6,497,"JOHNSON-SIRLEAF, Ellen",UP,476,495
+Nimba,33529 ,1,"Tiapa Public School, Tiapa ",President/Vice-President Runoff ,2005,Presidential,2,491,6,497,"WEAH, George Manneh",CDC,15,495
+Nimba,33530 ,2,"Paramount Chief Com., Tiayee ",President/Vice-President Runoff ,2005,Presidential,2,328,2,330,"JOHNSON-SIRLEAF, Ellen",UP,316,366
+Nimba,33530 ,2,"Paramount Chief Com., Tiayee ",President/Vice-President Runoff ,2005,Presidential,2,328,2,330,"WEAH, George Manneh",CDC,12,366
+Nimba,33532 ,1,"Gorton Public School, Gorton ",President/Vice-President Runoff ,2005,Presidential,2,247,5,252,"JOHNSON-SIRLEAF, Ellen",UP,228,349
+Nimba,33532 ,1,"Gorton Public School, Gorton ",President/Vice-President Runoff ,2005,Presidential,2,247,5,252,"WEAH, George Manneh",CDC,19,349
+Nimba,33534 ,1,"Mao Public School, Mao ",President/Vice-President Runoff ,2005,Presidential,2,265,4,269,"JOHNSON-SIRLEAF, Ellen",UP,249,593
+Nimba,33534 ,1,"Mao Public School, Mao ",President/Vice-President Runoff ,2005,Presidential,2,265,4,269,"WEAH, George Manneh",CDC,16,593
+Nimba,33536 ,1,"Dingarmon Public Sch., Dingarmon ",President/Vice-President Runoff ,2005,Presidential,2,275,1,276,"JOHNSON-SIRLEAF, Ellen",UP,261,355
+Nimba,33536 ,1,"Dingarmon Public Sch., Dingarmon ",President/Vice-President Runoff ,2005,Presidential,2,275,1,276,"WEAH, George Manneh",CDC,14,355
+Nimba,33538 ,1,"Whynor Hut , Whynor ",President/Vice-President Runoff ,2005,Presidential,2,293,6,299,"JOHNSON-SIRLEAF, Ellen",UP,283,411
+Nimba,33538 ,1,"Whynor Hut , Whynor ",President/Vice-President Runoff ,2005,Presidential,2,293,6,299,"WEAH, George Manneh",CDC,10,411
+Nimba,33540 ,1,"Tow n Hall, Mongbein ",President/Vice-President Runoff ,2005,Presidential,2,165,4,169,"JOHNSON-SIRLEAF, Ellen",UP,157,485
+Nimba,33540 ,1,"Tow n Hall, Mongbein ",President/Vice-President Runoff ,2005,Presidential,2,165,4,169,"WEAH, George Manneh",CDC,8,485
+Nimba,33542 ,2,"Palava Hut, Gbloryee ",President/Vice-President Runoff ,2005,Presidential,2,162,12,174,"JOHNSON-SIRLEAF, Ellen",UP,129,297
+Nimba,33542 ,2,"Palava Hut, Gbloryee ",President/Vice-President Runoff ,2005,Presidential,2,162,12,174,"WEAH, George Manneh",CDC,33,297
+Nimba,33545 ,2,"Gbiesella Public School, Gbiesella ",President/Vice-President Runoff ,2005,Presidential,2,206,3,209,"JOHNSON-SIRLEAF, Ellen",UP,149,349
+Nimba,33545 ,2,"Gbiesella Public School, Gbiesella ",President/Vice-President Runoff ,2005,Presidential,2,206,3,209,"WEAH, George Manneh",CDC,57,349
+Nimba,33547 ,2,"J.w . Pearlson High, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,177,4,181,"JOHNSON-SIRLEAF, Ellen",UP,126,471
+Nimba,33547 ,2,"J.w . Pearlson High, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,177,4,181,"WEAH, George Manneh",CDC,51,471
+Nimba,33548 ,1,"Yini High School, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,279,2,281,"JOHNSON-SIRLEAF, Ellen",UP,201,598
+Nimba,33548 ,1,"Yini High School, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,279,2,281,"WEAH, George Manneh",CDC,78,598
+Nimba,33549 ,2,"Christian Messiah Academy, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,290,14,304,"JOHNSON-SIRLEAF, Ellen",UP,244,572
+Nimba,33549 ,2,"Christian Messiah Academy, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,290,14,304,"WEAH, George Manneh",CDC,46,572
+Nimba,33550 ,2,"Harriet E. Parkinson Memorial Academy , Ganta ",President/Vice-President Runoff ,2005,Presidential,2,187,15,202,"JOHNSON-SIRLEAF, Ellen",UP,148,472
+Nimba,33550 ,2,"Harriet E. Parkinson Memorial Academy , Ganta ",President/Vice-President Runoff ,2005,Presidential,2,187,15,202,"WEAH, George Manneh",CDC,39,472
+Nimba,33551 ,1,"Ymca School, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,201,3,204,"JOHNSON-SIRLEAF, Ellen",UP,131,401
+Nimba,33551 ,1,"Ymca School, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,201,3,204,"WEAH, George Manneh",CDC,70,401
+Nimba,33552 ,1,"Hope Academy, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,270,8,278,"JOHNSON-SIRLEAF, Ellen",UP,183,567
+Nimba,33552 ,1,"Hope Academy, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,270,8,278,"WEAH, George Manneh",CDC,87,567
+Nimba,33553 ,1,"Tokay Hill, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,225,7,232,"JOHNSON-SIRLEAF, Ellen",UP,126,537
+Nimba,33553 ,1,"Tokay Hill, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,225,7,232,"WEAH, George Manneh",CDC,99,537
+Nimba,33553 ,4,"Tokay Hill, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,250,6,256,"JOHNSON-SIRLEAF, Ellen",UP,159,543
+Nimba,33553 ,4,"Tokay Hill, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,250,6,256,"WEAH, George Manneh",CDC,91,543
+Nimba,33554 ,3,"Ganta Old Market, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,218,14,232,"JOHNSON-SIRLEAF, Ellen",UP,133,486
+Nimba,33554 ,3,"Ganta Old Market, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,218,14,232,"WEAH, George Manneh",CDC,85,486
+Nimba,33555 ,1,"Lprc Compound, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,198,6,204,"JOHNSON-SIRLEAF, Ellen",UP,166,460
+Nimba,33555 ,1,"Lprc Compound, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,198,6,204,"WEAH, George Manneh",CDC,32,460
+Nimba,33556 ,1,"George Toe Washington Sch., Ganta ",President/Vice-President Runoff ,2005,Presidential,2,193,11,204,"JOHNSON-SIRLEAF, Ellen",UP,122,493
+Nimba,33556 ,1,"George Toe Washington Sch., Ganta ",President/Vice-President Runoff ,2005,Presidential,2,193,11,204,"WEAH, George Manneh",CDC,71,493
+Nimba,33556 ,4,"George Toe Washington Sch., Ganta ",President/Vice-President Runoff ,2005,Presidential,2,184,17,201,"JOHNSON-SIRLEAF, Ellen",UP,110,461
+Nimba,33556 ,4,"George Toe Washington Sch., Ganta ",President/Vice-President Runoff ,2005,Presidential,2,184,17,201,"WEAH, George Manneh",CDC,74,461
+Nimba,33557 ,3,"George Dunbar School, Neingbeie ",President/Vice-President Runoff ,2005,Presidential,2,220,9,229,"JOHNSON-SIRLEAF, Ellen",UP,165,453
+Nimba,33557 ,3,"George Dunbar School, Neingbeie ",President/Vice-President Runoff ,2005,Presidential,2,220,9,229,"WEAH, George Manneh",CDC,55,453
+Nimba,33559 ,1,"Palava Hut, Duonw in ",President/Vice-President Runoff ,2005,Presidential,2,199,13,212,"JOHNSON-SIRLEAF, Ellen",UP,176,506
+Nimba,33559 ,1,"Palava Hut, Duonw in ",President/Vice-President Runoff ,2005,Presidential,2,199,13,212,"WEAH, George Manneh",CDC,23,506
+Nimba,33560 ,2,"Sda School, Zontuo ",President/Vice-President Runoff ,2005,Presidential,2,292,4,296,"JOHNSON-SIRLEAF, Ellen",UP,208,490
+Nimba,33560 ,2,"Sda School, Zontuo ",President/Vice-President Runoff ,2005,Presidential,2,292,4,296,"WEAH, George Manneh",CDC,84,490
+Nimba,33562 ,1,"Buanplay Public School, Buanplay ",President/Vice-President Runoff ,2005,Presidential,2,168,1,169,"JOHNSON-SIRLEAF, Ellen",UP,132,330
+Nimba,33562 ,1,"Buanplay Public School, Buanplay ",President/Vice-President Runoff ,2005,Presidential,2,168,1,169,"WEAH, George Manneh",CDC,36,330
+Nimba,33564 ,1,"Duonpea Public School, Duonpea ",President/Vice-President Runoff ,2005,Presidential,2,116,8,124,"JOHNSON-SIRLEAF, Ellen",UP,100,233
+Nimba,33564 ,1,"Duonpea Public School, Duonpea ",President/Vice-President Runoff ,2005,Presidential,2,116,8,124,"WEAH, George Manneh",CDC,16,233
+Nimba,33566 ,1,"Baylehylay Public Sch., Baylehglay ",President/Vice-President Runoff ,2005,Presidential,2,246,18,264,"JOHNSON-SIRLEAF, Ellen",UP,226,489
+Nimba,33566 ,1,"Baylehylay Public Sch., Baylehglay ",President/Vice-President Runoff ,2005,Presidential,2,246,18,264,"WEAH, George Manneh",CDC,20,489
+Nimba,33567 ,2,"Bahn High School, Bahn ",President/Vice-President Runoff ,2005,Presidential,2,150,6,156,"JOHNSON-SIRLEAF, Ellen",UP,127,512
+Nimba,33567 ,2,"Bahn High School, Bahn ",President/Vice-President Runoff ,2005,Presidential,2,150,6,156,"WEAH, George Manneh",CDC,23,512
+Nimba,33568 ,2,"Karyea Compound, Bahn ",President/Vice-President Runoff ,2005,Presidential,2,239,18,257,"JOHNSON-SIRLEAF, Ellen",UP,209,534
+Nimba,33568 ,2,"Karyea Compound, Bahn ",President/Vice-President Runoff ,2005,Presidential,2,239,18,257,"WEAH, George Manneh",CDC,30,534
+Nimba,33569 ,2,"Tuazama’s Compound, Bahn ",President/Vice-President Runoff ,2005,Presidential,2,254,5,259,"JOHNSON-SIRLEAF, Ellen",UP,225,459
+Nimba,33569 ,2,"Tuazama’s Compound, Bahn ",President/Vice-President Runoff ,2005,Presidential,2,254,5,259,"WEAH, George Manneh",CDC,29,459
+Nimba,33570 ,2,"Gblah Public School, Gblah ",President/Vice-President Runoff ,2005,Presidential,2,213,9,222,"JOHNSON-SIRLEAF, Ellen",UP,200,460
+Nimba,33570 ,2,"Gblah Public School, Gblah ",President/Vice-President Runoff ,2005,Presidential,2,213,9,222,"WEAH, George Manneh",CDC,13,460
+Nimba,33571 ,2,"Rhekpeblay Public School, Rhekpehlay ",President/Vice-President Runoff ,2005,Presidential,2,215,8,223,"JOHNSON-SIRLEAF, Ellen",UP,173,484
+Nimba,33571 ,2,"Rhekpeblay Public School, Rhekpehlay ",President/Vice-President Runoff ,2005,Presidential,2,215,8,223,"WEAH, George Manneh",CDC,42,484
+Nimba,33573 ,1,"Bonnah Public Sch, Miaplay Bonnah ",President/Vice-President Runoff ,2005,Presidential,2,283,9,292,"JOHNSON-SIRLEAF, Ellen",UP,256,577
+Nimba,33573 ,1,"Bonnah Public Sch, Miaplay Bonnah ",President/Vice-President Runoff ,2005,Presidential,2,283,9,292,"WEAH, George Manneh",CDC,27,577
+Nimba,33575 ,1,"Rlantuo Public Sch, Rlantuo ",President/Vice-President Runoff ,2005,Presidential,2,273,23,296,"JOHNSON-SIRLEAF, Ellen",UP,258,519
+Nimba,33575 ,1,"Rlantuo Public Sch, Rlantuo ",President/Vice-President Runoff ,2005,Presidential,2,273,23,296,"WEAH, George Manneh",CDC,15,519
+Nimba,33577 ,1,"Chief Compound, Payee ",President/Vice-President Runoff ,2005,Presidential,2,369,0,369,"JOHNSON-SIRLEAF, Ellen",UP,350,507
+Nimba,33577 ,1,"Chief Compound, Payee ",President/Vice-President Runoff ,2005,Presidential,2,369,0,369,"WEAH, George Manneh",CDC,19,507
+Nimba,33579 ,1,"Gbor Zuoplay, Gbor Zuoplay ",President/Vice-President Runoff ,2005,Presidential,2,249,21,270,"JOHNSON-SIRLEAF, Ellen",UP,227,454
+Nimba,33579 ,1,"Gbor Zuoplay, Gbor Zuoplay ",President/Vice-President Runoff ,2005,Presidential,2,249,21,270,"WEAH, George Manneh",CDC,22,454
+Nimba,33582 ,1,"Dinplay Public School, Dinplay ",President/Vice-President Runoff ,2005,Presidential,2,347,12,359,"JOHNSON-SIRLEAF, Ellen",UP,320,416
+Nimba,33582 ,1,"Dinplay Public School, Dinplay ",President/Vice-President Runoff ,2005,Presidential,2,347,12,359,"WEAH, George Manneh",CDC,27,416
+Nimba,33583 ,1,"Frohlay Public Sch, Frohlay ",President/Vice-President Runoff ,2005,Presidential,2,234,4,238,"JOHNSON-SIRLEAF, Ellen",UP,141,474
+Nimba,33583 ,1,"Frohlay Public Sch, Frohlay ",President/Vice-President Runoff ,2005,Presidential,2,234,4,238,"WEAH, George Manneh",CDC,93,474
+Nimba,33584 ,2," Nyarlay Palava Hut, Nyarlay ",President/Vice-President Runoff ,2005,Presidential,2,376,4,380,"JOHNSON-SIRLEAF, Ellen",UP,365,483
+Nimba,33584 ,2," Nyarlay Palava Hut, Nyarlay ",President/Vice-President Runoff ,2005,Presidential,2,376,4,380,"WEAH, George Manneh",CDC,11,483
+Nimba,33586 ,1,"Lepula Public School, Yao Lepula ",President/Vice-President Runoff ,2005,Presidential,2,266,1,267,"JOHNSON-SIRLEAF, Ellen",UP,133,472
+Nimba,33586 ,1,"Lepula Public School, Yao Lepula ",President/Vice-President Runoff ,2005,Presidential,2,266,1,267,"WEAH, George Manneh",CDC,133,472
+Nimba,33587 ,2,"Diaplay Public Sch, Diaplay ",President/Vice-President Runoff ,2005,Presidential,2,224,10,234,"JOHNSON-SIRLEAF, Ellen",UP,153,435
+Nimba,33587 ,2,"Diaplay Public Sch, Diaplay ",President/Vice-President Runoff ,2005,Presidential,2,224,10,234,"WEAH, George Manneh",CDC,71,435
+Nimba,33588 ,2,"Nyor Buutuo Public School, Nyor Buutuo ",President/Vice-President Runoff ,2005,Presidential,2,208,3,211,"JOHNSON-SIRLEAF, Ellen",UP,150,425
+Nimba,33588 ,2,"Nyor Buutuo Public School, Nyor Buutuo ",President/Vice-President Runoff ,2005,Presidential,2,208,3,211,"WEAH, George Manneh",CDC,58,425
+Nimba,33589 ,2,"Glarlay Public Sch, Glarlay ",President/Vice-President Runoff ,2005,Presidential,2,276,0,276,"JOHNSON-SIRLEAF, Ellen",UP,250,447
+Nimba,33589 ,2,"Glarlay Public Sch, Glarlay ",President/Vice-President Runoff ,2005,Presidential,2,276,0,276,"WEAH, George Manneh",CDC,26,447
+Nimba,33590 ,2,"Yao Tiaplay Palava Hut, Yao Tiaplay Tow n ",President/Vice-President Runoff ,2005,Presidential,2,214,0,214,"JOHNSON-SIRLEAF, Ellen",UP,157,445
+Nimba,33590 ,2,"Yao Tiaplay Palava Hut, Yao Tiaplay Tow n ",President/Vice-President Runoff ,2005,Presidential,2,214,0,214,"WEAH, George Manneh",CDC,57,445
+Nimba,33591 ,3,"Beeplay Public Sch, Beeplay ",President/Vice-President Runoff ,2005,Presidential,2,249,0,249,"JOHNSON-SIRLEAF, Ellen",UP,219,591
+Nimba,33591 ,3,"Beeplay Public Sch, Beeplay ",President/Vice-President Runoff ,2005,Presidential,2,249,0,249,"WEAH, George Manneh",CDC,30,591
+Nimba,33592 ,2,"Gbloulay Public Sch, Gbloulay ",President/Vice-President Runoff ,2005,Presidential,2,231,7,238,"JOHNSON-SIRLEAF, Ellen",UP,209,512
+Nimba,33592 ,2,"Gbloulay Public Sch, Gbloulay ",President/Vice-President Runoff ,2005,Presidential,2,231,7,238,"WEAH, George Manneh",CDC,22,512
+Nimba,33593 ,1,"Presidential Building, Butuo ",President/Vice-President Runoff ,2005,Presidential,2,227,12,239,"JOHNSON-SIRLEAF, Ellen",UP,120,556
+Nimba,33593 ,1,"Presidential Building, Butuo ",President/Vice-President Runoff ,2005,Presidential,2,227,12,239,"WEAH, George Manneh",CDC,107,556
+Nimba,33593 ,4,"Presidential Building, Butuo ",President/Vice-President Runoff ,2005,Presidential,2,230,3,233,"JOHNSON-SIRLEAF, Ellen",UP,111,508
+Nimba,33593 ,4,"Presidential Building, Butuo ",President/Vice-President Runoff ,2005,Presidential,2,230,3,233,"WEAH, George Manneh",CDC,119,508
+Nimba,33595 ,1,"Zor Tappa Public Sch, Zor Tappa ",President/Vice-President Runoff ,2005,Presidential,2,308,4,312,"JOHNSON-SIRLEAF, Ellen",UP,254,373
+Nimba,33595 ,1,"Zor Tappa Public Sch, Zor Tappa ",President/Vice-President Runoff ,2005,Presidential,2,308,4,312,"WEAH, George Manneh",CDC,54,373
+Nimba,33597 ,1,"Dulay Public School, Dulay ",President/Vice-President Runoff ,2005,Presidential,2,281,4,285,"JOHNSON-SIRLEAF, Ellen",UP,167,433
+Nimba,33597 ,1,"Dulay Public School, Dulay ",President/Vice-President Runoff ,2005,Presidential,2,281,4,285,"WEAH, George Manneh",CDC,114,433
+Nimba,33599 ,1,"Yeaplay Palava Hut, Yeaplay ",President/Vice-President Runoff ,2005,Presidential,2,272,3,275,"JOHNSON-SIRLEAF, Ellen",UP,65,376
+Nimba,33599 ,1,"Yeaplay Palava Hut, Yeaplay ",President/Vice-President Runoff ,2005,Presidential,2,272,3,275,"WEAH, George Manneh",CDC,207,376
+Nimba,33601 ,2,"Younlay Public Sch, Younlay ",President/Vice-President Runoff ,2005,Presidential,2,229,14,243,"JOHNSON-SIRLEAF, Ellen",UP,126,433
+Nimba,33601 ,2,"Younlay Public Sch, Younlay ",President/Vice-President Runoff ,2005,Presidential,2,229,14,243,"WEAH, George Manneh",CDC,103,433
+Nimba,33603 ,1,"Larpea # 2 Public Sch, Larpea # 2 ",President/Vice-President Runoff ,2005,Presidential,2,256,3,259,"JOHNSON-SIRLEAF, Ellen",UP,166,526
+Nimba,33603 ,1,"Larpea # 2 Public Sch, Larpea # 2 ",President/Vice-President Runoff ,2005,Presidential,2,256,3,259,"WEAH, George Manneh",CDC,90,526
+Nimba,33604 ,2,"Custom Public Sch., Custom ",President/Vice-President Runoff ,2005,Presidential,2,181,16,197,"JOHNSON-SIRLEAF, Ellen",UP,89,420
+Nimba,33604 ,2,"Custom Public Sch., Custom ",President/Vice-President Runoff ,2005,Presidential,2,181,16,197,"WEAH, George Manneh",CDC,92,420
+Nimba,33605 ,2,"Kenlay Public Sch, Kenlay ",President/Vice-President Runoff ,2005,Presidential,2,230,8,238,"JOHNSON-SIRLEAF, Ellen",UP,150,549
+Nimba,33605 ,2,"Kenlay Public Sch, Kenlay ",President/Vice-President Runoff ,2005,Presidential,2,230,8,238,"WEAH, George Manneh",CDC,80,549
+Nimba,33606 ,3,"Senlay Public Sch, Senlay ",President/Vice-President Runoff ,2005,Presidential,2,209,16,225,"JOHNSON-SIRLEAF, Ellen",UP,150,476
+Nimba,33606 ,3,"Senlay Public Sch, Senlay ",President/Vice-President Runoff ,2005,Presidential,2,209,16,225,"WEAH, George Manneh",CDC,59,476
+Nimba,33608 ,1,"Palava Hut, Geanplay ",President/Vice-President Runoff ,2005,Presidential,2,181,11,192,"JOHNSON-SIRLEAF, Ellen",UP,145,449
+Nimba,33608 ,1,"Palava Hut, Geanplay ",President/Vice-President Runoff ,2005,Presidential,2,181,11,192,"WEAH, George Manneh",CDC,36,449
+Nimba,33609 ,2,"Mah Display Publicschool, Mah-diapay ",President/Vice-President Runoff ,2005,Presidential,2,303,7,310,"JOHNSON-SIRLEAF, Ellen",UP,237,446
+Nimba,33609 ,2,"Mah Display Publicschool, Mah-diapay ",President/Vice-President Runoff ,2005,Presidential,2,303,7,310,"WEAH, George Manneh",CDC,66,446
+Nimba,33611 ,1,"Mambor Public School, Mambor ",President/Vice-President Runoff ,2005,Presidential,2,246,12,258,"JOHNSON-SIRLEAF, Ellen",UP,195,371
+Nimba,33611 ,1,"Mambor Public School, Mambor ",President/Vice-President Runoff ,2005,Presidential,2,246,12,258,"WEAH, George Manneh",CDC,51,371
+Nimba,33612 ,2,"Karn High Sch, Karnplay ",President/Vice-President Runoff ,2005,Presidential,2,202,7,209,"JOHNSON-SIRLEAF, Ellen",UP,135,497
+Nimba,33612 ,2,"Karn High Sch, Karnplay ",President/Vice-President Runoff ,2005,Presidential,2,202,7,209,"WEAH, George Manneh",CDC,67,497
+Nimba,33613 ,2,"Karnplay Market, Karnplay ",President/Vice-President Runoff ,2005,Presidential,2,214,1,215,"JOHNSON-SIRLEAF, Ellen",UP,140,454
+Nimba,33613 ,2,"Karnplay Market, Karnplay ",President/Vice-President Runoff ,2005,Presidential,2,214,1,215,"WEAH, George Manneh",CDC,74,454
+Nimba,33614 ,1,"City Mayor’s Office, Karnplay ",President/Vice-President Runoff ,2005,Presidential,2,236,9,245,"JOHNSON-SIRLEAF, Ellen",UP,164,507
+Nimba,33614 ,1,"City Mayor’s Office, Karnplay ",President/Vice-President Runoff ,2005,Presidential,2,236,9,245,"WEAH, George Manneh",CDC,72,507
+Nimba,33615 ,2,"Garplay Public School, Garplay ",President/Vice-President Runoff ,2005,Presidential,2,233,1,234,"JOHNSON-SIRLEAF, Ellen",UP,209,505
+Nimba,33615 ,2,"Garplay Public School, Garplay ",President/Vice-President Runoff ,2005,Presidential,2,233,1,234,"WEAH, George Manneh",CDC,24,505
+Nimba,33616 ,1,"Gow ee Public Sch, Zor Gow ee ",President/Vice-President Runoff ,2005,Presidential,2,283,14,297,"JOHNSON-SIRLEAF, Ellen",UP,189,515
+Nimba,33616 ,1,"Gow ee Public Sch, Zor Gow ee ",President/Vice-President Runoff ,2005,Presidential,2,283,14,297,"WEAH, George Manneh",CDC,94,515
+Nimba,33617 ,2,"Kpaiplay Public School, Kpairplay ",President/Vice-President Runoff ,2005,Presidential,2,263,4,267,"JOHNSON-SIRLEAF, Ellen",UP,173,607
+Nimba,33617 ,2,"Kpaiplay Public School, Kpairplay ",President/Vice-President Runoff ,2005,Presidential,2,263,4,267,"WEAH, George Manneh",CDC,90,607
+Nimba,33618 ,2,"Gborplay Public School, Gborplay ",President/Vice-President Runoff ,2005,Presidential,2,120,2,122,"JOHNSON-SIRLEAF, Ellen",UP,97,391
+Nimba,33618 ,2,"Gborplay Public School, Gborplay ",President/Vice-President Runoff ,2005,Presidential,2,120,2,122,"WEAH, George Manneh",CDC,23,391
+Nimba,33620 ,1,"Bongarplay Public School, Bongarplay ",President/Vice-President Runoff ,2005,Presidential,2,181,4,185,"JOHNSON-SIRLEAF, Ellen",UP,126,429
+Nimba,33620 ,1,"Bongarplay Public School, Bongarplay ",President/Vice-President Runoff ,2005,Presidential,2,181,4,185,"WEAH, George Manneh",CDC,55,429
+Nimba,33621 ,1,"Ganaglay Public School, Ganaglay ",President/Vice-President Runoff ,2005,Presidential,2,418,2,420,"JOHNSON-SIRLEAF, Ellen",UP,407,551
+Nimba,33621 ,1,"Ganaglay Public School, Ganaglay ",President/Vice-President Runoff ,2005,Presidential,2,418,2,420,"WEAH, George Manneh",CDC,11,551
+Nimba,33622 ,2,"Bleemieplay Public School, Bleemieplay ",President/Vice-President Runoff ,2005,Presidential,2,254,2,256,"JOHNSON-SIRLEAF, Ellen",UP,230,532
+Nimba,33622 ,2,"Bleemieplay Public School, Bleemieplay ",President/Vice-President Runoff ,2005,Presidential,2,254,2,256,"WEAH, George Manneh",CDC,24,532
+Nimba,33001 ,2,"Duayee Palava Hut, Duayee ",President/Vice-President Runoff ,2005,Presidential,2,304,0,304,"JOHNSON-SIRLEAF, Ellen",UP,292,542
+Nimba,33001 ,2,"Duayee Palava Hut, Duayee ",President/Vice-President Runoff ,2005,Presidential,2,304,0,304,"WEAH, George Manneh",CDC,12,542
+Nimba,33002 ,2,"Garw anpa Palava Hut, Garw anpa ",President/Vice-President Runoff ,2005,Presidential,2,176,7,183,"JOHNSON-SIRLEAF, Ellen",UP,165,437
+Nimba,33002 ,2,"Garw anpa Palava Hut, Garw anpa ",President/Vice-President Runoff ,2005,Presidential,2,176,7,183,"WEAH, George Manneh",CDC,11,437
+Nimba,33004 ,2,"Civil Compound, Saclepea ",President/Vice-President Runoff ,2005,Presidential,2,330,9,339,"JOHNSON-SIRLEAF, Ellen",UP,250,519
+Nimba,33004 ,2,"Civil Compound, Saclepea ",President/Vice-President Runoff ,2005,Presidential,2,330,9,339,"WEAH, George Manneh",CDC,80,519
+Nimba,33004 ,5,"Civil Compound, Saclepea ",President/Vice-President Runoff ,2005,Presidential,2,264,16,280,"JOHNSON-SIRLEAF, Ellen",UP,192,526
+Nimba,33004 ,5,"Civil Compound, Saclepea ",President/Vice-President Runoff ,2005,Presidential,2,264,16,280,"WEAH, George Manneh",CDC,72,526
+Nimba,33005 ,3,"S.d. Palava Hut, Saclepea ",President/Vice-President Runoff ,2005,Presidential,2,241,11,252,"JOHNSON-SIRLEAF, Ellen",UP,181,570
+Nimba,33005 ,3,"S.d. Palava Hut, Saclepea ",President/Vice-President Runoff ,2005,Presidential,2,241,11,252,"WEAH, George Manneh",CDC,60,570
+Nimba,33006 ,3,"Johnny Voker School, Saclepea ",President/Vice-President Runoff ,2005,Presidential,2,270,6,276,"JOHNSON-SIRLEAF, Ellen",UP,195,541
+Nimba,33006 ,3,"Johnny Voker School, Saclepea ",President/Vice-President Runoff ,2005,Presidential,2,270,6,276,"WEAH, George Manneh",CDC,75,541
+Nimba,33007 ,1,"Mehnpa Palava Hut, Mehnpa ",President/Vice-President Runoff ,2005,Presidential,2,220,7,227,"JOHNSON-SIRLEAF, Ellen",UP,176,346
+Nimba,33007 ,1,"Mehnpa Palava Hut, Mehnpa ",President/Vice-President Runoff ,2005,Presidential,2,220,7,227,"WEAH, George Manneh",CDC,44,346
+Nimba,33008 ,2,"Kpaytuo Public School, Kpaytuo ",President/Vice-President Runoff ,2005,Presidential,2,280,12,292,"JOHNSON-SIRLEAF, Ellen",UP,192,605
+Nimba,33008 ,2,"Kpaytuo Public School, Kpaytuo ",President/Vice-President Runoff ,2005,Presidential,2,280,12,292,"WEAH, George Manneh",CDC,88,605
+Nimba,33010 ,1,"Gbanquoi Public School, Nyasein New  Tow n ",President/Vice-President Runoff ,2005,Presidential,2,152,10,162,"JOHNSON-SIRLEAF, Ellen",UP,113,465
+Nimba,33010 ,1,"Gbanquoi Public School, Nyasein New  Tow n ",President/Vice-President Runoff ,2005,Presidential,2,152,10,162,"WEAH, George Manneh",CDC,39,465
+Nimba,33010 ,4,"Gbanquoi Public School, Nyasein New  Tow n ",President/Vice-President Runoff ,2005,Presidential,2,153,7,160,"JOHNSON-SIRLEAF, Ellen",UP,111,447
+Nimba,33010 ,4,"Gbanquoi Public School, Nyasein New  Tow n ",President/Vice-President Runoff ,2005,Presidential,2,153,7,160,"WEAH, George Manneh",CDC,42,447
+Nimba,33012 ,1,"Zahnboie Palava Hut, Zahnboie ",President/Vice-President Runoff ,2005,Presidential,2,144,4,148,"JOHNSON-SIRLEAF, Ellen",UP,107,311
+Nimba,33012 ,1,"Zahnboie Palava Hut, Zahnboie ",President/Vice-President Runoff ,2005,Presidential,2,144,4,148,"WEAH, George Manneh",CDC,37,311
+Nimba,33013 ,2,"Duo Palava Hut, Duo ",President/Vice-President Runoff ,2005,Presidential,2,213,0,213,"JOHNSON-SIRLEAF, Ellen",UP,59,570
+Nimba,33013 ,2,"Duo Palava Hut, Duo ",President/Vice-President Runoff ,2005,Presidential,2,213,0,213,"WEAH, George Manneh",CDC,154,570
+Nimba,33015 ,1,"Zao Palava Hut, Zao ",President/Vice-President Runoff ,2005,Presidential,2,192,0,192,"JOHNSON-SIRLEAF, Ellen",UP,57,485
+Nimba,33015 ,1,"Zao Palava Hut, Zao ",President/Vice-President Runoff ,2005,Presidential,2,192,0,192,"WEAH, George Manneh",CDC,135,485
+Nimba,33016 ,2,"Bunadin Public School, Bunadin ",President/Vice-President Runoff ,2005,Presidential,2,180,9,189,"JOHNSON-SIRLEAF, Ellen",UP,156,501
+Nimba,33016 ,2,"Bunadin Public School, Bunadin ",President/Vice-President Runoff ,2005,Presidential,2,180,9,189,"WEAH, George Manneh",CDC,24,501
+Nimba,33018 ,1,"Kpein Palava Hut, Kpein ",President/Vice-President Runoff ,2005,Presidential,2,220,13,233,"JOHNSON-SIRLEAF, Ellen",UP,137,542
+Nimba,33018 ,1,"Kpein Palava Hut, Kpein ",President/Vice-President Runoff ,2005,Presidential,2,220,13,233,"WEAH, George Manneh",CDC,83,542
+Nimba,33019 ,1,"Venpa Public School, Venpa ",President/Vice-President Runoff ,2005,Presidential,2,178,12,190,"JOHNSON-SIRLEAF, Ellen",UP,131,577
+Nimba,33019 ,1,"Venpa Public School, Venpa ",President/Vice-President Runoff ,2005,Presidential,2,178,12,190,"WEAH, George Manneh",CDC,47,577
+Nimba,33020 ,2,"Baipa Public School, Baipa ",President/Vice-President Runoff ,2005,Presidential,2,152,9,161,"JOHNSON-SIRLEAF, Ellen",UP,90,487
+Nimba,33020 ,2,"Baipa Public School, Baipa ",President/Vice-President Runoff ,2005,Presidential,2,152,9,161,"WEAH, George Manneh",CDC,62,487
+Nimba,33021 ,2,"Flumpa Palava Hut, Flumpa ",President/Vice-President Runoff ,2005,Presidential,2,184,5,189,"JOHNSON-SIRLEAF, Ellen",UP,142,612
+Nimba,33021 ,2,"Flumpa Palava Hut, Flumpa ",President/Vice-President Runoff ,2005,Presidential,2,184,5,189,"WEAH, George Manneh",CDC,42,612
+Nimba,33022 ,1,"Kpoapa Public School, Kpoapa ",President/Vice-President Runoff ,2005,Presidential,2,232,4,236,"JOHNSON-SIRLEAF, Ellen",UP,136,504
+Nimba,33022 ,1,"Kpoapa Public School, Kpoapa ",President/Vice-President Runoff ,2005,Presidential,2,232,4,236,"WEAH, George Manneh",CDC,96,504
+Nimba,33023 ,2,"Gepoe Public School, Gepoe ",President/Vice-President Runoff ,2005,Presidential,2,312,11,323,"JOHNSON-SIRLEAF, Ellen",UP,246,556
+Nimba,33023 ,2,"Gepoe Public School, Gepoe ",President/Vice-President Runoff ,2005,Presidential,2,312,11,323,"WEAH, George Manneh",CDC,66,556
+Nimba,33025 ,1,"Cocopa Camp 1 School Compound, Camp 6,7&8 ",President/Vice-President Runoff ,2005,Presidential,2,165,3,168,"JOHNSON-SIRLEAF, Ellen",UP,117,431
+Nimba,33025 ,1,"Cocopa Camp 1 School Compound, Camp 6,7&8 ",President/Vice-President Runoff ,2005,Presidential,2,165,3,168,"WEAH, George Manneh",CDC,48,431
+Nimba,33026 ,2,"Karnw ee Palava Hut, Karnw ee ",President/Vice-President Runoff ,2005,Presidential,2,222,12,234,"JOHNSON-SIRLEAF, Ellen",UP,151,498
+Nimba,33026 ,2,"Karnw ee Palava Hut, Karnw ee ",President/Vice-President Runoff ,2005,Presidential,2,222,12,234,"WEAH, George Manneh",CDC,71,498
+Nimba,33027 ,2,"Kpallah Palava Hut, Kpallah ",President/Vice-President Runoff ,2005,Presidential,2,213,10,223,"JOHNSON-SIRLEAF, Ellen",UP,159,545
+Nimba,33027 ,2,"Kpallah Palava Hut, Kpallah ",President/Vice-President Runoff ,2005,Presidential,2,213,10,223,"WEAH, George Manneh",CDC,54,545
+Nimba,33028 ,2,"Burtein Palava Hut, Burtein ",President/Vice-President Runoff ,2005,Presidential,2,128,10,138,"JOHNSON-SIRLEAF, Ellen",UP,77,351
+Nimba,33028 ,2,"Burtein Palava Hut, Burtein ",President/Vice-President Runoff ,2005,Presidential,2,128,10,138,"WEAH, George Manneh",CDC,51,351
+Nimba,33029 ,3,"Boe Bounglay Public School, Boe Bounglay ",President/Vice-President Runoff ,2005,Presidential,2,239,0,239,"JOHNSON-SIRLEAF, Ellen",UP,235,464
+Nimba,33029 ,3,"Boe Bounglay Public School, Boe Bounglay ",President/Vice-President Runoff ,2005,Presidential,2,239,0,239,"WEAH, George Manneh",CDC,4,464
+Nimba,33031 ,1,"Tow eh Tow n Palava Hut, Tow eh Tow n ",President/Vice-President Runoff ,2005,Presidential,2,226,0,226,"JOHNSON-SIRLEAF, Ellen",UP,173,504
+Nimba,33031 ,1,"Tow eh Tow n Palava Hut, Tow eh Tow n ",President/Vice-President Runoff ,2005,Presidential,2,226,0,226,"WEAH, George Manneh",CDC,53,504
+Nimba,33032 ,1,"Zuatuo Public School, Zuatuo ",President/Vice-President Runoff ,2005,Presidential,2,272,1,273,"JOHNSON-SIRLEAF, Ellen",UP,226,579
+Nimba,33032 ,1,"Zuatuo Public School, Zuatuo ",President/Vice-President Runoff ,2005,Presidential,2,272,1,273,"WEAH, George Manneh",CDC,46,579
+Nimba,33033 ,2,"Louplay Public School, Louplay ",President/Vice-President Runoff ,2005,Presidential,2,472,0,472,"JOHNSON-SIRLEAF, Ellen",UP,241,489
+Nimba,33033 ,2,"Louplay Public School, Louplay ",President/Vice-President Runoff ,2005,Presidential,2,472,0,472,"WEAH, George Manneh",CDC,231,489
+Nimba,33034 ,1,"Yourpea Old Tow n Public School, Yourpea Old Tow n ",President/Vice-President Runoff ,2005,Presidential,2,271,2,273,"JOHNSON-SIRLEAF, Ellen",UP,42,421
+Nimba,33034 ,1,"Yourpea Old Tow n Public School, Yourpea Old Tow n ",President/Vice-President Runoff ,2005,Presidential,2,271,2,273,"WEAH, George Manneh",CDC,229,421
+Nimba,33035 ,1,"Beatuo Public School, Beatuo ",President/Vice-President Runoff ,2005,Presidential,2,350,3,353,"JOHNSON-SIRLEAF, Ellen",UP,306,506
+Nimba,33035 ,1,"Beatuo Public School, Beatuo ",President/Vice-President Runoff ,2005,Presidential,2,350,3,353,"WEAH, George Manneh",CDC,44,506
+Nimba,33036 ,1,"Zodru Public School, Zodru ",President/Vice-President Runoff ,2005,Presidential,2,440,20,460,"JOHNSON-SIRLEAF, Ellen",UP,6,494
+Nimba,33036 ,1,"Zodru Public School, Zodru ",President/Vice-President Runoff ,2005,Presidential,2,440,20,460,"WEAH, George Manneh",CDC,434,494
+Nimba,33037 ,2,"Vahn Tow n Public School, Vahn Tow n ",President/Vice-President Runoff ,2005,Presidential,2,206,0,206,"JOHNSON-SIRLEAF, Ellen",UP,198,311
+Nimba,33037 ,2,"Vahn Tow n Public School, Vahn Tow n ",President/Vice-President Runoff ,2005,Presidential,2,206,0,206,"WEAH, George Manneh",CDC,8,311
+Nimba,33038 ,3,"Memorial High School, Tappita City ",President/Vice-President Runoff ,2005,Presidential,2,253,12,265,"JOHNSON-SIRLEAF, Ellen",UP,226,513
+Nimba,33038 ,3,"Memorial High School, Tappita City ",President/Vice-President Runoff ,2005,Presidential,2,253,12,265,"WEAH, George Manneh",CDC,27,513
+Nimba,33040 ,1,"Chief Compound, Tappita City ",President/Vice-President Runoff ,2005,Presidential,2,298,2,300,"JOHNSON-SIRLEAF, Ellen",UP,255,575
+Nimba,33040 ,1,"Chief Compound, Tappita City ",President/Vice-President Runoff ,2005,Presidential,2,298,2,300,"WEAH, George Manneh",CDC,43,575
+Nimba,33040 ,4,"Chief Compound, Tappita City ",President/Vice-President Runoff ,2005,Presidential,2,246,7,253,"JOHNSON-SIRLEAF, Ellen",UP,214,520
+Nimba,33040 ,4,"Chief Compound, Tappita City ",President/Vice-President Runoff ,2005,Presidential,2,246,7,253,"WEAH, George Manneh",CDC,32,520
+Nimba,33041 ,3,"Zeongehn Public School, Zeongehn ",President/Vice-President Runoff ,2005,Presidential,2,254,4,258,"JOHNSON-SIRLEAF, Ellen",UP,233,416
+Nimba,33041 ,3,"Zeongehn Public School, Zeongehn ",President/Vice-President Runoff ,2005,Presidential,2,254,4,258,"WEAH, George Manneh",CDC,21,416
+Nimba,33043 ,1,"Zoulay Civil Compound, Zoulay ",President/Vice-President Runoff ,2005,Presidential,2,377,0,377,"JOHNSON-SIRLEAF, Ellen",UP,371,417
+Nimba,33043 ,1,"Zoulay Civil Compound, Zoulay ",President/Vice-President Runoff ,2005,Presidential,2,377,0,377,"WEAH, George Manneh",CDC,6,417
+Nimba,33044 ,1,"Ziah Public School, Ziah ",President/Vice-President Runoff ,2005,Presidential,2,212,0,212,"JOHNSON-SIRLEAF, Ellen",UP,202,436
+Nimba,33044 ,1,"Ziah Public School, Ziah ",President/Vice-President Runoff ,2005,Presidential,2,212,0,212,"WEAH, George Manneh",CDC,10,436
+Nimba,33045 ,1,"Zuaplay Public School, Zuaplay ",President/Vice-President Runoff ,2005,Presidential,2,221,0,221,"JOHNSON-SIRLEAF, Ellen",UP,201,412
+Nimba,33045 ,1,"Zuaplay Public School, Zuaplay ",President/Vice-President Runoff ,2005,Presidential,2,221,0,221,"WEAH, George Manneh",CDC,20,412
+Nimba,33046 ,2,"Grenpea Public School, Grenpea ",President/Vice-President Runoff ,2005,Presidential,2,304,4,308,"JOHNSON-SIRLEAF, Ellen",UP,279,376
+Nimba,33046 ,2,"Grenpea Public School, Grenpea ",President/Vice-President Runoff ,2005,Presidential,2,304,4,308,"WEAH, George Manneh",CDC,25,376
+Nimba,33048 ,1,"Glahn Public School, Glahn Tow n ",President/Vice-President Runoff ,2005,Presidential,2,149,8,157,"JOHNSON-SIRLEAF, Ellen",UP,25,337
+Nimba,33048 ,1,"Glahn Public School, Glahn Tow n ",President/Vice-President Runoff ,2005,Presidential,2,149,8,157,"WEAH, George Manneh",CDC,124,337
+Nimba,33050 ,1,"Sarkpazon Camp 1 Public School, Sarkpazon Camp 1 ",President/Vice-President Runoff ,2005,Presidential,2,196,4,200,"JOHNSON-SIRLEAF, Ellen",UP,122,325
+Nimba,33050 ,1,"Sarkpazon Camp 1 Public School, Sarkpazon Camp 1 ",President/Vice-President Runoff ,2005,Presidential,2,196,4,200,"WEAH, George Manneh",CDC,74,325
+Nimba,33053 ,1,"Barlaw in Tow n Public School, Barlaw in Tow n ",President/Vice-President Runoff ,2005,Presidential,2,43,2,45,"JOHNSON-SIRLEAF, Ellen",UP,2,51
+Nimba,33053 ,1,"Barlaw in Tow n Public School, Barlaw in Tow n ",President/Vice-President Runoff ,2005,Presidential,2,43,2,45,"WEAH, George Manneh",CDC,41,51
+Nimba,33056 ,1,"Gborninew en Public School, Gborninew en ",President/Vice-President Runoff ,2005,Presidential,2,58,2,60,"JOHNSON-SIRLEAF, Ellen",UP,46,58
+Nimba,33056 ,1,"Gborninew en Public School, Gborninew en ",President/Vice-President Runoff ,2005,Presidential,2,58,2,60,"WEAH, George Manneh",CDC,12,58
+Nimba,33059 ,1,"Wright Tow n Palava Hut, Wright Tow n ",President/Vice-President Runoff ,2005,Presidential,2,94,1,95,"JOHNSON-SIRLEAF, Ellen",UP,47,155
+Nimba,33059 ,1,"Wright Tow n Palava Hut, Wright Tow n ",President/Vice-President Runoff ,2005,Presidential,2,94,1,95,"WEAH, George Manneh",CDC,47,155
+Nimba,33061 ,1,"Garnw ee Tow n Palava Hut, Garnw ee Tow n ",President/Vice-President Runoff ,2005,Presidential,2,157,3,160,"JOHNSON-SIRLEAF, Ellen",UP,70,396
+Nimba,33061 ,1,"Garnw ee Tow n Palava Hut, Garnw ee Tow n ",President/Vice-President Runoff ,2005,Presidential,2,157,3,160,"WEAH, George Manneh",CDC,87,396
+Nimba,33062 ,2,"Ghelyee Zorpea Palava Hut, Gleh Zorpea ",President/Vice-President Runoff ,2005,Presidential,2,257,5,262,"JOHNSON-SIRLEAF, Ellen",UP,228,476
+Nimba,33062 ,2,"Ghelyee Zorpea Palava Hut, Gleh Zorpea ",President/Vice-President Runoff ,2005,Presidential,2,257,5,262,"WEAH, George Manneh",CDC,29,476
+Nimba,33064 ,1,"Karyee Palava Hut, Karyee ",President/Vice-President Runoff ,2005,Presidential,2,198,4,202,"JOHNSON-SIRLEAF, Ellen",UP,120,339
+Nimba,33064 ,1,"Karyee Palava Hut, Karyee ",President/Vice-President Runoff ,2005,Presidential,2,198,4,202,"WEAH, George Manneh",CDC,78,339
+Nimba,33065 ,2,"Kpow ein Palava Hut, Kpow ein ",President/Vice-President Runoff ,2005,Presidential,2,168,9,177,"JOHNSON-SIRLEAF, Ellen",UP,105,335
+Nimba,33065 ,2,"Kpow ein Palava Hut, Kpow ein ",President/Vice-President Runoff ,2005,Presidential,2,168,9,177,"WEAH, George Manneh",CDC,63,335
+Nimba,33067 ,1,"Glehdurgarpa Palava Hut, Glehdurgarpa ",President/Vice-President Runoff ,2005,Presidential,2,271,0,271,"JOHNSON-SIRLEAF, Ellen",UP,241,528
+Nimba,33067 ,1,"Glehdurgarpa Palava Hut, Glehdurgarpa ",President/Vice-President Runoff ,2005,Presidential,2,271,0,271,"WEAH, George Manneh",CDC,30,528
+Nimba,33069 ,1,"Zahuzayee Palava Hut, Zahuzayee ",President/Vice-President Runoff ,2005,Presidential,2,259,6,265,"JOHNSON-SIRLEAF, Ellen",UP,235,472
+Nimba,33069 ,1,"Zahuzayee Palava Hut, Zahuzayee ",President/Vice-President Runoff ,2005,Presidential,2,259,6,265,"WEAH, George Manneh",CDC,24,472
+Nimba,33071 ,1,"Goekorpa Palava Hut, Goekorpa ",President/Vice-President Runoff ,2005,Presidential,2,258,6,264,"JOHNSON-SIRLEAF, Ellen",UP,229,421
+Nimba,33071 ,1,"Goekorpa Palava Hut, Goekorpa ",President/Vice-President Runoff ,2005,Presidential,2,258,6,264,"WEAH, George Manneh",CDC,29,421
+Nimba,33501 ,1,"Gbeleyee Public School, Gbeleyee ",President/Vice-President Runoff ,2005,Presidential,2,155,5,160,"JOHNSON-SIRLEAF, Ellen",UP,122,343
+Nimba,33501 ,1,"Gbeleyee Public School, Gbeleyee ",President/Vice-President Runoff ,2005,Presidential,2,155,5,160,"WEAH, George Manneh",CDC,33,343
+Nimba,33502 ,2,"Kinnon Public School, Kinnon ",President/Vice-President Runoff ,2005,Presidential,2,181,12,193,"JOHNSON-SIRLEAF, Ellen",UP,107,460
+Nimba,33502 ,2,"Kinnon Public School, Kinnon ",President/Vice-President Runoff ,2005,Presidential,2,181,12,193,"WEAH, George Manneh",CDC,74,460
+Nimba,33504 ,1,"Baintow in Palava Hut, Baintow in ",President/Vice-President Runoff ,2005,Presidential,2,462,13,475,"JOHNSON-SIRLEAF, Ellen",UP,440,591
+Nimba,33504 ,1,"Baintow in Palava Hut, Baintow in ",President/Vice-President Runoff ,2005,Presidential,2,462,13,475,"WEAH, George Manneh",CDC,22,591
+Nimba,33506 ,1,"Lugbeyee Public School, Lugbeyee ",President/Vice-President Runoff ,2005,Presidential,2,232,6,238,"JOHNSON-SIRLEAF, Ellen",UP,203,543
+Nimba,33506 ,1,"Lugbeyee Public School, Lugbeyee ",President/Vice-President Runoff ,2005,Presidential,2,232,6,238,"WEAH, George Manneh",CDC,29,543
+Nimba,33508 ,1,"Area “p” Market, Yekepa ",President/Vice-President Runoff ,2005,Presidential,2,208,6,214,"JOHNSON-SIRLEAF, Ellen",UP,156,546
+Nimba,33508 ,1,"Area “p” Market, Yekepa ",President/Vice-President Runoff ,2005,Presidential,2,208,6,214,"WEAH, George Manneh",CDC,52,546
+Nimba,33510 ,2,"Vtc Campus, Yekepa ",President/Vice-President Runoff ,2005,Presidential,2,235,5,240,"JOHNSON-SIRLEAF, Ellen",UP,161,575
+Nimba,33510 ,2,"Vtc Campus, Yekepa ",President/Vice-President Runoff ,2005,Presidential,2,235,5,240,"WEAH, George Manneh",CDC,74,575
+Nimba,33513 ,1,"Gbarpa Public School, Gbarpa ",President/Vice-President Runoff ,2005,Presidential,2,357,6,363,"JOHNSON-SIRLEAF, Ellen",UP,304,555
+Nimba,33513 ,1,"Gbarpa Public School, Gbarpa ",President/Vice-President Runoff ,2005,Presidential,2,357,6,363,"WEAH, George Manneh",CDC,53,555
+Nimba,33514 ,1,"Gbobaye Public School, Gbobaye ",President/Vice-President Runoff ,2005,Presidential,2,224,10,234,"JOHNSON-SIRLEAF, Ellen",UP,185,336
+Nimba,33514 ,1,"Gbobaye Public School, Gbobaye ",President/Vice-President Runoff ,2005,Presidential,2,224,10,234,"WEAH, George Manneh",CDC,39,336
+Nimba,33516 ,2,"Sehyikimpa Public School, Sehyikimpa ",President/Vice-President Runoff ,2005,Presidential,2,218,14,232,"JOHNSON-SIRLEAF, Ellen",UP,166,363
+Nimba,33516 ,2,"Sehyikimpa Public School, Sehyikimpa ",President/Vice-President Runoff ,2005,Presidential,2,218,14,232,"WEAH, George Manneh",CDC,52,363
+Nimba,33518 ,2,"Gbalasonnon Public Sch., Gbalasonnon ",President/Vice-President Runoff ,2005,Presidential,2,209,10,219,"JOHNSON-SIRLEAF, Ellen",UP,202,344
+Nimba,33518 ,2,"Gbalasonnon Public Sch., Gbalasonnon ",President/Vice-President Runoff ,2005,Presidential,2,209,10,219,"WEAH, George Manneh",CDC,7,344
+Nimba,33521 ,1,"Zolow ee Community School, Zolow ee ",President/Vice-President Runoff ,2005,Presidential,2,211,10,221,"JOHNSON-SIRLEAF, Ellen",UP,191,376
+Nimba,33521 ,1,"Zolow ee Community School, Zolow ee ",President/Vice-President Runoff ,2005,Presidential,2,211,10,221,"WEAH, George Manneh",CDC,20,376
+Nimba,33522 ,2,"Martha Tubman Elem., Sanniquellie ",President/Vice-President Runoff ,2005,Presidential,2,241,14,255,"JOHNSON-SIRLEAF, Ellen",UP,172,509
+Nimba,33522 ,2,"Martha Tubman Elem., Sanniquellie ",President/Vice-President Runoff ,2005,Presidential,2,241,14,255,"WEAH, George Manneh",CDC,69,509
+Nimba,33524 ,1,"St. Mary's School , Sanniquellie ",President/Vice-President Runoff ,2005,Presidential,2,226,10,236,"JOHNSON-SIRLEAF, Ellen",UP,166,425
+Nimba,33524 ,1,"St. Mary's School , Sanniquellie ",President/Vice-President Runoff ,2005,Presidential,2,226,10,236,"WEAH, George Manneh",CDC,60,425
+Nimba,33524 ,4,"St. Mary's School , Sanniquellie ",President/Vice-President Runoff ,2005,Presidential,2,237,11,248,"JOHNSON-SIRLEAF, Ellen",UP,169,470
+Nimba,33524 ,4,"St. Mary's School , Sanniquellie ",President/Vice-President Runoff ,2005,Presidential,2,237,11,248,"WEAH, George Manneh",CDC,68,470
+Nimba,33525 ,3,"Administration Building, Sanniquellie ",President/Vice-President Runoff ,2005,Presidential,2,270,12,282,"JOHNSON-SIRLEAF, Ellen",UP,218,534
+Nimba,33525 ,3,"Administration Building, Sanniquellie ",President/Vice-President Runoff ,2005,Presidential,2,270,12,282,"WEAH, George Manneh",CDC,52,534
+Nimba,33528 ,1,"Kpayee Public School, Kpayee Lepula ",President/Vice-President Runoff ,2005,Presidential,2,142,13,155,"JOHNSON-SIRLEAF, Ellen",UP,106,305
+Nimba,33528 ,1,"Kpayee Public School, Kpayee Lepula ",President/Vice-President Runoff ,2005,Presidential,2,142,13,155,"WEAH, George Manneh",CDC,36,305
+Nimba,33529 ,2,"Tiapa Public School, Tiapa ",President/Vice-President Runoff ,2005,Presidential,2,489,7,496,"JOHNSON-SIRLEAF, Ellen",UP,483,510
+Nimba,33529 ,2,"Tiapa Public School, Tiapa ",President/Vice-President Runoff ,2005,Presidential,2,489,7,496,"WEAH, George Manneh",CDC,6,510
+Nimba,33531 ,1,"Duo-boe Public School, Duo-boe ",President/Vice-President Runoff ,2005,Presidential,2,175,3,178,"JOHNSON-SIRLEAF, Ellen",UP,148,422
+Nimba,33531 ,1,"Duo-boe Public School, Duo-boe ",President/Vice-President Runoff ,2005,Presidential,2,175,3,178,"WEAH, George Manneh",CDC,27,422
+Nimba,33532 ,2,"Gorton Public School, Gorton ",President/Vice-President Runoff ,2005,Presidential,2,209,7,216,"JOHNSON-SIRLEAF, Ellen",UP,181,329
+Nimba,33532 ,2,"Gorton Public School, Gorton ",President/Vice-President Runoff ,2005,Presidential,2,209,7,216,"WEAH, George Manneh",CDC,28,329
+Nimba,33534 ,2,"Mao Public School, Mao ",President/Vice-President Runoff ,2005,Presidential,2,287,2,289,"JOHNSON-SIRLEAF, Ellen",UP,270,558
+Nimba,33534 ,2,"Mao Public School, Mao ",President/Vice-President Runoff ,2005,Presidential,2,287,2,289,"WEAH, George Manneh",CDC,17,558
+Nimba,33536 ,2,"Dingarmon Public Sch., Dingarmon ",President/Vice-President Runoff ,2005,Presidential,2,192,9,201,"JOHNSON-SIRLEAF, Ellen",UP,167,384
+Nimba,33536 ,2,"Dingarmon Public Sch., Dingarmon ",President/Vice-President Runoff ,2005,Presidential,2,192,9,201,"WEAH, George Manneh",CDC,25,384
+Nimba,33539 ,1,"Public School, Busie ",President/Vice-President Runoff ,2005,Presidential,2,242,7,249,"JOHNSON-SIRLEAF, Ellen",UP,217,435
+Nimba,33539 ,1,"Public School, Busie ",President/Vice-President Runoff ,2005,Presidential,2,242,7,249,"WEAH, George Manneh",CDC,25,435
+Nimba,33541 ,1,"Zuluyee Public School, Zuluyee ",President/Vice-President Runoff ,2005,Presidential,2,298,5,303,"JOHNSON-SIRLEAF, Ellen",UP,243,480
+Nimba,33541 ,1,"Zuluyee Public School, Zuluyee ",President/Vice-President Runoff ,2005,Presidential,2,298,5,303,"WEAH, George Manneh",CDC,55,480
+Nimba,33543 ,1,"Pledehyee Comm. Sch., Pledehyee ",President/Vice-President Runoff ,2005,Presidential,2,94,10,104,"JOHNSON-SIRLEAF, Ellen",UP,60,185
+Nimba,33543 ,1,"Pledehyee Comm. Sch., Pledehyee ",President/Vice-President Runoff ,2005,Presidential,2,94,10,104,"WEAH, George Manneh",CDC,34,185
+Nimba,33546 ,1,"Rehab School, Ganta Rehab ",President/Vice-President Runoff ,2005,Presidential,2,291,7,298,"JOHNSON-SIRLEAF, Ellen",UP,246,547
+Nimba,33546 ,1,"Rehab School, Ganta Rehab ",President/Vice-President Runoff ,2005,Presidential,2,291,7,298,"WEAH, George Manneh",CDC,45,547
+Nimba,33547 ,3,"J.w . Pearlson High, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,187,2,189,"JOHNSON-SIRLEAF, Ellen",UP,127,464
+Nimba,33547 ,3,"J.w . Pearlson High, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,187,2,189,"WEAH, George Manneh",CDC,60,464
+Nimba,33548 ,2,"Yini High School, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,258,6,264,"JOHNSON-SIRLEAF, Ellen",UP,203,586
+Nimba,33548 ,2,"Yini High School, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,258,6,264,"WEAH, George Manneh",CDC,55,586
+Nimba,33549 ,3,"Christian Messiah Academy, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,318,5,323,"JOHNSON-SIRLEAF, Ellen",UP,265,607
+Nimba,33549 ,3,"Christian Messiah Academy, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,318,5,323,"WEAH, George Manneh",CDC,53,607
+Nimba,33550 ,3,"Harriet E. Parkinson Memorial Academy , Ganta ",President/Vice-President Runoff ,2005,Presidential,2,212,10,222,"JOHNSON-SIRLEAF, Ellen",UP,170,494
+Nimba,33550 ,3,"Harriet E. Parkinson Memorial Academy , Ganta ",President/Vice-President Runoff ,2005,Presidential,2,212,10,222,"WEAH, George Manneh",CDC,42,494
+Nimba,33551 ,2,"Ymca School, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,193,5,198,"JOHNSON-SIRLEAF, Ellen",UP,123,416
+Nimba,33551 ,2,"Ymca School, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,193,5,198,"WEAH, George Manneh",CDC,70,416
+Nimba,33552 ,2,"Hope Academy, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,271,8,279,"JOHNSON-SIRLEAF, Ellen",UP,196,569
+Nimba,33552 ,2,"Hope Academy, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,271,8,279,"WEAH, George Manneh",CDC,75,569
+Nimba,33553 ,2,"Tokay Hill, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,237,13,250,"JOHNSON-SIRLEAF, Ellen",UP,129,563
+Nimba,33553 ,2,"Tokay Hill, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,237,13,250,"WEAH, George Manneh",CDC,108,563
+Nimba,33554 ,1,"Ganta Old Market, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,247,5,252,"JOHNSON-SIRLEAF, Ellen",UP,154,494
+Nimba,33554 ,1,"Ganta Old Market, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,247,5,252,"WEAH, George Manneh",CDC,93,494
+Nimba,33554 ,4,"Ganta Old Market, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,228,6,234,"JOHNSON-SIRLEAF, Ellen",UP,129,506
+Nimba,33554 ,4,"Ganta Old Market, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,228,6,234,"WEAH, George Manneh",CDC,99,506
+Nimba,33555 ,2,"Lprc Compound, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,191,8,199,"JOHNSON-SIRLEAF, Ellen",UP,169,499
+Nimba,33555 ,2,"Lprc Compound, Ganta ",President/Vice-President Runoff ,2005,Presidential,2,191,8,199,"WEAH, George Manneh",CDC,22,499
+Nimba,33556 ,2,"George Toe Washington Sch., Ganta ",President/Vice-President Runoff ,2005,Presidential,2,215,3,218,"JOHNSON-SIRLEAF, Ellen",UP,140,444
+Nimba,33556 ,2,"George Toe Washington Sch., Ganta ",President/Vice-President Runoff ,2005,Presidential,2,215,3,218,"WEAH, George Manneh",CDC,75,444
+Nimba,33557 ,1,"George Dunbar School, Neingbeie ",President/Vice-President Runoff ,2005,Presidential,2,319,8,327,"JOHNSON-SIRLEAF, Ellen",UP,272,440
+Nimba,33557 ,1,"George Dunbar School, Neingbeie ",President/Vice-President Runoff ,2005,Presidential,2,319,8,327,"WEAH, George Manneh",CDC,47,440
+Nimba,33558 ,1,"Gbaydin Public School, Gbaydin ",President/Vice-President Runoff ,2005,Presidential,2,241,12,253,"JOHNSON-SIRLEAF, Ellen",UP,214,546
+Nimba,33558 ,1,"Gbaydin Public School, Gbaydin ",President/Vice-President Runoff ,2005,Presidential,2,241,12,253,"WEAH, George Manneh",CDC,27,546
+Nimba,33559 ,2,"Palava Hut, Duonw in ",President/Vice-President Runoff ,2005,Presidential,2,198,9,207,"JOHNSON-SIRLEAF, Ellen",UP,176,486
+Nimba,33559 ,2,"Palava Hut, Duonw in ",President/Vice-President Runoff ,2005,Presidential,2,198,9,207,"WEAH, George Manneh",CDC,22,486
+Nimba,33561 ,1,"Behyipea Public School, Behyipea ",President/Vice-President Runoff ,2005,Presidential,2,232,7,239,"JOHNSON-SIRLEAF, Ellen",UP,194,424
+Nimba,33561 ,1,"Behyipea Public School, Behyipea ",President/Vice-President Runoff ,2005,Presidential,2,232,7,239,"WEAH, George Manneh",CDC,38,424
+Nimba,33562 ,2,"Buanplay Public School, Buanplay ",President/Vice-President Runoff ,2005,Presidential,2,159,0,159,"JOHNSON-SIRLEAF, Ellen",UP,138,338
+Nimba,33562 ,2,"Buanplay Public School, Buanplay ",President/Vice-President Runoff ,2005,Presidential,2,159,0,159,"WEAH, George Manneh",CDC,21,338
+Nimba,33565 ,1,"Siaplay Public School, Siaplay ",President/Vice-President Runoff ,2005,Presidential,2,212,18,230,"JOHNSON-SIRLEAF, Ellen",UP,199,328
+Nimba,33565 ,1,"Siaplay Public School, Siaplay ",President/Vice-President Runoff ,2005,Presidential,2,212,18,230,"WEAH, George Manneh",CDC,13,328
+Nimba,33566 ,2,"Baylehylay Public Sch., Baylehglay ",President/Vice-President Runoff ,2005,Presidential,2,258,4,262,"JOHNSON-SIRLEAF, Ellen",UP,236,485
+Nimba,33566 ,2,"Baylehylay Public Sch., Baylehglay ",President/Vice-President Runoff ,2005,Presidential,2,258,4,262,"WEAH, George Manneh",CDC,22,485
+Nimba,33567 ,3,"Bahn High School, Bahn ",President/Vice-President Runoff ,2005,Presidential,2,267,1,268,"JOHNSON-SIRLEAF, Ellen",UP,241,516
+Nimba,33567 ,3,"Bahn High School, Bahn ",President/Vice-President Runoff ,2005,Presidential,2,267,1,268,"WEAH, George Manneh",CDC,26,516
+Nimba,33568 ,3,"Karyea Compound, Bahn ",President/Vice-President Runoff ,2005,Presidential,2,231,6,237,"JOHNSON-SIRLEAF, Ellen",UP,193,517
+Nimba,33568 ,3,"Karyea Compound, Bahn ",President/Vice-President Runoff ,2005,Presidential,2,231,6,237,"WEAH, George Manneh",CDC,38,517
+Nimba,33569 ,3,"Tuazama’s Compound, Bahn ",President/Vice-President Runoff ,2005,Presidential,2,423,5,428,"JOHNSON-SIRLEAF, Ellen",UP,391,479
+Nimba,33569 ,3,"Tuazama’s Compound, Bahn ",President/Vice-President Runoff ,2005,Presidential,2,423,5,428,"WEAH, George Manneh",CDC,32,479
+Nimba,33570 ,3,"Gblah Public School, Gblah ",President/Vice-President Runoff ,2005,Presidential,2,211,17,228,"JOHNSON-SIRLEAF, Ellen",UP,195,449
+Nimba,33570 ,3,"Gblah Public School, Gblah ",President/Vice-President Runoff ,2005,Presidential,2,211,17,228,"WEAH, George Manneh",CDC,16,449
+Nimba,33572 ,1,"Zayglay Public Sch, Zayglay ",President/Vice-President Runoff ,2005,Presidential,2,204,8,212,"JOHNSON-SIRLEAF, Ellen",UP,181,339
+Nimba,33572 ,1,"Zayglay Public Sch, Zayglay ",President/Vice-President Runoff ,2005,Presidential,2,204,8,212,"WEAH, George Manneh",CDC,23,339
+Nimba,33573 ,2,"Bonnah Public Sch, Miaplay Bonnah ",President/Vice-President Runoff ,2005,Presidential,2,296,26,322,"JOHNSON-SIRLEAF, Ellen",UP,257,588
+Nimba,33573 ,2,"Bonnah Public Sch, Miaplay Bonnah ",President/Vice-President Runoff ,2005,Presidential,2,296,26,322,"WEAH, George Manneh",CDC,39,588
+Nimba,33576 ,1,"Kpaglay Public Sch, Kpaglay ",President/Vice-President Runoff ,2005,Presidential,2,270,22,292,"JOHNSON-SIRLEAF, Ellen",UP,209,537
+Nimba,33576 ,1,"Kpaglay Public Sch, Kpaglay ",President/Vice-President Runoff ,2005,Presidential,2,270,22,292,"WEAH, George Manneh",CDC,61,537
+Nimba,33577 ,2,"Chief Compound, Payee ",President/Vice-President Runoff ,2005,Presidential,2,332,2,334,"JOHNSON-SIRLEAF, Ellen",UP,324,466
+Nimba,33577 ,2,"Chief Compound, Payee ",President/Vice-President Runoff ,2005,Presidential,2,332,2,334,"WEAH, George Manneh",CDC,8,466
+Nimba,33579 ,2,"Gbor Zuoplay, Gbor Zuoplay ",President/Vice-President Runoff ,2005,Presidential,2,264,11,275,"JOHNSON-SIRLEAF, Ellen",UP,255,481
+Nimba,33579 ,2,"Gbor Zuoplay, Gbor Zuoplay ",President/Vice-President Runoff ,2005,Presidential,2,264,11,275,"WEAH, George Manneh",CDC,9,481
+Nimba,33582 ,2,"Dinplay Public School, Dinplay ",President/Vice-President Runoff ,2005,Presidential,2,248,2,250,"JOHNSON-SIRLEAF, Ellen",UP,230,429
+Nimba,33582 ,2,"Dinplay Public School, Dinplay ",President/Vice-President Runoff ,2005,Presidential,2,248,2,250,"WEAH, George Manneh",CDC,18,429
+Nimba,33583 ,2,"Frohlay Public Sch, Frohlay ",President/Vice-President Runoff ,2005,Presidential,2,227,13,240,"JOHNSON-SIRLEAF, Ellen",UP,128,478
+Nimba,33583 ,2,"Frohlay Public Sch, Frohlay ",President/Vice-President Runoff ,2005,Presidential,2,227,13,240,"WEAH, George Manneh",CDC,99,478
+Nimba,33585 ,1,"Mahnplay Palava Hut, Mahnplay ",President/Vice-President Runoff ,2005,Presidential,2,156,0,156,"JOHNSON-SIRLEAF, Ellen",UP,143,339
+Nimba,33585 ,1,"Mahnplay Palava Hut, Mahnplay ",President/Vice-President Runoff ,2005,Presidential,2,156,0,156,"WEAH, George Manneh",CDC,13,339
+Nimba,33586 ,2,"Lepula Public School, Yao Lepula ",President/Vice-President Runoff ,2005,Presidential,2,240,2,242,"JOHNSON-SIRLEAF, Ellen",UP,86,499
+Nimba,33586 ,2,"Lepula Public School, Yao Lepula ",President/Vice-President Runoff ,2005,Presidential,2,240,2,242,"WEAH, George Manneh",CDC,154,499
+Nimba,33587 ,3,"Diaplay Public Sch, Diaplay ",President/Vice-President Runoff ,2005,Presidential,2,221,1,222,"JOHNSON-SIRLEAF, Ellen",UP,158,408
+Nimba,33587 ,3,"Diaplay Public Sch, Diaplay ",President/Vice-President Runoff ,2005,Presidential,2,221,1,222,"WEAH, George Manneh",CDC,63,408
+Nimba,33588 ,3,"Nyor Buutuo Public School, Nyor Buutuo ",President/Vice-President Runoff ,2005,Presidential,2,170,0,170,"JOHNSON-SIRLEAF, Ellen",UP,107,400
+Nimba,33588 ,3,"Nyor Buutuo Public School, Nyor Buutuo ",President/Vice-President Runoff ,2005,Presidential,2,170,0,170,"WEAH, George Manneh",CDC,63,400
+Nimba,33589 ,3,"Glarlay Public Sch, Glarlay ",President/Vice-President Runoff ,2005,Presidential,2,288,0,288,"JOHNSON-SIRLEAF, Ellen",UP,269,416
+Nimba,33589 ,3,"Glarlay Public Sch, Glarlay ",President/Vice-President Runoff ,2005,Presidential,2,288,0,288,"WEAH, George Manneh",CDC,19,416
+Nimba,33591 ,1,"Beeplay Public Sch, Beeplay ",President/Vice-President Runoff ,2005,Presidential,2,233,0,233,"JOHNSON-SIRLEAF, Ellen",UP,204,569
+Nimba,33591 ,1,"Beeplay Public Sch, Beeplay ",President/Vice-President Runoff ,2005,Presidential,2,233,0,233,"WEAH, George Manneh",CDC,29,569
+Nimba,33591 ,4,"Beeplay Public Sch, Beeplay ",President/Vice-President Runoff ,2005,Presidential,2,167,9,176,"JOHNSON-SIRLEAF, Ellen",UP,143,611
+Nimba,33591 ,4,"Beeplay Public Sch, Beeplay ",President/Vice-President Runoff ,2005,Presidential,2,167,9,176,"WEAH, George Manneh",CDC,24,611
+Nimba,33592 ,3,"Gbloulay Public Sch, Gbloulay ",President/Vice-President Runoff ,2005,Presidential,2,299,3,302,"JOHNSON-SIRLEAF, Ellen",UP,284,481
+Nimba,33592 ,3,"Gbloulay Public Sch, Gbloulay ",President/Vice-President Runoff ,2005,Presidential,2,299,3,302,"WEAH, George Manneh",CDC,15,481
+Nimba,33593 ,2,"Presidential Building, Butuo ",President/Vice-President Runoff ,2005,Presidential,2,218,4,222,"JOHNSON-SIRLEAF, Ellen",UP,107,540
+Nimba,33593 ,2,"Presidential Building, Butuo ",President/Vice-President Runoff ,2005,Presidential,2,218,4,222,"WEAH, George Manneh",CDC,111,540
+Nimba,33594 ,1,"Lepula Public Sch, Zor Lepula ",President/Vice-President Runoff ,2005,Presidential,2,164,10,174,"JOHNSON-SIRLEAF, Ellen",UP,144,313
+Nimba,33594 ,1,"Lepula Public Sch, Zor Lepula ",President/Vice-President Runoff ,2005,Presidential,2,164,10,174,"WEAH, George Manneh",CDC,20,313
+Nimba,33596 ,1,"Zualay Public School, Zualay ",President/Vice-President Runoff ,2005,Presidential,2,187,8,195,"JOHNSON-SIRLEAF, Ellen",UP,72,353
+Nimba,33596 ,1,"Zualay Public School, Zualay ",President/Vice-President Runoff ,2005,Presidential,2,187,8,195,"WEAH, George Manneh",CDC,115,353
+Nimba,33598 ,1,"Goagortuo Public Sch, Goagortuo ",President/Vice-President Runoff ,2005,Presidential,2,190,3,193,"JOHNSON-SIRLEAF, Ellen",UP,89,359
+Nimba,33598 ,1,"Goagortuo Public Sch, Goagortuo ",President/Vice-President Runoff ,2005,Presidential,2,190,3,193,"WEAH, George Manneh",CDC,101,359
+Nimba,33600 ,1,"Sarkorlay Public Sch, Sarkorlay ",President/Vice-President Runoff ,2005,Presidential,2,258,2,260,"JOHNSON-SIRLEAF, Ellen",UP,127,493
+Nimba,33600 ,1,"Sarkorlay Public Sch, Sarkorlay ",President/Vice-President Runoff ,2005,Presidential,2,258,2,260,"WEAH, George Manneh",CDC,131,493
+Nimba,33602 ,1,"Larpea # 1 Public Sch, Larpea # 1 ",President/Vice-President Runoff ,2005,Presidential,2,355,10,365,"JOHNSON-SIRLEAF, Ellen",UP,270,506
+Nimba,33602 ,1,"Larpea # 1 Public Sch, Larpea # 1 ",President/Vice-President Runoff ,2005,Presidential,2,355,10,365,"WEAH, George Manneh",CDC,85,506
+Nimba,33603 ,2,"Larpea # 2 Public Sch, Larpea # 2 ",President/Vice-President Runoff ,2005,Presidential,2,231,9,240,"JOHNSON-SIRLEAF, Ellen",UP,139,507
+Nimba,33603 ,2,"Larpea # 2 Public Sch, Larpea # 2 ",President/Vice-President Runoff ,2005,Presidential,2,231,9,240,"WEAH, George Manneh",CDC,92,507
+Nimba,33604 ,3,"Custom Public Sch., Custom ",President/Vice-President Runoff ,2005,Presidential,2,176,7,183,"JOHNSON-SIRLEAF, Ellen",UP,82,399
+Nimba,33604 ,3,"Custom Public Sch., Custom ",President/Vice-President Runoff ,2005,Presidential,2,176,7,183,"WEAH, George Manneh",CDC,94,399
+Nimba,33606 ,1,"Senlay Public Sch, Senlay ",President/Vice-President Runoff ,2005,Presidential,2,233,3,236,"JOHNSON-SIRLEAF, Ellen",UP,193,450
+Nimba,33606 ,1,"Senlay Public Sch, Senlay ",President/Vice-President Runoff ,2005,Presidential,2,233,3,236,"WEAH, George Manneh",CDC,40,450
+Nimba,33607 ,1,"Vanyenglay Public Sch, Vanyenglay ",President/Vice-President Runoff ,2005,Presidential,2,281,7,288,"JOHNSON-SIRLEAF, Ellen",UP,191,448
+Nimba,33607 ,1,"Vanyenglay Public Sch, Vanyenglay ",President/Vice-President Runoff ,2005,Presidential,2,281,7,288,"WEAH, George Manneh",CDC,90,448
+Nimba,33608 ,2,"Palava Hut, Geanplay ",President/Vice-President Runoff ,2005,Presidential,2,208,4,212,"JOHNSON-SIRLEAF, Ellen",UP,177,423
+Nimba,33608 ,2,"Palava Hut, Geanplay ",President/Vice-President Runoff ,2005,Presidential,2,208,4,212,"WEAH, George Manneh",CDC,31,423
+Nimba,33610 ,1,"Behplay Public Sch, Behplay ",President/Vice-President Runoff ,2005,Presidential,2,275,13,288,"JOHNSON-SIRLEAF, Ellen",UP,102,488
+Nimba,33610 ,1,"Behplay Public Sch, Behplay ",President/Vice-President Runoff ,2005,Presidential,2,275,13,288,"WEAH, George Manneh",CDC,173,488
+Nimba,33611 ,2,"Mambor Public School, Mambor ",President/Vice-President Runoff ,2005,Presidential,2,224,11,235,"JOHNSON-SIRLEAF, Ellen",UP,181,346
+Nimba,33611 ,2,"Mambor Public School, Mambor ",President/Vice-President Runoff ,2005,Presidential,2,224,11,235,"WEAH, George Manneh",CDC,43,346
+Nimba,33612 ,3,"Karn High Sch, Karnplay ",President/Vice-President Runoff ,2005,Presidential,2,214,6,220,"JOHNSON-SIRLEAF, Ellen",UP,136,517
+Nimba,33612 ,3,"Karn High Sch, Karnplay ",President/Vice-President Runoff ,2005,Presidential,2,214,6,220,"WEAH, George Manneh",CDC,78,517
+Nimba,33613 ,3,"Karnplay Market, Karnplay ",President/Vice-President Runoff ,2005,Presidential,2,201,1,202,"JOHNSON-SIRLEAF, Ellen",UP,140,442
+Nimba,33613 ,3,"Karnplay Market, Karnplay ",President/Vice-President Runoff ,2005,Presidential,2,201,1,202,"WEAH, George Manneh",CDC,61,442
+Nimba,33614 ,2,"City Mayor’s Office, Karnplay ",President/Vice-President Runoff ,2005,Presidential,2,271,7,278,"JOHNSON-SIRLEAF, Ellen",UP,186,529
+Nimba,33614 ,2,"City Mayor’s Office, Karnplay ",President/Vice-President Runoff ,2005,Presidential,2,271,7,278,"WEAH, George Manneh",CDC,85,529
+Nimba,33615 ,3,"Garplay Public School, Garplay ",President/Vice-President Runoff ,2005,Presidential,2,377,1,378,"JOHNSON-SIRLEAF, Ellen",UP,344,512
+Nimba,33615 ,3,"Garplay Public School, Garplay ",President/Vice-President Runoff ,2005,Presidential,2,377,1,378,"WEAH, George Manneh",CDC,33,512
+Nimba,33616 ,2,"Gow ee Public Sch, Zor Gow ee ",President/Vice-President Runoff ,2005,Presidential,2,294,4,298,"JOHNSON-SIRLEAF, Ellen",UP,178,528
+Nimba,33616 ,2,"Gow ee Public Sch, Zor Gow ee ",President/Vice-President Runoff ,2005,Presidential,2,294,4,298,"WEAH, George Manneh",CDC,116,528
+Nimba,33617 ,3,"Kpaiplay Public School, Kpairplay ",President/Vice-President Runoff ,2005,Presidential,2,240,6,246,"JOHNSON-SIRLEAF, Ellen",UP,157,563
+Nimba,33617 ,3,"Kpaiplay Public School, Kpairplay ",President/Vice-President Runoff ,2005,Presidential,2,240,6,246,"WEAH, George Manneh",CDC,83,563
+Nimba,33619 ,1,"Yola Public School, Beo Yola ",President/Vice-President Runoff ,2005,Presidential,2,182,5,187,"JOHNSON-SIRLEAF, Ellen",UP,157,449
+Nimba,33619 ,1,"Yola Public School, Beo Yola ",President/Vice-President Runoff ,2005,Presidential,2,182,5,187,"WEAH, George Manneh",CDC,25,449
+Nimba,33620 ,2,"Bongarplay Public School, Bongarplay ",President/Vice-President Runoff ,2005,Presidential,2,187,2,189,"JOHNSON-SIRLEAF, Ellen",UP,136,469
+Nimba,33620 ,2,"Bongarplay Public School, Bongarplay ",President/Vice-President Runoff ,2005,Presidential,2,187,2,189,"WEAH, George Manneh",CDC,51,469
+Nimba,33621 ,2,"Ganaglay Public School, Ganaglay ",President/Vice-President Runoff ,2005,Presidential,2,404,5,409,"JOHNSON-SIRLEAF, Ellen",UP,384,550
+Nimba,33621 ,2,"Ganaglay Public School, Ganaglay ",President/Vice-President Runoff ,2005,Presidential,2,404,5,409,"WEAH, George Manneh",CDC,20,550
+Nimba,33623 ,1,"Vonw ea Old Clinic, Gbeie Vonw ea ",President/Vice-President Runoff ,2005,Presidential,2,194,40,234,"JOHNSON-SIRLEAF, Ellen",UP,156,547
+Nimba,33623 ,1,"Vonw ea Old Clinic, Gbeie Vonw ea ",President/Vice-President Runoff ,2005,Presidential,2,194,40,234,"WEAH, George Manneh",CDC,38,547
+Nimba,33001 ,3,"Duayee Palava Hut, Duayee",President/Vice-President Runoff,2005,Presidential,2,214,0,214,"JOHNSON-SIRLEAF, Ellen",UP,189,536
+Nimba,33001 ,3,"Duayee Palava Hut, Duayee",President/Vice-President Runoff,2005,Presidential,2,214,0,214,"WEAH, George Manneh",CDC,25,536
+Nimba,33003 ,1,"Guahnw ein Palava Hut, Guahnw ein",President/Vice-President Runoff,2005,Presidential,2,360,8,368,"JOHNSON-SIRLEAF, Ellen",UP,345,379
+Nimba,33003 ,1,"Guahnw ein Palava Hut, Guahnw ein",President/Vice-President Runoff,2005,Presidential,2,360,8,368,"WEAH, George Manneh",CDC,15,379
+Nimba,33004 ,3,"Civil Compound, Saclepea",President/Vice-President Runoff,2005,Presidential,2,326,13,339,"JOHNSON-SIRLEAF, Ellen",UP,246,495
+Nimba,33004 ,3,"Civil Compound, Saclepea",President/Vice-President Runoff,2005,Presidential,2,326,13,339,"WEAH, George Manneh",CDC,80,495
+Nimba,33005 ,1,"S.d. Palava Hut, Saclepea",President/Vice-President Runoff,2005,Presidential,2,256,11,267,"JOHNSON-SIRLEAF, Ellen",UP,202,564
+Nimba,33005 ,1,"S.d. Palava Hut, Saclepea",President/Vice-President Runoff,2005,Presidential,2,256,11,267,"WEAH, George Manneh",CDC,54,564
+Nimba,33006 ,1,"Johnny Voker School, Saclepea",President/Vice-President Runoff,2005,Presidential,2,236,0,236,"JOHNSON-SIRLEAF, Ellen",UP,165,513
+Nimba,33006 ,1,"Johnny Voker School, Saclepea",President/Vice-President Runoff,2005,Presidential,2,236,0,236,"WEAH, George Manneh",CDC,71,513
+Nimba,33006 ,4,"Johnny Voker School, Saclepea",President/Vice-President Runoff,2005,Presidential,2,257,6,263,"JOHNSON-SIRLEAF, Ellen",UP,180,506
+Nimba,33006 ,4,"Johnny Voker School, Saclepea",President/Vice-President Runoff,2005,Presidential,2,257,6,263,"WEAH, George Manneh",CDC,77,506
+Nimba,33007 ,2,"Mehnpa Palava Hut, Mehnpa",President/Vice-President Runoff,2005,Presidential,2,191,6,197,"JOHNSON-SIRLEAF, Ellen",UP,138,379
+Nimba,33007 ,2,"Mehnpa Palava Hut, Mehnpa",President/Vice-President Runoff,2005,Presidential,2,191,6,197,"WEAH, George Manneh",CDC,53,379
+Nimba,33008 ,3,"Kpaytuo Public School, Kpaytuo",President/Vice-President Runoff,2005,Presidential,2,431,0,431,"JOHNSON-SIRLEAF, Ellen",UP,246,575
+Nimba,33008 ,3,"Kpaytuo Public School, Kpaytuo",President/Vice-President Runoff,2005,Presidential,2,431,0,431,"WEAH, George Manneh",CDC,185,575
+Nimba,33010 ,2,"Gbanquoi Public School, Nyasein New  Tow n",President/Vice-President Runoff,2005,Presidential,2,175,6,181,"JOHNSON-SIRLEAF, Ellen",UP,120,473
+Nimba,33010 ,2,"Gbanquoi Public School, Nyasein New  Tow n",President/Vice-President Runoff,2005,Presidential,2,175,6,181,"WEAH, George Manneh",CDC,55,473
+Nimba,33011 ,1,"Bahnla Palava Hut, Bahnla",President/Vice-President Runoff,2005,Presidential,2,158,14,172,"JOHNSON-SIRLEAF, Ellen",UP,80,412
+Nimba,33011 ,1,"Bahnla Palava Hut, Bahnla",President/Vice-President Runoff,2005,Presidential,2,158,14,172,"WEAH, George Manneh",CDC,78,412
+Nimba,33012 ,2,"Zahnboie Palava Hut, Zahnboie",President/Vice-President Runoff,2005,Presidential,2,132,1,133,"JOHNSON-SIRLEAF, Ellen",UP,114,315
+Nimba,33012 ,2,"Zahnboie Palava Hut, Zahnboie",President/Vice-President Runoff,2005,Presidential,2,132,1,133,"WEAH, George Manneh",CDC,18,315
+Nimba,33014 ,1,"Bainakplela Palava Hut, Bainakplela",President/Vice-President Runoff,2005,Presidential,2,148,4,152,"JOHNSON-SIRLEAF, Ellen",UP,108,436
+Nimba,33014 ,1,"Bainakplela Palava Hut, Bainakplela",President/Vice-President Runoff,2005,Presidential,2,148,4,152,"WEAH, George Manneh",CDC,40,436
+Nimba,33015 ,2,"Zao Palava Hut, Zao",President/Vice-President Runoff,2005,Presidential,2,249,6,255,"JOHNSON-SIRLEAF, Ellen",UP,33,505
+Nimba,33015 ,2,"Zao Palava Hut, Zao",President/Vice-President Runoff,2005,Presidential,2,249,6,255,"WEAH, George Manneh",CDC,216,505
+Nimba,33016 ,3,"Bunadin Public School, Bunadin",President/Vice-President Runoff,2005,Presidential,2,191,3,194,"JOHNSON-SIRLEAF, Ellen",UP,158,485
+Nimba,33016 ,3,"Bunadin Public School, Bunadin",President/Vice-President Runoff,2005,Presidential,2,191,3,194,"WEAH, George Manneh",CDC,33,485
+Nimba,33018 ,2,"Kpein Palava Hut, Kpein",President/Vice-President Runoff,2005,Presidential,2,243,11,254,"JOHNSON-SIRLEAF, Ellen",UP,167,546
+Nimba,33018 ,2,"Kpein Palava Hut, Kpein",President/Vice-President Runoff,2005,Presidential,2,243,11,254,"WEAH, George Manneh",CDC,76,546
+Nimba,33019 ,2,"Venpa Public School, Venpa",President/Vice-President Runoff,2005,Presidential,2,142,13,155,"JOHNSON-SIRLEAF, Ellen",UP,97,588
+Nimba,33019 ,2,"Venpa Public School, Venpa",President/Vice-President Runoff,2005,Presidential,2,142,13,155,"WEAH, George Manneh",CDC,45,588
+Nimba,33020 ,3,"Baipa Public School, Baipa",President/Vice-President Runoff,2005,Presidential,2,168,1,169,"JOHNSON-SIRLEAF, Ellen",UP,103,478
+Nimba,33020 ,3,"Baipa Public School, Baipa",President/Vice-President Runoff,2005,Presidential,2,168,1,169,"WEAH, George Manneh",CDC,65,478
+Nimba,33021 ,3,"Flumpa Palava Hut, Flumpa",President/Vice-President Runoff,2005,Presidential,2,185,5,190,"JOHNSON-SIRLEAF, Ellen",UP,142,600
+Nimba,33021 ,3,"Flumpa Palava Hut, Flumpa",President/Vice-President Runoff,2005,Presidential,2,185,5,190,"WEAH, George Manneh",CDC,43,600
+Nimba,33022 ,2,"Kpoapa Public School, Kpoapa",President/Vice-President Runoff,2005,Presidential,2,243,4,247,"JOHNSON-SIRLEAF, Ellen",UP,153,473
+Nimba,33022 ,2,"Kpoapa Public School, Kpoapa",President/Vice-President Runoff,2005,Presidential,2,243,4,247,"WEAH, George Manneh",CDC,90,473
+Nimba,33024 ,1,"Cocopa Camp 4 School Compound, Cocopa 1",President/Vice-President Runoff,2005,Presidential,2,297,4,301,"JOHNSON-SIRLEAF, Ellen",UP,258,563
+Nimba,33024 ,1,"Cocopa Camp 4 School Compound, Cocopa 1",President/Vice-President Runoff,2005,Presidential,2,297,4,301,"WEAH, George Manneh",CDC,39,563
+Nimba,33025 ,2,"Cocopa Camp 1 School Compound, Camp 6,7&8",President/Vice-President Runoff,2005,Presidential,2,177,9,186,"JOHNSON-SIRLEAF, Ellen",UP,133,452
+Nimba,33025 ,2,"Cocopa Camp 1 School Compound, Camp 6,7&8",President/Vice-President Runoff,2005,Presidential,2,177,9,186,"WEAH, George Manneh",CDC,44,452
+Nimba,33026 ,3,"Karnw ee Palava Hut, Karnw ee",President/Vice-President Runoff,2005,Presidential,2,168,14,182,"JOHNSON-SIRLEAF, Ellen",UP,127,486
+Nimba,33026 ,3,"Karnw ee Palava Hut, Karnw ee",President/Vice-President Runoff,2005,Presidential,2,168,14,182,"WEAH, George Manneh",CDC,41,486
+Nimba,33027 ,3,"Kpallah Palava Hut, Kpallah",President/Vice-President Runoff,2005,Presidential,2,194,6,200,"JOHNSON-SIRLEAF, Ellen",UP,149,559
+Nimba,33027 ,3,"Kpallah Palava Hut, Kpallah",President/Vice-President Runoff,2005,Presidential,2,194,6,200,"WEAH, George Manneh",CDC,45,559
+Nimba,33029 ,1,"Boe Bounglay Public School, Boe Bounglay",President/Vice-President Runoff,2005,Presidential,2,248,9,257,"JOHNSON-SIRLEAF, Ellen",UP,233,469
+Nimba,33029 ,1,"Boe Bounglay Public School, Boe Bounglay",President/Vice-President Runoff,2005,Presidential,2,248,9,257,"WEAH, George Manneh",CDC,15,469
+Nimba,33030 ,1,"Sarbugentuo Public School, Sarbugentuo",President/Vice-President Runoff,2005,Presidential,2,193,8,201,"JOHNSON-SIRLEAF, Ellen",UP,134,486
+Nimba,33030 ,1,"Sarbugentuo Public School, Sarbugentuo",President/Vice-President Runoff,2005,Presidential,2,193,8,201,"WEAH, George Manneh",CDC,59,486
+Nimba,33031 ,2,"Tow eh Tow n Palava Hut, Tow eh Tow n",President/Vice-President Runoff,2005,Presidential,2,195,5,200,"JOHNSON-SIRLEAF, Ellen",UP,140,496
+Nimba,33031 ,2,"Tow eh Tow n Palava Hut, Tow eh Tow n",President/Vice-President Runoff,2005,Presidential,2,195,5,200,"WEAH, George Manneh",CDC,55,496
+Nimba,33032 ,2,"Zuatuo Public School, Zuatuo",President/Vice-President Runoff,2005,Presidential,2,307,13,320,"JOHNSON-SIRLEAF, Ellen",UP,257,557
+Nimba,33032 ,2,"Zuatuo Public School, Zuatuo",President/Vice-President Runoff,2005,Presidential,2,307,13,320,"WEAH, George Manneh",CDC,50,557
+Nimba,33033 ,3,"Louplay Public School, Louplay",President/Vice-President Runoff,2005,Presidential,2,207,4,211,"JOHNSON-SIRLEAF, Ellen",UP,181,472
+Nimba,33033 ,3,"Louplay Public School, Louplay",President/Vice-President Runoff,2005,Presidential,2,207,4,211,"WEAH, George Manneh",CDC,26,472
+Nimba,33034 ,2,"Yourpea Old Tow n Public School, Yourpea Old Tow n",President/Vice-President Runoff,2005,Presidential,2,273,6,279,"JOHNSON-SIRLEAF, Ellen",UP,37,441
+Nimba,33034 ,2,"Yourpea Old Tow n Public School, Yourpea Old Tow n",President/Vice-President Runoff,2005,Presidential,2,273,6,279,"WEAH, George Manneh",CDC,236,441
+Nimba,33035 ,2,"Beatuo Public School, Beatuo",President/Vice-President Runoff,2005,Presidential,2,287,17,304,"JOHNSON-SIRLEAF, Ellen",UP,259,511
+Nimba,33035 ,2,"Beatuo Public School, Beatuo",President/Vice-President Runoff,2005,Presidential,2,287,17,304,"WEAH, George Manneh",CDC,28,511
+Nimba,33036 ,2,"Zodru Public School, Zodru",President/Vice-President Runoff,2005,Presidential,2,347,1,348,"JOHNSON-SIRLEAF, Ellen",UP,2,521
+Nimba,33036 ,2,"Zodru Public School, Zodru",President/Vice-President Runoff,2005,Presidential,2,347,1,348,"WEAH, George Manneh",CDC,345,521
+Nimba,33038 ,1,"Memorial High School, Tappita City",President/Vice-President Runoff,2005,Presidential,2,253,6,259,"JOHNSON-SIRLEAF, Ellen",UP,220,548
+Nimba,33038 ,1,"Memorial High School, Tappita City",President/Vice-President Runoff,2005,Presidential,2,253,6,259,"WEAH, George Manneh",CDC,33,548
+Nimba,33039 ,1,"Public Work Yard, Tappita City",President/Vice-President Runoff,2005,Presidential,2,228,11,239,"JOHNSON-SIRLEAF, Ellen",UP,198,495
+Nimba,33039 ,1,"Public Work Yard, Tappita City",President/Vice-President Runoff,2005,Presidential,2,228,11,239,"WEAH, George Manneh",CDC,30,495
+Nimba,33040 ,2,"Chief Compound, Tappita City",President/Vice-President Runoff,2005,Presidential,2,250,4,254,"JOHNSON-SIRLEAF, Ellen",UP,220,559
+Nimba,33040 ,2,"Chief Compound, Tappita City",President/Vice-President Runoff,2005,Presidential,2,250,4,254,"WEAH, George Manneh",CDC,30,559
+Nimba,33041 ,1,"Zeongehn Public School, Zeongehn",President/Vice-President Runoff,2005,Presidential,2,254,6,260,"JOHNSON-SIRLEAF, Ellen",UP,235,392
+Nimba,33041 ,1,"Zeongehn Public School, Zeongehn",President/Vice-President Runoff,2005,Presidential,2,254,6,260,"WEAH, George Manneh",CDC,19,392
+Nimba,33042 ,1,"Graie Palava Hut, Graie",President/Vice-President Runoff,2005,Presidential,2,587,10,597,"JOHNSON-SIRLEAF, Ellen",UP,529,605
+Nimba,33042 ,1,"Graie Palava Hut, Graie",President/Vice-President Runoff,2005,Presidential,2,587,10,597,"WEAH, George Manneh",CDC,58,605
+Nimba,33043 ,2,"Zoulay Civil Compound, Zoulay",President/Vice-President Runoff,2005,Presidential,2,366,0,366,"JOHNSON-SIRLEAF, Ellen",UP,358,430
+Nimba,33043 ,2,"Zoulay Civil Compound, Zoulay",President/Vice-President Runoff,2005,Presidential,2,366,0,366,"WEAH, George Manneh",CDC,8,430
+Nimba,33044 ,2,"Ziah Public School, Ziah ",President/Vice-President Runoff,2005,Presidential,2,214,0,214,"JOHNSON-SIRLEAF, Ellen",UP,205,419
+Nimba,33044 ,2,"Ziah Public School, Ziah ",President/Vice-President Runoff,2005,Presidential,2,214,0,214,"WEAH, George Manneh",CDC,9,419
+Nimba,33045 ,2,"Zuaplay Public School, Zuaplay",President/Vice-President Runoff,2005,Presidential,2,261,0,261,"JOHNSON-SIRLEAF, Ellen",UP,244,425
+Nimba,33045 ,2,"Zuaplay Public School, Zuaplay",President/Vice-President Runoff,2005,Presidential,2,261,0,261,"WEAH, George Manneh",CDC,17,425
+Nimba,33047 ,1,"Dialah Public School, Dialah",President/Vice-President Runoff,2005,Presidential,2,434,11,445,"JOHNSON-SIRLEAF, Ellen",UP,400,599
+Nimba,33047 ,1,"Dialah Public School, Dialah",President/Vice-President Runoff,2005,Presidential,2,434,11,445,"WEAH, George Manneh",CDC,34,599
+Nimba,33048 ,2,"Glahn Public School, Glahn Tow n",President/Vice-President Runoff,2005,Presidential,2,141,4,145,"JOHNSON-SIRLEAF, Ellen",UP,24,338
+Nimba,33048 ,2,"Glahn Public School, Glahn Tow n",President/Vice-President Runoff,2005,Presidential,2,141,4,145,"WEAH, George Manneh",CDC,117,338
+Nimba,33051 ,1,"Zeerun Tow n Public School, Zeerun Tow n",President/Vice-President Runoff,2005,Presidential,2,181,4,185,"JOHNSON-SIRLEAF, Ellen",UP,137,316
+Nimba,33051 ,1,"Zeerun Tow n Public School, Zeerun Tow n",President/Vice-President Runoff,2005,Presidential,2,181,4,185,"WEAH, George Manneh",CDC,44,316
+Nimba,33054 ,1,"Troyar Tow n Public School, Troyar Tow n",President/Vice-President Runoff,2005,Presidential,2,56,1,57,"JOHNSON-SIRLEAF, Ellen",UP,33,99
+Nimba,33054 ,1,"Troyar Tow n Public School, Troyar Tow n",President/Vice-President Runoff,2005,Presidential,2,56,1,57,"WEAH, George Manneh",CDC,23,99
+Nimba,33057 ,1,"Gbarplay Public School, Harabo Tow n",President/Vice-President Runoff,2005,Presidential,2,125,0,125,"JOHNSON-SIRLEAF, Ellen",UP,110,254
+Nimba,33057 ,1,"Gbarplay Public School, Harabo Tow n",President/Vice-President Runoff,2005,Presidential,2,125,0,125,"WEAH, George Manneh",CDC,15,254
+Nimba,33060 ,1,"Mehnla Tow n Palava Hut, Mehnla Tow n",President/Vice-President Runoff,2005,Presidential,2,247,17,264,"JOHNSON-SIRLEAF, Ellen",UP,232,498
+Nimba,33060 ,1,"Mehnla Tow n Palava Hut, Mehnla Tow n",President/Vice-President Runoff,2005,Presidential,2,247,17,264,"WEAH, George Manneh",CDC,15,498
+Nimba,33061 ,2,"Garnw ee Tow n Palava Hut, Garnw ee Tow n",President/Vice-President Runoff,2005,Presidential,2,139,3,142,"JOHNSON-SIRLEAF, Ellen",UP,77,393
+Nimba,33061 ,2,"Garnw ee Tow n Palava Hut, Garnw ee Tow n",President/Vice-President Runoff,2005,Presidential,2,139,3,142,"WEAH, George Manneh",CDC,62,393
+Nimba,33063 ,1,"Guotein Palava Hut, Guotein",President/Vice-President Runoff,2005,Presidential,2,321,3,324,"JOHNSON-SIRLEAF, Ellen",UP,290,425
+Nimba,33063 ,1,"Guotein Palava Hut, Guotein",President/Vice-President Runoff,2005,Presidential,2,321,3,324,"WEAH, George Manneh",CDC,31,425
+Nimba,33064 ,2,"Karyee Palava Hut, Karyee",President/Vice-President Runoff,2005,Presidential,2,183,0,183,"JOHNSON-SIRLEAF, Ellen",UP,120,294
+Nimba,33064 ,2,"Karyee Palava Hut, Karyee",President/Vice-President Runoff,2005,Presidential,2,183,0,183,"WEAH, George Manneh",CDC,63,294
+Nimba,33066 ,1,"Zekepa Palava Hut, Zekepa",President/Vice-President Runoff,2005,Presidential,2,219,4,223,"JOHNSON-SIRLEAF, Ellen",UP,167,479
+Nimba,33066 ,1,"Zekepa Palava Hut, Zekepa",President/Vice-President Runoff,2005,Presidential,2,219,4,223,"WEAH, George Manneh",CDC,52,479
+Nimba,33068 ,1,"Dahupa Palava Hut, Dahnopa",President/Vice-President Runoff,2005,Presidential,2,172,0,172,"JOHNSON-SIRLEAF, Ellen",UP,157,347
+Nimba,33068 ,1,"Dahupa Palava Hut, Dahnopa",President/Vice-President Runoff,2005,Presidential,2,172,0,172,"WEAH, George Manneh",CDC,15,347
+Nimba,33069 ,2,"Zahuzayee Palava Hut, Zahuzayee",President/Vice-President Runoff,2005,Presidential,2,263,0,263,"JOHNSON-SIRLEAF, Ellen",UP,238,496
+Nimba,33069 ,2,"Zahuzayee Palava Hut, Zahuzayee",President/Vice-President Runoff,2005,Presidential,2,263,0,263,"WEAH, George Manneh",CDC,25,496
+Nimba,33072 ,1,"Kw endin Palava Hut, Kw endin",President/Vice-President Runoff,2005,Presidential,2,252,9,261,"JOHNSON-SIRLEAF, Ellen",UP,214,542
+Nimba,33072 ,1,"Kw endin Palava Hut, Kw endin",President/Vice-President Runoff,2005,Presidential,2,252,9,261,"WEAH, George Manneh",CDC,38,542
+Nimba,33501 ,2,"Gbeleyee Public School, Gbeleyee",President/Vice-President Runoff,2005,Presidential,2,158,5,163,"JOHNSON-SIRLEAF, Ellen",UP,137,361
+Nimba,33501 ,2,"Gbeleyee Public School, Gbeleyee",President/Vice-President Runoff,2005,Presidential,2,158,5,163,"WEAH, George Manneh",CDC,21,361
+Nimba,33503 ,1,"New  Yekepa Public Sch, New  Yekepa",President/Vice-President Runoff,2005,Presidential,2,141,15,156,"JOHNSON-SIRLEAF, Ellen",UP,126,409
+Nimba,33503 ,1,"New  Yekepa Public Sch, New  Yekepa",President/Vice-President Runoff,2005,Presidential,2,141,15,156,"WEAH, George Manneh",CDC,15,409
+Nimba,33505 ,1,"Gbonnie Public School, Gbonnie",President/Vice-President Runoff,2005,Presidential,2,215,26,241,"JOHNSON-SIRLEAF, Ellen",UP,140,408
+Nimba,33505 ,1,"Gbonnie Public School, Gbonnie",President/Vice-President Runoff,2005,Presidential,2,215,26,241,"WEAH, George Manneh",CDC,75,408
+Nimba,33506 ,2,"Lugbeyee Public School, Lugbeyee",President/Vice-President Runoff,2005,Presidential,2,202,15,217,"JOHNSON-SIRLEAF, Ellen",UP,192,523
+Nimba,33506 ,2,"Lugbeyee Public School, Lugbeyee",President/Vice-President Runoff,2005,Presidential,2,202,15,217,"WEAH, George Manneh",CDC,10,523
+Nimba,33509 ,1,"Lass High School, Yekepa",President/Vice-President Runoff,2005,Presidential,2,174,0,174,"JOHNSON-SIRLEAF, Ellen",UP,115,431
+Nimba,33509 ,1,"Lass High School, Yekepa",President/Vice-President Runoff,2005,Presidential,2,174,0,174,"WEAH, George Manneh",CDC,59,431
+Nimba,33512 ,1,"Area “c” School, Yekepa",President/Vice-President Runoff,2005,Presidential,2,285,6,291,"JOHNSON-SIRLEAF, Ellen",UP,209,569
+Nimba,33512 ,1,"Area “c” School, Yekepa",President/Vice-President Runoff,2005,Presidential,2,285,6,291,"WEAH, George Manneh",CDC,76,569
+Nimba,33513 ,2,"Gbarpa Public School, Gbarpa",President/Vice-President Runoff,2005,Presidential,2,317,4,321,"JOHNSON-SIRLEAF, Ellen",UP,264,574
+Nimba,33513 ,2,"Gbarpa Public School, Gbarpa",President/Vice-President Runoff,2005,Presidential,2,317,4,321,"WEAH, George Manneh",CDC,53,574
+Nimba,33515 ,1,"Palava Hut, Suakazu",President/Vice-President Runoff,2005,Presidential,2,100,9,109,"JOHNSON-SIRLEAF, Ellen",UP,79,202
+Nimba,33515 ,1,"Palava Hut, Suakazu",President/Vice-President Runoff,2005,Presidential,2,100,9,109,"WEAH, George Manneh",CDC,21,202
+Nimba,33517 ,1,"Davoryee Public School, Davoryee",President/Vice-President Runoff,2005,Presidential,2,297,3,300,"JOHNSON-SIRLEAF, Ellen",UP,288,506
+Nimba,33517 ,1,"Davoryee Public School, Davoryee",President/Vice-President Runoff,2005,Presidential,2,297,3,300,"WEAH, George Manneh",CDC,9,506
+Nimba,33519 ,1,"Kitomon Public School, Kitomon",President/Vice-President Runoff,2005,Presidential,2,162,3,165,"JOHNSON-SIRLEAF, Ellen",UP,130,397
+Nimba,33519 ,1,"Kitomon Public School, Kitomon",President/Vice-President Runoff,2005,Presidential,2,162,3,165,"WEAH, George Manneh",CDC,32,397
+Nimba,33521 ,2,"Zolow ee Community School, Zolow ee",President/Vice-President Runoff,2005,Presidential,2,219,0,219,"JOHNSON-SIRLEAF, Ellen",UP,201,348
+Nimba,33521 ,2,"Zolow ee Community School, Zolow ee",President/Vice-President Runoff,2005,Presidential,2,219,0,219,"WEAH, George Manneh",CDC,18,348
+Nimba,33522 ,3,"Martha Tubman Elem., Sanniquellie",President/Vice-President Runoff,2005,Presidential,2,250,10,260,"JOHNSON-SIRLEAF, Ellen",UP,206,504
+Nimba,33522 ,3,"Martha Tubman Elem., Sanniquellie",President/Vice-President Runoff,2005,Presidential,2,250,10,260,"WEAH, George Manneh",CDC,44,504
+Nimba,33524 ,2,"St. Mary's School , Sanniquellie",President/Vice-President Runoff,2005,Presidential,2,229,8,237,"JOHNSON-SIRLEAF, Ellen",UP,175,463
+Nimba,33524 ,2,"St. Mary's School , Sanniquellie",President/Vice-President Runoff,2005,Presidential,2,229,8,237,"WEAH, George Manneh",CDC,54,463
+Nimba,33525 ,1,"Administration Building, Sanniquellie",President/Vice-President Runoff,2005,Presidential,2,273,21,294,"JOHNSON-SIRLEAF, Ellen",UP,231,510
+Nimba,33525 ,1,"Administration Building, Sanniquellie",President/Vice-President Runoff,2005,Presidential,2,273,21,294,"WEAH, George Manneh",CDC,42,510
+Nimba,33525 ,4,"Administration Building, Sanniquellie",President/Vice-President Runoff,2005,Presidential,2,268,14,282,"JOHNSON-SIRLEAF, Ellen",UP,232,539
+Nimba,33525 ,4,"Administration Building, Sanniquellie",President/Vice-President Runoff,2005,Presidential,2,268,14,282,"WEAH, George Manneh",CDC,36,539
+Nimba,33528 ,2,"Kpayee Public School, Kpayee Lepula",President/Vice-President Runoff,2005,Presidential,2,162,1,163,"JOHNSON-SIRLEAF, Ellen",UP,120,313
+Nimba,33528 ,2,"Kpayee Public School, Kpayee Lepula",President/Vice-President Runoff,2005,Presidential,2,162,1,163,"WEAH, George Manneh",CDC,42,313
+Nimba,33530 ,1,"Paramount Chief Com., Tiayee",President/Vice-President Runoff,2005,Presidential,2,257,2,259,"JOHNSON-SIRLEAF, Ellen",UP,246,365
+Nimba,33530 ,1,"Paramount Chief Com., Tiayee",President/Vice-President Runoff,2005,Presidential,2,257,2,259,"WEAH, George Manneh",CDC,11,365
+Nimba,33531 ,2,"Duo-boe Public School, Duo-boe",President/Vice-President Runoff,2005,Presidential,2,145,0,145,"JOHNSON-SIRLEAF, Ellen",UP,120,414
+Nimba,33531 ,2,"Duo-boe Public School, Duo-boe",President/Vice-President Runoff,2005,Presidential,2,145,0,145,"WEAH, George Manneh",CDC,25,414
+Nimba,33533 ,1,"Boaplay Public School, Boaplay",President/Vice-President Runoff,2005,Presidential,2,306,6,312,"JOHNSON-SIRLEAF, Ellen",UP,259,500
+Nimba,33533 ,1,"Boaplay Public School, Boaplay",President/Vice-President Runoff,2005,Presidential,2,306,6,312,"WEAH, George Manneh",CDC,47,500
+Nimba,33535 ,1,"Flow in Public School, Flow in",President/Vice-President Runoff,2005,Presidential,2,264,2,266,"JOHNSON-SIRLEAF, Ellen",UP,256,341
+Nimba,33535 ,1,"Flow in Public School, Flow in",President/Vice-President Runoff,2005,Presidential,2,264,2,266,"WEAH, George Manneh",CDC,8,341
+Nimba,33537 ,1,"Tondin Public School, Tondin",President/Vice-President Runoff,2005,Presidential,2,232,19,251,"JOHNSON-SIRLEAF, Ellen",UP,180,485
+Nimba,33537 ,1,"Tondin Public School, Tondin",President/Vice-President Runoff,2005,Presidential,2,232,19,251,"WEAH, George Manneh",CDC,52,485
+Nimba,33539 ,2,"Public School, Busie",President/Vice-President Runoff,2005,Presidential,2,217,10,227,"JOHNSON-SIRLEAF, Ellen",UP,190,428
+Nimba,33539 ,2,"Public School, Busie",President/Vice-President Runoff,2005,Presidential,2,217,10,227,"WEAH, George Manneh",CDC,27,428
+Nimba,33542 ,1,"Palava Hut, Gbloryee",President/Vice-President Runoff,2005,Presidential,2,174,15,189,"JOHNSON-SIRLEAF, Ellen",UP,146,326
+Nimba,33542 ,1,"Palava Hut, Gbloryee",President/Vice-President Runoff,2005,Presidential,2,174,15,189,"WEAH, George Manneh",CDC,28,326
+Nimba,33545 ,1,"Gbiesella Public School, Gbiesella ",President/Vice-President Runoff,2005,Presidential,2,220,6,226,"JOHNSON-SIRLEAF, Ellen",UP,164,349
+Nimba,33545 ,1,"Gbiesella Public School, Gbiesella ",President/Vice-President Runoff,2005,Presidential,2,220,6,226,"WEAH, George Manneh",CDC,56,349
+Nimba,33547 ,1,"J.w . Pearlson High, Ganta",President/Vice-President Runoff,2005,Presidential,2,202,4,206,"JOHNSON-SIRLEAF, Ellen",UP,140,460
+Nimba,33547 ,1,"J.w . Pearlson High, Ganta",President/Vice-President Runoff,2005,Presidential,2,202,4,206,"WEAH, George Manneh",CDC,62,460
+Nimba,33547 ,4,"J.w . Pearlson High, Ganta",President/Vice-President Runoff,2005,Presidential,2,193,2,195,"JOHNSON-SIRLEAF, Ellen",UP,141,470
+Nimba,33547 ,4,"J.w . Pearlson High, Ganta",President/Vice-President Runoff,2005,Presidential,2,193,2,195,"WEAH, George Manneh",CDC,52,470
+Nimba,33549 ,1,"Christian Messiah Academy, Ganta",President/Vice-President Runoff,2005,Presidential,2,274,5,279,"JOHNSON-SIRLEAF, Ellen",UP,211,564
+Nimba,33549 ,1,"Christian Messiah Academy, Ganta",President/Vice-President Runoff,2005,Presidential,2,274,5,279,"WEAH, George Manneh",CDC,63,564
+Nimba,33550 ,1,"Harriet E. Parkinson Memorial Academy , Ganta",President/Vice-President Runoff,2005,Presidential,2,219,6,225,"JOHNSON-SIRLEAF, Ellen",UP,170,501
+Nimba,33550 ,1,"Harriet E. Parkinson Memorial Academy , Ganta",President/Vice-President Runoff,2005,Presidential,2,219,6,225,"WEAH, George Manneh",CDC,49,501
+Nimba,33550 ,4,"Harriet E. Parkinson Memorial Academy , Ganta",President/Vice-President Runoff,2005,Presidential,2,211,11,222,"JOHNSON-SIRLEAF, Ellen",UP,186,503
+Nimba,33550 ,4,"Harriet E. Parkinson Memorial Academy , Ganta",President/Vice-President Runoff,2005,Presidential,2,211,11,222,"WEAH, George Manneh",CDC,25,503
+Nimba,33551 ,3,"Ymca School, Ganta",President/Vice-President Runoff,2005,Presidential,2,209,8,217,"JOHNSON-SIRLEAF, Ellen",UP,146,429
+Nimba,33551 ,3,"Ymca School, Ganta",President/Vice-President Runoff,2005,Presidential,2,209,8,217,"WEAH, George Manneh",CDC,63,429
+Nimba,33552 ,3,"Hope Academy, Ganta",President/Vice-President Runoff,2005,Presidential,2,278,6,284,"JOHNSON-SIRLEAF, Ellen",UP,193,615
+Nimba,33552 ,3,"Hope Academy, Ganta",President/Vice-President Runoff,2005,Presidential,2,278,6,284,"WEAH, George Manneh",CDC,85,615
+Nimba,33553 ,3,"Tokay Hill, Ganta",President/Vice-President Runoff,2005,Presidential,2,270,2,272,"JOHNSON-SIRLEAF, Ellen",UP,175,557
+Nimba,33553 ,3,"Tokay Hill, Ganta",President/Vice-President Runoff,2005,Presidential,2,270,2,272,"WEAH, George Manneh",CDC,95,557
+Nimba,33554 ,2,"Ganta Old Market, Ganta",President/Vice-President Runoff,2005,Presidential,2,264,3,267,"JOHNSON-SIRLEAF, Ellen",UP,176,511
+Nimba,33554 ,2,"Ganta Old Market, Ganta",President/Vice-President Runoff,2005,Presidential,2,264,3,267,"WEAH, George Manneh",CDC,88,511
+Nimba,33554 ,5,"Ganta Old Market, Ganta",President/Vice-President Runoff,2005,Presidential,2,242,8,250,"JOHNSON-SIRLEAF, Ellen",UP,154,532
+Nimba,33554 ,5,"Ganta Old Market, Ganta",President/Vice-President Runoff,2005,Presidential,2,242,8,250,"WEAH, George Manneh",CDC,88,532
+Nimba,33555 ,3,"Lprc Compound, Ganta",President/Vice-President Runoff,2005,Presidential,2,197,10,207,"JOHNSON-SIRLEAF, Ellen",UP,165,487
+Nimba,33555 ,3,"Lprc Compound, Ganta",President/Vice-President Runoff,2005,Presidential,2,197,10,207,"WEAH, George Manneh",CDC,32,487
+Nimba,33556 ,3,"George Toe Washington Sch., Ganta",President/Vice-President Runoff,2005,Presidential,2,210,4,214,"JOHNSON-SIRLEAF, Ellen",UP,124,469
+Nimba,33556 ,3,"George Toe Washington Sch., Ganta",President/Vice-President Runoff,2005,Presidential,2,210,4,214,"WEAH, George Manneh",CDC,86,469
+Nimba,33557 ,2,"George Dunbar School, Neingbeie",President/Vice-President Runoff,2005,Presidential,2,307,8,315,"JOHNSON-SIRLEAF, Ellen",UP,279,431
+Nimba,33557 ,2,"George Dunbar School, Neingbeie",President/Vice-President Runoff,2005,Presidential,2,307,8,315,"WEAH, George Manneh",CDC,28,431
+Nimba,33558 ,2,"Gbaydin Public School, Gbaydin",President/Vice-President Runoff,2005,Presidential,2,238,4,242,"JOHNSON-SIRLEAF, Ellen",UP,199,524
+Nimba,33558 ,2,"Gbaydin Public School, Gbaydin",President/Vice-President Runoff,2005,Presidential,2,238,4,242,"WEAH, George Manneh",CDC,39,524
+Nimba,33560 ,1,"Sda School, Zontuo",President/Vice-President Runoff,2005,Presidential,2,255,10,265,"JOHNSON-SIRLEAF, Ellen",UP,222,523
+Nimba,33560 ,1,"Sda School, Zontuo",President/Vice-President Runoff,2005,Presidential,2,255,10,265,"WEAH, George Manneh",CDC,33,523
+Nimba,33561 ,2,"Behyipea Public School, Behyipea",President/Vice-President Runoff,2005,Presidential,2,224,5,229,"JOHNSON-SIRLEAF, Ellen",UP,180,403
+Nimba,33561 ,2,"Behyipea Public School, Behyipea",President/Vice-President Runoff,2005,Presidential,2,224,5,229,"WEAH, George Manneh",CDC,44,403
+Nimba,33563 ,1,"Palava Hut, Quogorplay",President/Vice-President Runoff,2005,Presidential,2,134,1,135,"JOHNSON-SIRLEAF, Ellen",UP,116,356
+Nimba,33563 ,1,"Palava Hut, Quogorplay",President/Vice-President Runoff,2005,Presidential,2,134,1,135,"WEAH, George Manneh",CDC,18,356
+Nimba,33565 ,2,"Siaplay Public School, Siaplay",President/Vice-President Runoff,2005,Presidential,2,177,13,190,"JOHNSON-SIRLEAF, Ellen",UP,164,284
+Nimba,33565 ,2,"Siaplay Public School, Siaplay",President/Vice-President Runoff,2005,Presidential,2,177,13,190,"WEAH, George Manneh",CDC,13,284
+Nimba,33567 ,1,"Bahn High School, Bahn",President/Vice-President Runoff,2005,Presidential,2,164,12,176,"JOHNSON-SIRLEAF, Ellen",UP,129,539
+Nimba,33567 ,1,"Bahn High School, Bahn",President/Vice-President Runoff,2005,Presidential,2,164,12,176,"WEAH, George Manneh",CDC,35,539
+Nimba,33568 ,1,"Karyea Compound, Bahn",President/Vice-President Runoff,2005,Presidential,2,247,18,265,"JOHNSON-SIRLEAF, Ellen",UP,214,537
+Nimba,33568 ,1,"Karyea Compound, Bahn",President/Vice-President Runoff,2005,Presidential,2,247,18,265,"WEAH, George Manneh",CDC,33,537
+Nimba,33569 ,1,"Tuazama’s Compound, Bahn",President/Vice-President Runoff,2005,Presidential,2,296,5,301,"JOHNSON-SIRLEAF, Ellen",UP,269,452
+Nimba,33569 ,1,"Tuazama’s Compound, Bahn",President/Vice-President Runoff,2005,Presidential,2,296,5,301,"WEAH, George Manneh",CDC,27,452
+Nimba,33570 ,1,"Gblah Public School, Gblah",President/Vice-President Runoff,2005,Presidential,2,215,2,217,"JOHNSON-SIRLEAF, Ellen",UP,185,430
+Nimba,33570 ,1,"Gblah Public School, Gblah",President/Vice-President Runoff,2005,Presidential,2,215,2,217,"WEAH, George Manneh",CDC,30,430
+Nimba,33571 ,1,"Rhekpeblay Public School, Rhekpehlay",President/Vice-President Runoff,2005,Presidential,2,204,3,207,"JOHNSON-SIRLEAF, Ellen",UP,172,461
+Nimba,33571 ,1,"Rhekpeblay Public School, Rhekpehlay",President/Vice-President Runoff,2005,Presidential,2,204,3,207,"WEAH, George Manneh",CDC,32,461
+Nimba,33572 ,2,"Zayglay Public Sch, Zayglay",President/Vice-President Runoff,2005,Presidential,2,226,2,228,"JOHNSON-SIRLEAF, Ellen",UP,202,345
+Nimba,33572 ,2,"Zayglay Public Sch, Zayglay",President/Vice-President Runoff,2005,Presidential,2,226,2,228,"WEAH, George Manneh",CDC,24,345
+Nimba,33574 ,1,"Fiaplay Public School, Fiaplay",President/Vice-President Runoff,2005,Presidential,2,301,6,307,"JOHNSON-SIRLEAF, Ellen",UP,284,554
+Nimba,33574 ,1,"Fiaplay Public School, Fiaplay",President/Vice-President Runoff,2005,Presidential,2,301,6,307,"WEAH, George Manneh",CDC,17,554
+Nimba,33576 ,2,"Kpaglay Public Sch, Kpaglay",President/Vice-President Runoff,2005,Presidential,2,245,14,259,"JOHNSON-SIRLEAF, Ellen",UP,164,520
+Nimba,33576 ,2,"Kpaglay Public Sch, Kpaglay",President/Vice-President Runoff,2005,Presidential,2,245,14,259,"WEAH, George Manneh",CDC,81,520
+Nimba,33578 ,1,"Sangarplay Public Sch., Sangarplay",President/Vice-President Runoff,2005,Presidential,2,152,4,156,"JOHNSON-SIRLEAF, Ellen",UP,148,218
+Nimba,33578 ,1,"Sangarplay Public Sch., Sangarplay",President/Vice-President Runoff,2005,Presidential,2,152,4,156,"WEAH, George Manneh",CDC,4,218
+Nimba,33581 ,1,"Wehplay Public School, Wehplay",President/Vice-President Runoff,2005,Presidential,2,358,5,363,"JOHNSON-SIRLEAF, Ellen",UP,326,592
+Nimba,33581 ,1,"Wehplay Public School, Wehplay",President/Vice-President Runoff,2005,Presidential,2,358,5,363,"WEAH, George Manneh",CDC,32,592
+Nimba,33582 ,3,"Dinplay Public School, Dinplay",President/Vice-President Runoff,2005,Presidential,2,250,0,250,"JOHNSON-SIRLEAF, Ellen",UP,221,404
+Nimba,33582 ,3,"Dinplay Public School, Dinplay",President/Vice-President Runoff,2005,Presidential,2,250,0,250,"WEAH, George Manneh",CDC,29,404
+Nimba,33584 ,1," Nyarlay Palava Hut, Nyarlay",President/Vice-President Runoff,2005,Presidential,2,407,11,418,"JOHNSON-SIRLEAF, Ellen",UP,402,474
+Nimba,33584 ,1," Nyarlay Palava Hut, Nyarlay",President/Vice-President Runoff,2005,Presidential,2,407,11,418,"WEAH, George Manneh",CDC,5,474
+Nimba,33585 ,2,"Mahnplay Palava Hut, Mahnplay",President/Vice-President Runoff,2005,Presidential,2,154,2,156,"JOHNSON-SIRLEAF, Ellen",UP,137,339
+Nimba,33585 ,2,"Mahnplay Palava Hut, Mahnplay",President/Vice-President Runoff,2005,Presidential,2,154,2,156,"WEAH, George Manneh",CDC,17,339
+Nimba,33587 ,1,"Diaplay Public Sch, Diaplay",President/Vice-President Runoff,2005,Presidential,2,235,4,239,"JOHNSON-SIRLEAF, Ellen",UP,175,443
+Nimba,33587 ,1,"Diaplay Public Sch, Diaplay",President/Vice-President Runoff,2005,Presidential,2,235,4,239,"WEAH, George Manneh",CDC,60,443
+Nimba,33588 ,1,"Nyor Buutuo Public School, Nyor Buutuo",President/Vice-President Runoff,2005,Presidential,2,201,8,209,"JOHNSON-SIRLEAF, Ellen",UP,143,424
+Nimba,33588 ,1,"Nyor Buutuo Public School, Nyor Buutuo",President/Vice-President Runoff,2005,Presidential,2,201,8,209,"WEAH, George Manneh",CDC,58,424
+Nimba,33589 ,1,"Glarlay Public Sch, Glarlay",President/Vice-President Runoff,2005,Presidential,2,259,2,261,"JOHNSON-SIRLEAF, Ellen",UP,229,456
+Nimba,33589 ,1,"Glarlay Public Sch, Glarlay",President/Vice-President Runoff,2005,Presidential,2,259,2,261,"WEAH, George Manneh",CDC,30,456
+Nimba,33590 ,1,"Yao Tiaplay Palava Hut, Yao Tiaplay Tow n",President/Vice-President Runoff,2005,Presidential,2,206,5,211,"JOHNSON-SIRLEAF, Ellen",UP,158,421
+Nimba,33590 ,1,"Yao Tiaplay Palava Hut, Yao Tiaplay Tow n",President/Vice-President Runoff,2005,Presidential,2,206,5,211,"WEAH, George Manneh",CDC,48,421
+Nimba,33591 ,2,"Beeplay Public Sch, Beeplay",President/Vice-President Runoff,2005,Presidential,2,170,5,175,"JOHNSON-SIRLEAF, Ellen",UP,142,574
+Nimba,33591 ,2,"Beeplay Public Sch, Beeplay",President/Vice-President Runoff,2005,Presidential,2,170,5,175,"WEAH, George Manneh",CDC,28,574
+Nimba,33592 ,1,"Gbloulay Public Sch, Gbloulay",President/Vice-President Runoff,2005,Presidential,2,254,0,254,"JOHNSON-SIRLEAF, Ellen",UP,242,485
+Nimba,33592 ,1,"Gbloulay Public Sch, Gbloulay",President/Vice-President Runoff,2005,Presidential,2,254,0,254,"WEAH, George Manneh",CDC,12,485
+Nimba,33592 ,4,"Gbloulay Public Sch, Gbloulay",President/Vice-President Runoff,2005,Presidential,2,237,7,244,"JOHNSON-SIRLEAF, Ellen",UP,221,479
+Nimba,33592 ,4,"Gbloulay Public Sch, Gbloulay",President/Vice-President Runoff,2005,Presidential,2,237,7,244,"WEAH, George Manneh",CDC,16,479
+Nimba,33593 ,3,"Presidential Building, Butuo",President/Vice-President Runoff,2005,Presidential,2,245,4,249,"JOHNSON-SIRLEAF, Ellen",UP,126,548
+Nimba,33593 ,3,"Presidential Building, Butuo",President/Vice-President Runoff,2005,Presidential,2,245,4,249,"WEAH, George Manneh",CDC,119,548
+Nimba,33594 ,2,"Lepula Public Sch, Zor Lepula",President/Vice-President Runoff,2005,Presidential,2,155,5,160,"JOHNSON-SIRLEAF, Ellen",UP,131,355
+Nimba,33594 ,2,"Lepula Public Sch, Zor Lepula",President/Vice-President Runoff,2005,Presidential,2,155,5,160,"WEAH, George Manneh",CDC,24,355
+Nimba,33596 ,2,"Zualay Public School, Zualay",President/Vice-President Runoff,2005,Presidential,2,207,7,214,"JOHNSON-SIRLEAF, Ellen",UP,83,377
+Nimba,33596 ,2,"Zualay Public School, Zualay",President/Vice-President Runoff,2005,Presidential,2,207,7,214,"WEAH, George Manneh",CDC,124,377
+Nimba,33598 ,2,"Goagortuo Public Sch, Goagortuo",President/Vice-President Runoff,2005,Presidential,2,201,3,204,"JOHNSON-SIRLEAF, Ellen",UP,78,349
+Nimba,33598 ,2,"Goagortuo Public Sch, Goagortuo",President/Vice-President Runoff,2005,Presidential,2,201,3,204,"WEAH, George Manneh",CDC,123,349
+Nimba,33601 ,1,"Younlay Public Sch, Younlay",President/Vice-President Runoff,2005,Presidential,2,239,21,260,"JOHNSON-SIRLEAF, Ellen",UP,121,413
+Nimba,33601 ,1,"Younlay Public Sch, Younlay",President/Vice-President Runoff,2005,Presidential,2,239,21,260,"WEAH, George Manneh",CDC,118,413
+Nimba,33602 ,2,"Larpea # 1 Public Sch, Larpea # 1",President/Vice-President Runoff,2005,Presidential,2,354,3,357,"JOHNSON-SIRLEAF, Ellen",UP,247,506
+Nimba,33602 ,2,"Larpea # 1 Public Sch, Larpea # 1",President/Vice-President Runoff,2005,Presidential,2,354,3,357,"WEAH, George Manneh",CDC,107,506
+Nimba,33604 ,1,"Custom Public Sch., Custom",President/Vice-President Runoff,2005,Presidential,2,182,6,188,"JOHNSON-SIRLEAF, Ellen",UP,94,411
+Nimba,33604 ,1,"Custom Public Sch., Custom",President/Vice-President Runoff,2005,Presidential,2,182,6,188,"WEAH, George Manneh",CDC,88,411
+Nimba,33605 ,1,"Kenlay Public Sch, Kenlay",President/Vice-President Runoff,2005,Presidential,2,225,5,230,"JOHNSON-SIRLEAF, Ellen",UP,134,529
+Nimba,33605 ,1,"Kenlay Public Sch, Kenlay",President/Vice-President Runoff,2005,Presidential,2,225,5,230,"WEAH, George Manneh",CDC,91,529
+Nimba,33606 ,2,"Senlay Public Sch, Senlay",President/Vice-President Runoff,2005,Presidential,2,176,11,187,"JOHNSON-SIRLEAF, Ellen",UP,143,449
+Nimba,33606 ,2,"Senlay Public Sch, Senlay",President/Vice-President Runoff,2005,Presidential,2,176,11,187,"WEAH, George Manneh",CDC,33,449
+Nimba,33607 ,2,"Vanyenglay Public Sch, Vanyenglay",President/Vice-President Runoff,2005,Presidential,2,252,13,265,"JOHNSON-SIRLEAF, Ellen",UP,177,482
+Nimba,33607 ,2,"Vanyenglay Public Sch, Vanyenglay",President/Vice-President Runoff,2005,Presidential,2,252,13,265,"WEAH, George Manneh",CDC,75,482
+Nimba,33609 ,1,"Mah Display Publicschool, Mah-diapay",President/Vice-President Runoff,2005,Presidential,2,228,33,261,"JOHNSON-SIRLEAF, Ellen",UP,157,445
+Nimba,33609 ,1,"Mah Display Publicschool, Mah-diapay",President/Vice-President Runoff,2005,Presidential,2,228,33,261,"WEAH, George Manneh",CDC,71,445
+Nimba,33610 ,2,"Behplay Public Sch, Behplay",President/Vice-President Runoff,2005,Presidential,2,282,16,298,"JOHNSON-SIRLEAF, Ellen",UP,109,510
+Nimba,33610 ,2,"Behplay Public Sch, Behplay",President/Vice-President Runoff,2005,Presidential,2,282,16,298,"WEAH, George Manneh",CDC,173,510
+Nimba,33612 ,1,"Karn High Sch, Karnplay",President/Vice-President Runoff,2005,Presidential,2,223,2,225,"JOHNSON-SIRLEAF, Ellen",UP,140,471
+Nimba,33612 ,1,"Karn High Sch, Karnplay",President/Vice-President Runoff,2005,Presidential,2,223,2,225,"WEAH, George Manneh",CDC,83,471
+Nimba,33613 ,1,"Karnplay Market, Karnplay",President/Vice-President Runoff,2005,Presidential,2,225,4,229,"JOHNSON-SIRLEAF, Ellen",UP,166,487
+Nimba,33613 ,1,"Karnplay Market, Karnplay",President/Vice-President Runoff,2005,Presidential,2,225,4,229,"WEAH, George Manneh",CDC,59,487
+Nimba,33613 ,4,"Karnplay Market, Karnplay",President/Vice-President Runoff,2005,Presidential,2,200,4,204,"JOHNSON-SIRLEAF, Ellen",UP,151,467
+Nimba,33613 ,4,"Karnplay Market, Karnplay",President/Vice-President Runoff,2005,Presidential,2,200,4,204,"WEAH, George Manneh",CDC,49,467
+Nimba,33615 ,1,"Garplay Public School, Garplay",President/Vice-President Runoff,2005,Presidential,2,321,2,323,"JOHNSON-SIRLEAF, Ellen",UP,301,522
+Nimba,33615 ,1,"Garplay Public School, Garplay",President/Vice-President Runoff,2005,Presidential,2,321,2,323,"WEAH, George Manneh",CDC,20,522
+Nimba,33615 ,4,"Garplay Public School, Garplay",President/Vice-President Runoff,2005,Presidential,2,242,3,245,"JOHNSON-SIRLEAF, Ellen",UP,207,510
+Nimba,33615 ,4,"Garplay Public School, Garplay",President/Vice-President Runoff,2005,Presidential,2,242,3,245,"WEAH, George Manneh",CDC,35,510
+Nimba,33617 ,1,"Kpaiplay Public School, Kpairplay",President/Vice-President Runoff,2005,Presidential,2,240,6,246,"JOHNSON-SIRLEAF, Ellen",UP,170,574
+Nimba,33617 ,1,"Kpaiplay Public School, Kpairplay",President/Vice-President Runoff,2005,Presidential,2,240,6,246,"WEAH, George Manneh",CDC,70,574
+Nimba,33618 ,1,"Gborplay Public School, Gborplay",President/Vice-President Runoff,2005,Presidential,2,146,4,150,"JOHNSON-SIRLEAF, Ellen",UP,119,402
+Nimba,33618 ,1,"Gborplay Public School, Gborplay",President/Vice-President Runoff,2005,Presidential,2,146,4,150,"WEAH, George Manneh",CDC,27,402
+Nimba,33619 ,2,"Yola Public School, Beo Yola",President/Vice-President Runoff,2005,Presidential,2,204,6,210,"JOHNSON-SIRLEAF, Ellen",UP,174,467
+Nimba,33619 ,2,"Yola Public School, Beo Yola",President/Vice-President Runoff,2005,Presidential,2,204,6,210,"WEAH, George Manneh",CDC,30,467
+Nimba,33620 ,3,"Bongarplay Public School, Bongarplay",President/Vice-President Runoff,2005,Presidential,2,161,6,167,"JOHNSON-SIRLEAF, Ellen",UP,126,443
+Nimba,33620 ,3,"Bongarplay Public School, Bongarplay",President/Vice-President Runoff,2005,Presidential,2,161,6,167,"WEAH, George Manneh",CDC,35,443
+Nimba,33622 ,1,"Bleemieplay Public School, Bleemieplay",President/Vice-President Runoff,2005,Presidential,2,252,2,254,"JOHNSON-SIRLEAF, Ellen",UP,222,557
+Nimba,33622 ,1,"Bleemieplay Public School, Bleemieplay",President/Vice-President Runoff,2005,Presidential,2,252,2,254,"WEAH, George Manneh",CDC,30,557
+Nimba,33623 ,2,"Vonw ea Old Clinic, Gbeie Vonw ea",President/Vice-President Runoff,2005,Presidential,2,254,4,258,"JOHNSON-SIRLEAF, Ellen",UP,196,560
+Nimba,33623 ,2,"Vonw ea Old Clinic, Gbeie Vonw ea",President/Vice-President Runoff,2005,Presidential,2,254,4,258,"WEAH, George Manneh",CDC,58,560

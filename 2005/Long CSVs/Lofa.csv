@@ -1,0 +1,431 @@
+election_county,precinct,polling_place,address,election,election_year,election_type,election_round,valid_votes,invalid_votes,total_votes,candidate,cand_party,cand_votes,registered_voters
+Lofa,21001 ,1,"Gleh El & Jr High School, Ganglota ",President/Vice-President Runoff ,2005,Presidential,2,307,6,313,"JOHNSON-SIRLEAF, Ellen",UP,259,542
+Lofa,21001 ,1,"Gleh El & Jr High School, Ganglota ",President/Vice-President Runoff ,2005,Presidential,2,307,6,313,"WEAH, George Manneh",CDC,48,542
+Lofa,21004 ,1,"Gbongie Tow n Hall, Gbongie ",President/Vice-President Runoff ,2005,Presidential,2,143,9,152,"JOHNSON-SIRLEAF, Ellen",UP,94,228
+Lofa,21004 ,1,"Gbongie Tow n Hall, Gbongie ",President/Vice-President Runoff ,2005,Presidential,2,143,9,152,"WEAH, George Manneh",CDC,49,228
+Lofa,21007 ,1,"Kpayakole Tow n Hall, Kpayakole ",President/Vice-President Runoff ,2005,Presidential,2,172,6,178,"JOHNSON-SIRLEAF, Ellen",UP,124,286
+Lofa,21007 ,1,"Kpayakole Tow n Hall, Kpayakole ",President/Vice-President Runoff ,2005,Presidential,2,172,6,178,"WEAH, George Manneh",CDC,48,286
+Lofa,21009 ,1,"Telimu Tow n Hall , Telimu ",President/Vice-President Runoff ,2005,Presidential,2,164,2,166,"JOHNSON-SIRLEAF, Ellen",UP,109,280
+Lofa,21009 ,1,"Telimu Tow n Hall , Telimu ",President/Vice-President Runoff ,2005,Presidential,2,164,2,166,"WEAH, George Manneh",CDC,55,280
+Lofa,21010 ,3,"Salayea Public School, Salayea ",President/Vice-President Runoff ,2005,Presidential,2,273,11,284,"JOHNSON-SIRLEAF, Ellen",UP,192,570
+Lofa,21010 ,3,"Salayea Public School, Salayea ",President/Vice-President Runoff ,2005,Presidential,2,273,11,284,"WEAH, George Manneh",CDC,81,570
+Lofa,21012 ,2,"Yarpuah Public School , Yarpuah ",President/Vice-President Runoff ,2005,Presidential,2,212,4,216,"JOHNSON-SIRLEAF, Ellen",UP,202,380
+Lofa,21012 ,2,"Yarpuah Public School , Yarpuah ",President/Vice-President Runoff ,2005,Presidential,2,212,4,216,"WEAH, George Manneh",CDC,10,380
+Lofa,21014 ,1,"Gbanw ay Public School, Gbanw ay ",President/Vice-President Runoff ,2005,Presidential,2,240,8,248,"JOHNSON-SIRLEAF, Ellen",UP,230,385
+Lofa,21014 ,1,"Gbanw ay Public School, Gbanw ay ",President/Vice-President Runoff ,2005,Presidential,2,240,8,248,"WEAH, George Manneh",CDC,10,385
+Lofa,21016 ,1,"Guzal Public School, Zolow o ",President/Vice-President Runoff ,2005,Presidential,2,185,3,188,"JOHNSON-SIRLEAF, Ellen",UP,152,441
+Lofa,21016 ,1,"Guzal Public School, Zolow o ",President/Vice-President Runoff ,2005,Presidential,2,185,3,188,"WEAH, George Manneh",CDC,33,441
+Lofa,21017 ,1,"Guzal Public School 11, Zolow o ",President/Vice-President Runoff ,2005,Presidential,2,160,7,167,"JOHNSON-SIRLEAF, Ellen",UP,121,503
+Lofa,21017 ,1,"Guzal Public School 11, Zolow o ",President/Vice-President Runoff ,2005,Presidential,2,160,7,167,"WEAH, George Manneh",CDC,39,503
+Lofa,21019 ,2,"Zorzor Public School 11, Zorzor Tow n ",President/Vice-President Runoff ,2005,Presidential,2,189,15,204,"JOHNSON-SIRLEAF, Ellen",UP,137,533
+Lofa,21019 ,2,"Zorzor Public School 11, Zorzor Tow n ",President/Vice-President Runoff ,2005,Presidential,2,189,15,204,"WEAH, George Manneh",CDC,52,533
+Lofa,21020 ,3,"Zorzor Public School 1, Zorzor Tow n ",President/Vice-President Runoff ,2005,Presidential,2,217,7,224,"JOHNSON-SIRLEAF, Ellen",UP,145,531
+Lofa,21020 ,3,"Zorzor Public School 1, Zorzor Tow n ",President/Vice-President Runoff ,2005,Presidential,2,217,7,224,"WEAH, George Manneh",CDC,72,531
+Lofa,21022 ,1,"Yeala Public School, Yeala ",President/Vice-President Runoff ,2005,Presidential,2,262,8,270,"JOHNSON-SIRLEAF, Ellen",UP,214,456
+Lofa,21022 ,1,"Yeala Public School, Yeala ",President/Vice-President Runoff ,2005,Presidential,2,262,8,270,"WEAH, George Manneh",CDC,48,456
+Lofa,21023 ,2,"Fissebu Public School , Fissibu ",President/Vice-President Runoff ,2005,Presidential,2,245,4,249,"JOHNSON-SIRLEAF, Ellen",UP,211,460
+Lofa,21023 ,2,"Fissebu Public School , Fissibu ",President/Vice-President Runoff ,2005,Presidential,2,245,4,249,"WEAH, George Manneh",CDC,34,460
+Lofa,21024 ,1,"Borkeaza Public School, Borkeaza ",President/Vice-President Runoff ,2005,Presidential,2,320,2,322,"JOHNSON-SIRLEAF, Ellen",UP,294,498
+Lofa,21024 ,1,"Borkeaza Public School, Borkeaza ",President/Vice-President Runoff ,2005,Presidential,2,320,2,322,"WEAH, George Manneh",CDC,26,498
+Lofa,21025 ,1,"Zelamai Public School, Zelemai ",President/Vice-President Runoff ,2005,Presidential,2,309,17,326,"JOHNSON-SIRLEAF, Ellen",UP,240,581
+Lofa,21025 ,1,"Zelamai Public School, Zelemai ",President/Vice-President Runoff ,2005,Presidential,2,309,17,326,"WEAH, George Manneh",CDC,69,581
+Lofa,21027 ,2,"Garbo Public School 1, Konia ",President/Vice-President Runoff ,2005,Presidential,2,177,1,178,"JOHNSON-SIRLEAF, Ellen",UP,127,493
+Lofa,21027 ,2,"Garbo Public School 1, Konia ",President/Vice-President Runoff ,2005,Presidential,2,177,1,178,"WEAH, George Manneh",CDC,50,493
+Lofa,21030 ,1,"Ziggida Public School, Ziggida ",President/Vice-President Runoff ,2005,Presidential,2,260,10,270,"JOHNSON-SIRLEAF, Ellen",UP,170,392
+Lofa,21030 ,1,"Ziggida Public School, Ziggida ",President/Vice-President Runoff ,2005,Presidential,2,260,10,270,"WEAH, George Manneh",CDC,90,392
+Lofa,21032 ,1,"Woumai Public School, Woumai ",President/Vice-President Runoff ,2005,Presidential,2,155,20,175,"JOHNSON-SIRLEAF, Ellen",UP,86,344
+Lofa,21032 ,1,"Woumai Public School, Woumai ",President/Vice-President Runoff ,2005,Presidential,2,155,20,175,"WEAH, George Manneh",CDC,69,344
+Lofa,21034 ,1,"Barziw an Tow n Hall, Barziw an ",President/Vice-President Runoff ,2005,Presidential,2,238,12,250,"JOHNSON-SIRLEAF, Ellen",UP,185,397
+Lofa,21034 ,1,"Barziw an Tow n Hall, Barziw an ",President/Vice-President Runoff ,2005,Presidential,2,238,12,250,"WEAH, George Manneh",CDC,53,397
+Lofa,21037 ,1,"Kabata Tow n Hall, Kabata ",President/Vice-President Runoff ,2005,Presidential,2,44,1,45,"JOHNSON-SIRLEAF, Ellen",UP,18,66
+Lofa,21037 ,1,"Kabata Tow n Hall, Kabata ",President/Vice-President Runoff ,2005,Presidential,2,44,1,45,"WEAH, George Manneh",CDC,26,66
+Lofa,21040 ,1,"Gbalakpalazu Tow n Hall, Gbalakpalazu ",President/Vice-President Runoff ,2005,Presidential,2,92,4,96,"JOHNSON-SIRLEAF, Ellen",UP,75,177
+Lofa,21040 ,1,"Gbalakpalazu Tow n Hall, Gbalakpalazu ",President/Vice-President Runoff ,2005,Presidential,2,92,4,96,"WEAH, George Manneh",CDC,17,177
+Lofa,21043 ,1,"Wobanamai Tow n Hall, Wobanyamai ",President/Vice-President Runoff ,2005,Presidential,2,66,3,69,"JOHNSON-SIRLEAF, Ellen",UP,64,73
+Lofa,21043 ,1,"Wobanamai Tow n Hall, Wobanyamai ",President/Vice-President Runoff ,2005,Presidential,2,66,3,69,"WEAH, George Manneh",CDC,2,73
+Lofa,21046 ,1,"Biteba Tow n Hall, Biteba ",President/Vice-President Runoff ,2005,Presidential,2,58,0,58,"JOHNSON-SIRLEAF, Ellen",UP,11,77
+Lofa,21046 ,1,"Biteba Tow n Hall, Biteba ",President/Vice-President Runoff ,2005,Presidential,2,58,0,58,"WEAH, George Manneh",CDC,47,77
+Lofa,21049 ,1,"Tenebu Public School, Tenebu ",President/Vice-President Runoff ,2005,Presidential,2,168,10,178,"JOHNSON-SIRLEAF, Ellen",UP,110,386
+Lofa,21049 ,1,"Tenebu Public School, Tenebu ",President/Vice-President Runoff ,2005,Presidential,2,168,10,178,"WEAH, George Manneh",CDC,58,386
+Lofa,21051 ,2,"Voinjama F.p Mission School, Voinjama City ",President/Vice-President Runoff ,2005,Presidential,2,249,6,255,"JOHNSON-SIRLEAF, Ellen",UP,98,554
+Lofa,21051 ,2,"Voinjama F.p Mission School, Voinjama City ",President/Vice-President Runoff ,2005,Presidential,2,249,6,255,"WEAH, George Manneh",CDC,151,554
+Lofa,21052 ,2,"Voinjama Public School, Voinjama City ",President/Vice-President Runoff ,2005,Presidential,2,217,4,221,"JOHNSON-SIRLEAF, Ellen",UP,89,510
+Lofa,21052 ,2,"Voinjama Public School, Voinjama City ",President/Vice-President Runoff ,2005,Presidential,2,217,4,221,"WEAH, George Manneh",CDC,128,510
+Lofa,21053 ,1,"Voinjama Catholic School, Voinjama City ",President/Vice-President Runoff ,2005,Presidential,2,191,8,199,"JOHNSON-SIRLEAF, Ellen",UP,39,457
+Lofa,21053 ,1,"Voinjama Catholic School, Voinjama City ",President/Vice-President Runoff ,2005,Presidential,2,191,8,199,"WEAH, George Manneh",CDC,152,457
+Lofa,21053 ,4,"Voinjama Catholic School, Voinjama City ",President/Vice-President Runoff ,2005,Presidential,2,194,3,197,"JOHNSON-SIRLEAF, Ellen",UP,39,450
+Lofa,21053 ,4,"Voinjama Catholic School, Voinjama City ",President/Vice-President Runoff ,2005,Presidential,2,194,3,197,"WEAH, George Manneh",CDC,155,450
+Lofa,21054 ,3,"Voinjama Market Hall, Voinjama City ",President/Vice-President Runoff ,2005,Presidential,2,242,5,247,"JOHNSON-SIRLEAF, Ellen",UP,161,549
+Lofa,21054 ,3,"Voinjama Market Hall, Voinjama City ",President/Vice-President Runoff ,2005,Presidential,2,242,5,247,"WEAH, George Manneh",CDC,81,549
+Lofa,21054 ,6,"Voinjama Market Hall, Voinjama City ",President/Vice-President Runoff ,2005,Presidential,2,239,13,252,"JOHNSON-SIRLEAF, Ellen",UP,146,560
+Lofa,21054 ,6,"Voinjama Market Hall, Voinjama City ",President/Vice-President Runoff ,2005,Presidential,2,239,13,252,"WEAH, George Manneh",CDC,93,560
+Lofa,21055 ,3,"Bakiedou Public School, Bakiedou ",President/Vice-President Runoff ,2005,Presidential,2,305,9,314,"JOHNSON-SIRLEAF, Ellen",UP,13,489
+Lofa,21055 ,3,"Bakiedou Public School, Bakiedou ",President/Vice-President Runoff ,2005,Presidential,2,305,9,314,"WEAH, George Manneh",CDC,292,489
+Lofa,21057 ,2,"Kanela Tow n Hall, Kanela ",President/Vice-President Runoff ,2005,Presidential,2,101,2,103,"JOHNSON-SIRLEAF, Ellen",UP,15,381
+Lofa,21057 ,2,"Kanela Tow n Hall, Kanela ",President/Vice-President Runoff ,2005,Presidential,2,101,2,103,"WEAH, George Manneh",CDC,86,381
+Lofa,21059 ,1,"Kolela Tow n Hall, Kolela ",President/Vice-President Runoff ,2005,Presidential,2,152,0,152,"JOHNSON-SIRLEAF, Ellen",UP,9,435
+Lofa,21059 ,1,"Kolela Tow n Hall, Kolela ",President/Vice-President Runoff ,2005,Presidential,2,152,0,152,"WEAH, George Manneh",CDC,143,435
+Lofa,21060 ,1,"Marvekondo Tow n Hall, Marvekondo ",President/Vice-President Runoff ,2005,Presidential,2,222,7,229,"JOHNSON-SIRLEAF, Ellen",UP,51,400
+Lofa,21060 ,1,"Marvekondo Tow n Hall, Marvekondo ",President/Vice-President Runoff ,2005,Presidential,2,222,7,229,"WEAH, George Manneh",CDC,171,400
+Lofa,21061 ,2,"Kondadu Tow n Hall, Kondadu ",President/Vice-President Runoff ,2005,Presidential,2,110,7,117,"JOHNSON-SIRLEAF, Ellen",UP,36,558
+Lofa,21061 ,2,"Kondadu Tow n Hall, Kondadu ",President/Vice-President Runoff ,2005,Presidential,2,110,7,117,"WEAH, George Manneh",CDC,74,558
+Lofa,21062 ,1,"Sirmodu Tow n Hall, Sirmodu ",President/Vice-President Runoff ,2005,Presidential,2,193,7,200,"JOHNSON-SIRLEAF, Ellen",UP,40,314
+Lofa,21062 ,1,"Sirmodu Tow n Hall, Sirmodu ",President/Vice-President Runoff ,2005,Presidential,2,193,7,200,"WEAH, George Manneh",CDC,153,314
+Lofa,21064 ,2,"Sakomedu Public School, Sakomedu ",President/Vice-President Runoff ,2005,Presidential,2,194,8,202,"JOHNSON-SIRLEAF, Ellen",UP,42,535
+Lofa,21064 ,2,"Sakomedu Public School, Sakomedu ",President/Vice-President Runoff ,2005,Presidential,2,194,8,202,"WEAH, George Manneh",CDC,152,535
+Lofa,21065 ,1,"Kugbemai Tow n Hall , Kugbemai ",President/Vice-President Runoff ,2005,Presidential,2,225,13,238,"JOHNSON-SIRLEAF, Ellen",UP,66,416
+Lofa,21065 ,1,"Kugbemai Tow n Hall , Kugbemai ",President/Vice-President Runoff ,2005,Presidential,2,225,13,238,"WEAH, George Manneh",CDC,159,416
+Lofa,21067 ,2,"Law alazu Public School, Law alazu ",President/Vice-President Runoff ,2005,Presidential,2,239,17,256,"JOHNSON-SIRLEAF, Ellen",UP,191,577
+Lofa,21067 ,2,"Law alazu Public School, Law alazu ",President/Vice-President Runoff ,2005,Presidential,2,239,17,256,"WEAH, George Manneh",CDC,48,577
+Lofa,21069 ,1,"Yandizu Public School, Yandizu ",President/Vice-President Runoff ,2005,Presidential,2,216,2,218,"JOHNSON-SIRLEAF, Ellen",UP,114,346
+Lofa,21069 ,1,"Yandizu Public School, Yandizu ",President/Vice-President Runoff ,2005,Presidential,2,216,2,218,"WEAH, George Manneh",CDC,102,346
+Lofa,21072 ,1,"Kpakamai Public Hall, Kpakamai ",President/Vice-President Runoff ,2005,Presidential,2,91,6,97,"JOHNSON-SIRLEAF, Ellen",UP,65,395
+Lofa,21072 ,1,"Kpakamai Public Hall, Kpakamai ",President/Vice-President Runoff ,2005,Presidential,2,91,6,97,"WEAH, George Manneh",CDC,26,395
+Lofa,21074 ,1,"Vavamai Tow n Hall, Vavamai ",President/Vice-President Runoff ,2005,Presidential,2,69,1,70,"JOHNSON-SIRLEAF, Ellen",UP,50,93
+Lofa,21074 ,1,"Vavamai Tow n Hall, Vavamai ",President/Vice-President Runoff ,2005,Presidential,2,69,1,70,"WEAH, George Manneh",CDC,19,93
+Lofa,21077 ,1,"Jonny,s Tow n Public School, Johny Tow n ",President/Vice-President Runoff ,2005,Presidential,2,110,3,113,"JOHNSON-SIRLEAF, Ellen",UP,23,245
+Lofa,21077 ,1,"Jonny,s Tow n Public School, Johny Tow n ",President/Vice-President Runoff ,2005,Presidential,2,110,3,113,"WEAH, George Manneh",CDC,87,245
+Lofa,21079 ,1,"Taw alahun Tow n Hall, Taw alahun ",President/Vice-President Runoff ,2005,Presidential,2,144,6,150,"JOHNSON-SIRLEAF, Ellen",UP,11,190
+Lofa,21079 ,1,"Taw alahun Tow n Hall, Taw alahun ",President/Vice-President Runoff ,2005,Presidential,2,144,6,150,"WEAH, George Manneh",CDC,133,190
+Lofa,21082 ,1,"Taninahum Public School, Taninahum ",President/Vice-President Runoff ,2005,Presidential,2,235,0,235,"JOHNSON-SIRLEAF, Ellen",UP,102,404
+Lofa,21082 ,1,"Taninahum Public School, Taninahum ",President/Vice-President Runoff ,2005,Presidential,2,235,0,235,"WEAH, George Manneh",CDC,133,404
+Lofa,21083 ,3,"Kolahun El & Jr High School, Kolahun City ",President/Vice-President Runoff ,2005,Presidential,2,164,6,170,"JOHNSON-SIRLEAF, Ellen",UP,35,501
+Lofa,21083 ,3,"Kolahun El & Jr High School, Kolahun City ",President/Vice-President Runoff ,2005,Presidential,2,164,6,170,"WEAH, George Manneh",CDC,129,501
+Lofa,21084 ,3,"Kolahun El & Jr High School, Kolahun City ",President/Vice-President Runoff ,2005,Presidential,2,206,4,210,"JOHNSON-SIRLEAF, Ellen",UP,41,454
+Lofa,21084 ,3,"Kolahun El & Jr High School, Kolahun City ",President/Vice-President Runoff ,2005,Presidential,2,206,4,210,"WEAH, George Manneh",CDC,165,454
+Lofa,21086 ,2,"Kolahun El & Jr High School, Kolahun City ",President/Vice-President Runoff ,2005,Presidential,2,181,3,184,"JOHNSON-SIRLEAF, Ellen",UP,35,460
+Lofa,21086 ,2,"Kolahun El & Jr High School, Kolahun City ",President/Vice-President Runoff ,2005,Presidential,2,181,3,184,"WEAH, George Manneh",CDC,146,460
+Lofa,21088 ,1,"Sosomolahun Tow n Hall, Sosomolahun ",President/Vice-President Runoff ,2005,Presidential,2,151,1,152,"JOHNSON-SIRLEAF, Ellen",UP,4,221
+Lofa,21088 ,1,"Sosomolahun Tow n Hall, Sosomolahun ",President/Vice-President Runoff ,2005,Presidential,2,151,1,152,"WEAH, George Manneh",CDC,147,221
+Lofa,21090 ,1,"Polow u Tow n Hall, Polow u ",President/Vice-President Runoff ,2005,Presidential,2,335,10,345,"JOHNSON-SIRLEAF, Ellen",UP,138,497
+Lofa,21090 ,1,"Polow u Tow n Hall, Polow u ",President/Vice-President Runoff ,2005,Presidential,2,335,10,345,"WEAH, George Manneh",CDC,197,497
+Lofa,21093 ,1,"Bondow alahun Tow n Hall, Bondow alahun ",President/Vice-President Runoff ,2005,Presidential,2,125,6,131,"JOHNSON-SIRLEAF, Ellen",UP,17,250
+Lofa,21093 ,1,"Bondow alahun Tow n Hall, Bondow alahun ",President/Vice-President Runoff ,2005,Presidential,2,125,6,131,"WEAH, George Manneh",CDC,108,250
+Lofa,21095 ,1,"Kenyatahun Tow n Hall, Kenyatahun ",President/Vice-President Runoff ,2005,Presidential,2,153,7,160,"JOHNSON-SIRLEAF, Ellen",UP,10,263
+Lofa,21095 ,1,"Kenyatahun Tow n Hall, Kenyatahun ",President/Vice-President Runoff ,2005,Presidential,2,153,7,160,"WEAH, George Manneh",CDC,143,263
+Lofa,21098 ,1,"Yengema Tow n Hall, Yengema ",President/Vice-President Runoff ,2005,Presidential,2,284,3,287,"JOHNSON-SIRLEAF, Ellen",UP,108,348
+Lofa,21098 ,1,"Yengema Tow n Hall, Yengema ",President/Vice-President Runoff ,2005,Presidential,2,284,3,287,"WEAH, George Manneh",CDC,176,348
+Lofa,21101 ,1,"Lukasu Tow n Hall, Lukasu ",President/Vice-President Runoff ,2005,Presidential,2,270,1,271,"JOHNSON-SIRLEAF, Ellen",UP,208,496
+Lofa,21101 ,1,"Lukasu Tow n Hall, Lukasu ",President/Vice-President Runoff ,2005,Presidential,2,270,1,271,"WEAH, George Manneh",CDC,62,496
+Lofa,21104 ,1,"Konehun Tow n Hall, Konehun ",President/Vice-President Runoff ,2005,Presidential,2,15,3,18,"JOHNSON-SIRLEAF, Ellen",UP,3,136
+Lofa,21104 ,1,"Konehun Tow n Hall, Konehun ",President/Vice-President Runoff ,2005,Presidential,2,15,3,18,"WEAH, George Manneh",CDC,12,136
+Lofa,21106 ,1,"Gondolahun Tow n Hall, Gondolahun ",President/Vice-President Runoff ,2005,Presidential,2,300,7,307,"JOHNSON-SIRLEAF, Ellen",UP,129,460
+Lofa,21106 ,1,"Gondolahun Tow n Hall, Gondolahun ",President/Vice-President Runoff ,2005,Presidential,2,300,7,307,"WEAH, George Manneh",CDC,171,460
+Lofa,21109 ,1,"Kamatahun-taham Tow n Hall, Kamatahun-taham ",President/Vice-President Runoff ,2005,Presidential,2,205,5,210,"JOHNSON-SIRLEAF, Ellen",UP,15,333
+Lofa,21109 ,1,"Kamatahun-taham Tow n Hall, Kamatahun-taham ",President/Vice-President Runoff ,2005,Presidential,2,205,5,210,"WEAH, George Manneh",CDC,190,333
+Lofa,21112 ,1,"Kondebengo Tow n Hall, Kondebengo ",President/Vice-President Runoff ,2005,Presidential,2,263,24,287,"JOHNSON-SIRLEAF, Ellen",UP,256,414
+Lofa,21112 ,1,"Kondebengo Tow n Hall, Kondebengo ",President/Vice-President Runoff ,2005,Presidential,2,263,24,287,"WEAH, George Manneh",CDC,7,414
+Lofa,21113 ,3,"Foya Central High School, Foya City ",President/Vice-President Runoff ,2005,Presidential,2,284,0,284,"JOHNSON-SIRLEAF, Ellen",UP,270,552
+Lofa,21113 ,3,"Foya Central High School, Foya City ",President/Vice-President Runoff ,2005,Presidential,2,284,0,284,"WEAH, George Manneh",CDC,14,552
+Lofa,21113 ,6,"Foya Central High School, Foya City ",President/Vice-President Runoff ,2005,Presidential,2,348,13,361,"JOHNSON-SIRLEAF, Ellen",UP,327,571
+Lofa,21113 ,6,"Foya Central High School, Foya City ",President/Vice-President Runoff ,2005,Presidential,2,348,13,361,"WEAH, George Manneh",CDC,21,571
+Lofa,21114 ,1,"Foya Tow n Hall, Foya Kamara ",President/Vice-President Runoff ,2005,Presidential,2,170,3,173,"JOHNSON-SIRLEAF, Ellen",UP,155,341
+Lofa,21114 ,1,"Foya Tow n Hall, Foya Kamara ",President/Vice-President Runoff ,2005,Presidential,2,170,3,173,"WEAH, George Manneh",CDC,15,341
+Lofa,21116 ,1,"Tamba Taylor Public School, Shelloe ",President/Vice-President Runoff ,2005,Presidential,2,326,29,355,"JOHNSON-SIRLEAF, Ellen",UP,307,564
+Lofa,21116 ,1,"Tamba Taylor Public School, Shelloe ",President/Vice-President Runoff ,2005,Presidential,2,326,29,355,"WEAH, George Manneh",CDC,19,564
+Lofa,21118 ,1,"Ndemhuma Tow n Hall, Ndemhuma ",President/Vice-President Runoff ,2005,Presidential,2,249,9,258,"JOHNSON-SIRLEAF, Ellen",UP,234,375
+Lofa,21118 ,1,"Ndemhuma Tow n Hall, Ndemhuma ",President/Vice-President Runoff ,2005,Presidential,2,249,9,258,"WEAH, George Manneh",CDC,15,375
+Lofa,21121 ,1,"Kpondodu Tow n Hall, Kpondodu ",President/Vice-President Runoff ,2005,Presidential,2,231,42,273,"JOHNSON-SIRLEAF, Ellen",UP,214,391
+Lofa,21121 ,1,"Kpondodu Tow n Hall, Kpondodu ",President/Vice-President Runoff ,2005,Presidential,2,231,42,273,"WEAH, George Manneh",CDC,17,391
+Lofa,21123 ,1,"Tamalo Tow n, Tamalo Tow n ",President/Vice-President Runoff ,2005,Presidential,2,74,5,79,"JOHNSON-SIRLEAF, Ellen",UP,51,225
+Lofa,21123 ,1,"Tamalo Tow n, Tamalo Tow n ",President/Vice-President Runoff ,2005,Presidential,2,74,5,79,"WEAH, George Manneh",CDC,23,225
+Lofa,21125 ,2,"Porluma Tow n Hall, Porluma ",President/Vice-President Runoff ,2005,Presidential,2,191,31,222,"JOHNSON-SIRLEAF, Ellen",UP,148,434
+Lofa,21125 ,2,"Porluma Tow n Hall, Porluma ",President/Vice-President Runoff ,2005,Presidential,2,191,31,222,"WEAH, George Manneh",CDC,43,434
+Lofa,21128 ,1,"Mambo Tow n Hall, Mambo ",President/Vice-President Runoff ,2005,Presidential,2,494,11,505,"JOHNSON-SIRLEAF, Ellen",UP,489,527
+Lofa,21128 ,1,"Mambo Tow n Hall, Mambo ",President/Vice-President Runoff ,2005,Presidential,2,494,11,505,"WEAH, George Manneh",CDC,5,527
+Lofa,21130 ,2,"Foya Custom  Tow n Hall, Foya Customs ",President/Vice-President Runoff ,2005,Presidential,2,198,5,203,"JOHNSON-SIRLEAF, Ellen",UP,187,308
+Lofa,21130 ,2,"Foya Custom  Tow n Hall, Foya Customs ",President/Vice-President Runoff ,2005,Presidential,2,198,5,203,"WEAH, George Manneh",CDC,11,308
+Lofa,21131 ,3,"Vahun Public School, Vahun Tow n ",President/Vice-President Runoff ,2005,Presidential,2,491,2,493,"JOHNSON-SIRLEAF, Ellen",UP,181,499
+Lofa,21131 ,3,"Vahun Public School, Vahun Tow n ",President/Vice-President Runoff ,2005,Presidential,2,491,2,493,"WEAH, George Manneh",CDC,310,499
+Lofa,21133 ,1,"Bumbuma Public School, Bumbuma ",President/Vice-President Runoff ,2005,Presidential,2,202,6,208,"JOHNSON-SIRLEAF, Ellen",UP,145,307
+Lofa,21133 ,1,"Bumbuma Public School, Bumbuma ",President/Vice-President Runoff ,2005,Presidential,2,202,6,208,"WEAH, George Manneh",CDC,57,307
+Lofa,21135 ,1,"Mimorlahun Public School, Mimorlahum ",President/Vice-President Runoff ,2005,Presidential,2,105,1,106,"JOHNSON-SIRLEAF, Ellen",UP,24,310
+Lofa,21135 ,1,"Mimorlahun Public School, Mimorlahum ",President/Vice-President Runoff ,2005,Presidential,2,105,1,106,"WEAH, George Manneh",CDC,81,310
+Lofa,21137 ,2,"Folima Tow n Hall, Folima ",President/Vice-President Runoff ,2005,Presidential,2,342,13,355,"JOHNSON-SIRLEAF, Ellen",UP,203,572
+Lofa,21137 ,2,"Folima Tow n Hall, Folima ",President/Vice-President Runoff ,2005,Presidential,2,342,13,355,"WEAH, George Manneh",CDC,139,572
+Lofa,21002 ,1,"Beyanta Tow n Hall, Beyanta ",President/Vice-President Runoff ,2005,Presidential,2,247,5,252,"JOHNSON-SIRLEAF, Ellen",UP,189,475
+Lofa,21002 ,1,"Beyanta Tow n Hall, Beyanta ",President/Vice-President Runoff ,2005,Presidential,2,247,5,252,"WEAH, George Manneh",CDC,58,475
+Lofa,21005 ,1,"Gbakoita Tow n Hall, Gbakoita ",President/Vice-President Runoff ,2005,Presidential,2,32,1,33,"JOHNSON-SIRLEAF, Ellen",UP,10,48
+Lofa,21005 ,1,"Gbakoita Tow n Hall, Gbakoita ",President/Vice-President Runoff ,2005,Presidential,2,32,1,33,"WEAH, George Manneh",CDC,22,48
+Lofa,21008 ,1,"Gorlu Public School, Gorlu ",President/Vice-President Runoff ,2005,Presidential,2,297,11,308,"JOHNSON-SIRLEAF, Ellen",UP,262,495
+Lofa,21008 ,1,"Gorlu Public School, Gorlu ",President/Vice-President Runoff ,2005,Presidential,2,297,11,308,"WEAH, George Manneh",CDC,35,495
+Lofa,21010 ,1,"Salayea Public School, Salayea ",President/Vice-President Runoff ,2005,Presidential,2,289,9,298,"JOHNSON-SIRLEAF, Ellen",UP,186,587
+Lofa,21010 ,1,"Salayea Public School, Salayea ",President/Vice-President Runoff ,2005,Presidential,2,289,9,298,"WEAH, George Manneh",CDC,103,587
+Lofa,21011 ,1,"Tailmai Tow n Hall , Tailemai ",President/Vice-President Runoff ,2005,Presidential,2,235,2,237,"JOHNSON-SIRLEAF, Ellen",UP,213,425
+Lofa,21011 ,1,"Tailmai Tow n Hall , Tailemai ",President/Vice-President Runoff ,2005,Presidential,2,235,2,237,"WEAH, George Manneh",CDC,22,425
+Lofa,21013 ,1,"Kpeieyea Clinic , Kpeieyea ",President/Vice-President Runoff ,2005,Presidential,2,343,8,351,"JOHNSON-SIRLEAF, Ellen",UP,304,487
+Lofa,21013 ,1,"Kpeieyea Clinic , Kpeieyea ",President/Vice-President Runoff ,2005,Presidential,2,343,8,351,"WEAH, George Manneh",CDC,39,487
+Lofa,21015 ,1,"Public Building , Sucromu ",President/Vice-President Runoff ,2005,Presidential,2,324,7,331,"JOHNSON-SIRLEAF, Ellen",UP,288,510
+Lofa,21015 ,1,"Public Building , Sucromu ",President/Vice-President Runoff ,2005,Presidential,2,324,7,331,"WEAH, George Manneh",CDC,36,510
+Lofa,21016 ,2,"Guzal Public School, Zolow o ",President/Vice-President Runoff ,2005,Presidential,2,160,2,162,"JOHNSON-SIRLEAF, Ellen",UP,132,426
+Lofa,21016 ,2,"Guzal Public School, Zolow o ",President/Vice-President Runoff ,2005,Presidential,2,160,2,162,"WEAH, George Manneh",CDC,28,426
+Lofa,21018 ,1,"Fasaw alozu Tow n Hall, Fasaw alozu ",President/Vice-President Runoff ,2005,Presidential,2,163,0,163,"JOHNSON-SIRLEAF, Ellen",UP,122,248
+Lofa,21018 ,1,"Fasaw alozu Tow n Hall, Fasaw alozu ",President/Vice-President Runoff ,2005,Presidential,2,163,0,163,"WEAH, George Manneh",CDC,41,248
+Lofa,21020 ,1,"Zorzor Public School 1, Zorzor Tow n ",President/Vice-President Runoff ,2005,Presidential,2,219,12,231,"JOHNSON-SIRLEAF, Ellen",UP,142,563
+Lofa,21020 ,1,"Zorzor Public School 1, Zorzor Tow n ",President/Vice-President Runoff ,2005,Presidential,2,219,12,231,"WEAH, George Manneh",CDC,77,563
+Lofa,21020 ,4,"Zorzor Public School 1, Zorzor Tow n ",President/Vice-President Runoff ,2005,Presidential,2,198,6,204,"JOHNSON-SIRLEAF, Ellen",UP,130,524
+Lofa,21020 ,4,"Zorzor Public School 1, Zorzor Tow n ",President/Vice-President Runoff ,2005,Presidential,2,198,6,204,"WEAH, George Manneh",CDC,68,524
+Lofa,21022 ,2,"Yeala Public School, Yeala ",President/Vice-President Runoff ,2005,Presidential,2,228,14,242,"JOHNSON-SIRLEAF, Ellen",UP,199,446
+Lofa,21022 ,2,"Yeala Public School, Yeala ",President/Vice-President Runoff ,2005,Presidential,2,228,14,242,"WEAH, George Manneh",CDC,29,446
+Lofa,21023 ,3,"Fissebu Public School , Fissibu ",President/Vice-President Runoff ,2005,Presidential,2,245,10,255,"JOHNSON-SIRLEAF, Ellen",UP,204,471
+Lofa,21023 ,3,"Fissebu Public School , Fissibu ",President/Vice-President Runoff ,2005,Presidential,2,245,10,255,"WEAH, George Manneh",CDC,41,471
+Lofa,21024 ,2,"Borkeaza Public School, Borkeaza ",President/Vice-President Runoff ,2005,Presidential,2,307,15,322,"JOHNSON-SIRLEAF, Ellen",UP,266,494
+Lofa,21024 ,2,"Borkeaza Public School, Borkeaza ",President/Vice-President Runoff ,2005,Presidential,2,307,15,322,"WEAH, George Manneh",CDC,41,494
+Lofa,21026 ,1,"Zuw ulor Tow n Hall, Zuw ulor ",President/Vice-President Runoff ,2005,Presidential,2,216,4,220,"JOHNSON-SIRLEAF, Ellen",UP,195,378
+Lofa,21026 ,1,"Zuw ulor Tow n Hall, Zuw ulor ",President/Vice-President Runoff ,2005,Presidential,2,216,4,220,"WEAH, George Manneh",CDC,21,378
+Lofa,21028 ,1,"Bodah Tow n Hall, Bodah ",President/Vice-President Runoff ,2005,Presidential,2,95,0,95,"JOHNSON-SIRLEAF, Ellen",UP,66,237
+Lofa,21028 ,1,"Bodah Tow n Hall, Bodah ",President/Vice-President Runoff ,2005,Presidential,2,95,0,95,"WEAH, George Manneh",CDC,29,237
+Lofa,21030 ,2,"Ziggida Public School, Ziggida ",President/Vice-President Runoff ,2005,Presidential,2,250,10,260,"JOHNSON-SIRLEAF, Ellen",UP,163,366
+Lofa,21030 ,2,"Ziggida Public School, Ziggida ",President/Vice-President Runoff ,2005,Presidential,2,250,10,260,"WEAH, George Manneh",CDC,87,366
+Lofa,21032 ,2,"Woumai Public School, Woumai ",President/Vice-President Runoff ,2005,Presidential,2,178,14,192,"JOHNSON-SIRLEAF, Ellen",UP,94,389
+Lofa,21032 ,2,"Woumai Public School, Woumai ",President/Vice-President Runoff ,2005,Presidential,2,178,14,192,"WEAH, George Manneh",CDC,84,389
+Lofa,21035 ,1,"Wakesu Tow n Hall, Wakesu ",President/Vice-President Runoff ,2005,Presidential,2,295,10,305,"JOHNSON-SIRLEAF, Ellen",UP,252,364
+Lofa,21035 ,1,"Wakesu Tow n Hall, Wakesu ",President/Vice-President Runoff ,2005,Presidential,2,295,10,305,"WEAH, George Manneh",CDC,43,364
+Lofa,21038 ,1,"Barw ahn Tow n Hall, Barw ahn ",President/Vice-President Runoff ,2005,Presidential,2,96,2,98,"JOHNSON-SIRLEAF, Ellen",UP,39,121
+Lofa,21038 ,1,"Barw ahn Tow n Hall, Barw ahn ",President/Vice-President Runoff ,2005,Presidential,2,96,2,98,"WEAH, George Manneh",CDC,57,121
+Lofa,21041 ,1,"Jhon-public School, John-ta ",President/Vice-President Runoff ,2005,Presidential,2,246,5,251,"JOHNSON-SIRLEAF, Ellen",UP,191,581
+Lofa,21041 ,1,"Jhon-public School, John-ta ",President/Vice-President Runoff ,2005,Presidential,2,246,5,251,"WEAH, George Manneh",CDC,55,581
+Lofa,21044 ,1,"Kalasezia Tow n Hall, Kalasezia ",President/Vice-President Runoff ,2005,Presidential,2,47,0,47,"JOHNSON-SIRLEAF, Ellen",UP,44,60
+Lofa,21044 ,1,"Kalasezia Tow n Hall, Kalasezia ",President/Vice-President Runoff ,2005,Presidential,2,47,0,47,"WEAH, George Manneh",CDC,3,60
+Lofa,21047 ,1,"Lisco Tow n Hall, Lisco/alabama Camp ",President/Vice-President Runoff ,2005,Presidential,2,58,2,60,"JOHNSON-SIRLEAF, Ellen",UP,15,105
+Lofa,21047 ,1,"Lisco Tow n Hall, Lisco/alabama Camp ",President/Vice-President Runoff ,2005,Presidential,2,58,2,60,"WEAH, George Manneh",CDC,43,105
+Lofa,21050 ,1,"Dayzeba Tow n Hall, Dayzebah ",President/Vice-President Runoff ,2005,Presidential,2,75,4,79,"JOHNSON-SIRLEAF, Ellen",UP,37,186
+Lofa,21050 ,1,"Dayzeba Tow n Hall, Dayzebah ",President/Vice-President Runoff ,2005,Presidential,2,75,4,79,"WEAH, George Manneh",CDC,38,186
+Lofa,21051 ,3,"Voinjama F.p Mission School, Voinjama City ",President/Vice-President Runoff ,2005,Presidential,2,243,7,250,"JOHNSON-SIRLEAF, Ellen",UP,90,520
+Lofa,21051 ,3,"Voinjama F.p Mission School, Voinjama City ",President/Vice-President Runoff ,2005,Presidential,2,243,7,250,"WEAH, George Manneh",CDC,153,520
+Lofa,21052 ,3,"Voinjama Public School, Voinjama City ",President/Vice-President Runoff ,2005,Presidential,2,216,1,217,"JOHNSON-SIRLEAF, Ellen",UP,81,520
+Lofa,21052 ,3,"Voinjama Public School, Voinjama City ",President/Vice-President Runoff ,2005,Presidential,2,216,1,217,"WEAH, George Manneh",CDC,135,520
+Lofa,21053 ,2,"Voinjama Catholic School, Voinjama City ",President/Vice-President Runoff ,2005,Presidential,2,179,9,188,"JOHNSON-SIRLEAF, Ellen",UP,36,456
+Lofa,21053 ,2,"Voinjama Catholic School, Voinjama City ",President/Vice-President Runoff ,2005,Presidential,2,179,9,188,"WEAH, George Manneh",CDC,143,456
+Lofa,21054 ,1,"Voinjama Market Hall, Voinjama City ",President/Vice-President Runoff ,2005,Presidential,2,245,5,250,"JOHNSON-SIRLEAF, Ellen",UP,152,557
+Lofa,21054 ,1,"Voinjama Market Hall, Voinjama City ",President/Vice-President Runoff ,2005,Presidential,2,245,5,250,"WEAH, George Manneh",CDC,93,557
+Lofa,21054 ,4,"Voinjama Market Hall, Voinjama City ",President/Vice-President Runoff ,2005,Presidential,2,197,7,204,"JOHNSON-SIRLEAF, Ellen",UP,118,485
+Lofa,21054 ,4,"Voinjama Market Hall, Voinjama City ",President/Vice-President Runoff ,2005,Presidential,2,197,7,204,"WEAH, George Manneh",CDC,79,485
+Lofa,21055 ,1,"Bakiedou Public School, Bakiedou ",President/Vice-President Runoff ,2005,Presidential,2,372,5,377,"JOHNSON-SIRLEAF, Ellen",UP,50,475
+Lofa,21055 ,1,"Bakiedou Public School, Bakiedou ",President/Vice-President Runoff ,2005,Presidential,2,372,5,377,"WEAH, George Manneh",CDC,322,475
+Lofa,21056 ,1,"Jarnufuma Public School, Jarmulor ",President/Vice-President Runoff ,2005,Presidential,2,239,13,252,"JOHNSON-SIRLEAF, Ellen",UP,21,384
+Lofa,21056 ,1,"Jarnufuma Public School, Jarmulor ",President/Vice-President Runoff ,2005,Presidential,2,239,13,252,"WEAH, George Manneh",CDC,218,384
+Lofa,21058 ,1,"Tussu Tow n Hall, Tussu ",President/Vice-President Runoff ,2005,Presidential,2,183,14,197,"JOHNSON-SIRLEAF, Ellen",UP,20,328
+Lofa,21058 ,1,"Tussu Tow n Hall, Tussu ",President/Vice-President Runoff ,2005,Presidential,2,183,14,197,"WEAH, George Manneh",CDC,163,328
+Lofa,21059 ,2,"Kolela Tow n Hall, Kolela ",President/Vice-President Runoff ,2005,Presidential,2,165,0,165,"JOHNSON-SIRLEAF, Ellen",UP,15,438
+Lofa,21059 ,2,"Kolela Tow n Hall, Kolela ",President/Vice-President Runoff ,2005,Presidential,2,165,0,165,"WEAH, George Manneh",CDC,150,438
+Lofa,21060 ,2,"Marvekondo Tow n Hall, Marvekondo ",President/Vice-President Runoff ,2005,Presidential,2,231,4,235,"JOHNSON-SIRLEAF, Ellen",UP,47,395
+Lofa,21060 ,2,"Marvekondo Tow n Hall, Marvekondo ",President/Vice-President Runoff ,2005,Presidential,2,231,4,235,"WEAH, George Manneh",CDC,184,395
+Lofa,21061 ,3,"Kondadu Tow n Hall, Kondadu ",President/Vice-President Runoff ,2005,Presidential,2,119,11,130,"JOHNSON-SIRLEAF, Ellen",UP,43,517
+Lofa,21061 ,3,"Kondadu Tow n Hall, Kondadu ",President/Vice-President Runoff ,2005,Presidential,2,119,11,130,"WEAH, George Manneh",CDC,76,517
+Lofa,21063 ,1,"Womanor Tow n Hall, Womanor ",President/Vice-President Runoff ,2005,Presidential,2,116,2,118,"JOHNSON-SIRLEAF, Ellen",UP,3,235
+Lofa,21063 ,1,"Womanor Tow n Hall, Womanor ",President/Vice-President Runoff ,2005,Presidential,2,116,2,118,"WEAH, George Manneh",CDC,113,235
+Lofa,21064 ,3,"Sakomedu Public School, Sakomedu ",President/Vice-President Runoff ,2005,Presidential,2,195,16,211,"JOHNSON-SIRLEAF, Ellen",UP,26,513
+Lofa,21064 ,3,"Sakomedu Public School, Sakomedu ",President/Vice-President Runoff ,2005,Presidential,2,195,16,211,"WEAH, George Manneh",CDC,169,513
+Lofa,21066 ,1,"Vonema Tow n Hall, Vonema ",President/Vice-President Runoff ,2005,Presidential,2,151,5,156,"JOHNSON-SIRLEAF, Ellen",UP,72,377
+Lofa,21066 ,1,"Vonema Tow n Hall, Vonema ",President/Vice-President Runoff ,2005,Presidential,2,151,5,156,"WEAH, George Manneh",CDC,79,377
+Lofa,21068 ,1,"Tobogizizu Tow n Hall, Tobogizizu ",President/Vice-President Runoff ,2005,Presidential,2,195,7,202,"JOHNSON-SIRLEAF, Ellen",UP,153,360
+Lofa,21068 ,1,"Tobogizizu Tow n Hall, Tobogizizu ",President/Vice-President Runoff ,2005,Presidential,2,195,7,202,"WEAH, George Manneh",CDC,42,360
+Lofa,21070 ,1,"Bitijama Tow n Hall, Bitijama ",President/Vice-President Runoff ,2005,Presidential,2,167,6,173,"JOHNSON-SIRLEAF, Ellen",UP,104,378
+Lofa,21070 ,1,"Bitijama Tow n Hall, Bitijama ",President/Vice-President Runoff ,2005,Presidential,2,167,6,173,"WEAH, George Manneh",CDC,63,378
+Lofa,21073 ,1,"Tubman Elementary & Junior High School, Velezala ",President/Vice-President Runoff ,2005,Presidential,2,136,3,139,"JOHNSON-SIRLEAF, Ellen",UP,88,349
+Lofa,21073 ,1,"Tubman Elementary & Junior High School, Velezala ",President/Vice-President Runoff ,2005,Presidential,2,136,3,139,"WEAH, George Manneh",CDC,48,349
+Lofa,21075 ,1,"Zew ordamai Public School, Zew ordamai ",President/Vice-President Runoff ,2005,Presidential,2,109,1,110,"JOHNSON-SIRLEAF, Ellen",UP,32,311
+Lofa,21075 ,1,"Zew ordamai Public School, Zew ordamai ",President/Vice-President Runoff ,2005,Presidential,2,109,1,110,"WEAH, George Manneh",CDC,77,311
+Lofa,21078 ,1,"Nyandemorlahun Tow n Hall, Nyandemorlahun ",President/Vice-President Runoff ,2005,Presidential,2,148,16,164,"JOHNSON-SIRLEAF, Ellen",UP,44,310
+Lofa,21078 ,1,"Nyandemorlahun Tow n Hall, Nyandemorlahun ",President/Vice-President Runoff ,2005,Presidential,2,148,16,164,"WEAH, George Manneh",CDC,104,310
+Lofa,21080 ,1,"Honiehum Tow n Hall, Honeihum ",President/Vice-President Runoff ,2005,Presidential,2,132,3,135,"JOHNSON-SIRLEAF, Ellen",UP,52,225
+Lofa,21080 ,1,"Honiehum Tow n Hall, Honeihum ",President/Vice-President Runoff ,2005,Presidential,2,132,3,135,"WEAH, George Manneh",CDC,80,225
+Lofa,21083 ,1,"Kolahun El & Jr High School, Kolahun City ",President/Vice-President Runoff ,2005,Presidential,2,171,0,171,"JOHNSON-SIRLEAF, Ellen",UP,44,515
+Lofa,21083 ,1,"Kolahun El & Jr High School, Kolahun City ",President/Vice-President Runoff ,2005,Presidential,2,171,0,171,"WEAH, George Manneh",CDC,127,515
+Lofa,21084 ,1,"Kolahun El & Jr High School, Kolahun City ",President/Vice-President Runoff ,2005,Presidential,2,212,4,216,"JOHNSON-SIRLEAF, Ellen",UP,47,460
+Lofa,21084 ,1,"Kolahun El & Jr High School, Kolahun City ",President/Vice-President Runoff ,2005,Presidential,2,212,4,216,"WEAH, George Manneh",CDC,165,460
+Lofa,21085 ,1,"Ngorkhun Tow n Hall, Ngorkorhun ",President/Vice-President Runoff ,2005,Presidential,2,197,3,200,"JOHNSON-SIRLEAF, Ellen",UP,27,307
+Lofa,21085 ,1,"Ngorkhun Tow n Hall, Ngorkorhun ",President/Vice-President Runoff ,2005,Presidential,2,197,3,200,"WEAH, George Manneh",CDC,170,307
+Lofa,21086 ,3,"Kolahun El & Jr High School, Kolahun City ",President/Vice-President Runoff ,2005,Presidential,2,156,2,158,"JOHNSON-SIRLEAF, Ellen",UP,31,436
+Lofa,21086 ,3,"Kolahun El & Jr High School, Kolahun City ",President/Vice-President Runoff ,2005,Presidential,2,156,2,158,"WEAH, George Manneh",CDC,125,436
+Lofa,21089 ,1,"Masambolahun Tow n Hall, Masambolahun ",President/Vice-President Runoff ,2005,Presidential,2,229,10,239,"JOHNSON-SIRLEAF, Ellen",UP,13,370
+Lofa,21089 ,1,"Masambolahun Tow n Hall, Masambolahun ",President/Vice-President Runoff ,2005,Presidential,2,229,10,239,"WEAH, George Manneh",CDC,216,370
+Lofa,21091 ,1,"Kimbalahun Tow n Hall, Kimbalahun ",President/Vice-President Runoff ,2005,Presidential,2,180,2,182,"JOHNSON-SIRLEAF, Ellen",UP,13,387
+Lofa,21091 ,1,"Kimbalahun Tow n Hall, Kimbalahun ",President/Vice-President Runoff ,2005,Presidential,2,180,2,182,"WEAH, George Manneh",CDC,167,387
+Lofa,21094 ,1,"Popalahun Public School, Popalahun ",President/Vice-President Runoff ,2005,Presidential,2,192,9,201,"JOHNSON-SIRLEAF, Ellen",UP,15,336
+Lofa,21094 ,1,"Popalahun Public School, Popalahun ",President/Vice-President Runoff ,2005,Presidential,2,192,9,201,"WEAH, George Manneh",CDC,177,336
+Lofa,21096 ,1,"Yandohun Tow n Hall, Yandohun ",President/Vice-President Runoff ,2005,Presidential,2,121,7,128,"JOHNSON-SIRLEAF, Ellen",UP,11,223
+Lofa,21096 ,1,"Yandohun Tow n Hall, Yandohun ",President/Vice-President Runoff ,2005,Presidential,2,121,7,128,"WEAH, George Manneh",CDC,110,223
+Lofa,21099 ,1,"Kamatahun -hassala Tow n Hall, Kamatahun -hassala ",President/Vice-President Runoff ,2005,Presidential,2,181,0,181,"JOHNSON-SIRLEAF, Ellen",UP,27,337
+Lofa,21099 ,1,"Kamatahun -hassala Tow n Hall, Kamatahun -hassala ",President/Vice-President Runoff ,2005,Presidential,2,181,0,181,"WEAH, George Manneh",CDC,154,337
+Lofa,21102 ,1,"Kailahun Tow n Hall, Kailahun ",President/Vice-President Runoff ,2005,Presidential,2,185,6,191,"JOHNSON-SIRLEAF, Ellen",UP,43,310
+Lofa,21102 ,1,"Kailahun Tow n Hall, Kailahun ",President/Vice-President Runoff ,2005,Presidential,2,185,6,191,"WEAH, George Manneh",CDC,142,310
+Lofa,21105 ,1,"Yasselahun Tow n Hall, Yasselahun ",President/Vice-President Runoff ,2005,Presidential,2,148,4,152,"JOHNSON-SIRLEAF, Ellen",UP,86,335
+Lofa,21105 ,1,"Yasselahun Tow n Hall, Yasselahun ",President/Vice-President Runoff ,2005,Presidential,2,148,4,152,"WEAH, George Manneh",CDC,62,335
+Lofa,21107 ,1,"Kow ohun Public School, Kow ohun ",President/Vice-President Runoff ,2005,Presidential,2,63,1,64,"JOHNSON-SIRLEAF, Ellen",UP,2,100
+Lofa,21107 ,1,"Kow ohun Public School, Kow ohun ",President/Vice-President Runoff ,2005,Presidential,2,63,1,64,"WEAH, George Manneh",CDC,61,100
+Lofa,21110 ,1,"Kpormbu Tow n Hall, Kpormbu ",President/Vice-President Runoff ,2005,Presidential,2,235,2,237,"JOHNSON-SIRLEAF, Ellen",UP,220,310
+Lofa,21110 ,1,"Kpormbu Tow n Hall, Kpormbu ",President/Vice-President Runoff ,2005,Presidential,2,235,2,237,"WEAH, George Manneh",CDC,15,310
+Lofa,21113 ,1,"Foya Central High School, Foya City ",President/Vice-President Runoff ,2005,Presidential,2,331,9,340,"JOHNSON-SIRLEAF, Ellen",UP,275,552
+Lofa,21113 ,1,"Foya Central High School, Foya City ",President/Vice-President Runoff ,2005,Presidential,2,331,9,340,"WEAH, George Manneh",CDC,56,552
+Lofa,21113 ,4,"Foya Central High School, Foya City ",President/Vice-President Runoff ,2005,Presidential,2,304,8,312,"JOHNSON-SIRLEAF, Ellen",UP,278,598
+Lofa,21113 ,4,"Foya Central High School, Foya City ",President/Vice-President Runoff ,2005,Presidential,2,304,8,312,"WEAH, George Manneh",CDC,26,598
+Lofa,21113 ,7,"Foya Central High School, Foya City ",President/Vice-President Runoff ,2005,Presidential,2,246,26,272,"JOHNSON-SIRLEAF, Ellen",UP,221,545
+Lofa,21113 ,7,"Foya Central High School, Foya City ",President/Vice-President Runoff ,2005,Presidential,2,246,26,272,"WEAH, George Manneh",CDC,25,545
+Lofa,21114 ,2,"Foya Tow n Hall, Foya Kamara ",President/Vice-President Runoff ,2005,Presidential,2,156,11,167,"JOHNSON-SIRLEAF, Ellen",UP,144,342
+Lofa,21114 ,2,"Foya Tow n Hall, Foya Kamara ",President/Vice-President Runoff ,2005,Presidential,2,156,11,167,"WEAH, George Manneh",CDC,12,342
+Lofa,21116 ,2,"Tamba Taylor Public School, Shelloe ",President/Vice-President Runoff ,2005,Presidential,2,315,58,373,"JOHNSON-SIRLEAF, Ellen",UP,289,560
+Lofa,21116 ,2,"Tamba Taylor Public School, Shelloe ",President/Vice-President Runoff ,2005,Presidential,2,315,58,373,"WEAH, George Manneh",CDC,26,560
+Lofa,21119 ,1,"Sodu Tow n Hall, Sodu ",President/Vice-President Runoff ,2005,Presidential,2,274,15,289,"JOHNSON-SIRLEAF, Ellen",UP,266,445
+Lofa,21119 ,1,"Sodu Tow n Hall, Sodu ",President/Vice-President Runoff ,2005,Presidential,2,274,15,289,"WEAH, George Manneh",CDC,8,445
+Lofa,21122 ,1,"Solomba Public School, Solomba ",President/Vice-President Runoff ,2005,Presidential,2,205,23,228,"JOHNSON-SIRLEAF, Ellen",UP,197,394
+Lofa,21122 ,1,"Solomba Public School, Solomba ",President/Vice-President Runoff ,2005,Presidential,2,205,23,228,"WEAH, George Manneh",CDC,8,394
+Lofa,21124 ,1,"Borliloe Tow n Hall, Borliloe ",President/Vice-President Runoff ,2005,Presidential,2,296,18,314,"JOHNSON-SIRLEAF, Ellen",UP,273,501
+Lofa,21124 ,1,"Borliloe Tow n Hall, Borliloe ",President/Vice-President Runoff ,2005,Presidential,2,296,18,314,"WEAH, George Manneh",CDC,23,501
+Lofa,21126 ,1,"Sadu Public School, Sadu ",President/Vice-President Runoff ,2005,Presidential,2,112,6,118,"JOHNSON-SIRLEAF, Ellen",UP,109,176
+Lofa,21126 ,1,"Sadu Public School, Sadu ",President/Vice-President Runoff ,2005,Presidential,2,112,6,118,"WEAH, George Manneh",CDC,3,176
+Lofa,21129 ,1,"Lengbama Tow n Hall, Lengbama ",President/Vice-President Runoff ,2005,Presidential,2,351,9,360,"JOHNSON-SIRLEAF, Ellen",UP,330,592
+Lofa,21129 ,1,"Lengbama Tow n Hall, Lengbama ",President/Vice-President Runoff ,2005,Presidential,2,351,9,360,"WEAH, George Manneh",CDC,21,592
+Lofa,21131 ,1,"Vahun Public School, Vahun Tow n ",President/Vice-President Runoff ,2005,Presidential,2,159,4,163,"JOHNSON-SIRLEAF, Ellen",UP,84,480
+Lofa,21131 ,1,"Vahun Public School, Vahun Tow n ",President/Vice-President Runoff ,2005,Presidential,2,159,4,163,"WEAH, George Manneh",CDC,75,480
+Lofa,21132 ,1,"Vahun Council Hall, Vahun Tow n ",President/Vice-President Runoff ,2005,Presidential,2,359,0,359,"JOHNSON-SIRLEAF, Ellen",UP,210,533
+Lofa,21132 ,1,"Vahun Council Hall, Vahun Tow n ",President/Vice-President Runoff ,2005,Presidential,2,359,0,359,"WEAH, George Manneh",CDC,149,533
+Lofa,21133 ,2,"Bumbuma Public School, Bumbuma ",President/Vice-President Runoff ,2005,Presidential,2,220,5,225,"JOHNSON-SIRLEAF, Ellen",UP,60,349
+Lofa,21133 ,2,"Bumbuma Public School, Bumbuma ",President/Vice-President Runoff ,2005,Presidential,2,220,5,225,"WEAH, George Manneh",CDC,160,349
+Lofa,21135 ,2,"Mimorlahun Public School, Mimorlahum ",President/Vice-President Runoff ,2005,Presidential,2,321,7,328,"JOHNSON-SIRLEAF, Ellen",UP,114,321
+Lofa,21135 ,2,"Mimorlahun Public School, Mimorlahum ",President/Vice-President Runoff ,2005,Presidential,2,321,7,328,"WEAH, George Manneh",CDC,207,321
+Lofa,21138 ,1,"Gbaama, Gbaama",President/Vice-President Runoff,2005,Presidential,2,338,8,346,"JOHNSON-SIRLEAF, Ellen",UP,259,339
+Lofa,21138 ,1,"Gbaama, Gbaama",President/Vice-President Runoff,2005,Presidential,2,338,8,346,"WEAH, George Manneh",CDC,79,339
+Lofa,21003 ,1,"Gbakole Tow n Hall, Gbakole",President/Vice-President Runoff,2005,Presidential,2,118,6,124,"JOHNSON-SIRLEAF, Ellen",UP,79,200
+Lofa,21003 ,1,"Gbakole Tow n Hall, Gbakole",President/Vice-President Runoff,2005,Presidential,2,118,6,124,"WEAH, George Manneh",CDC,39,200
+Lofa,21006 ,1,"Gbonyea Tow n Hall , Gbonyea",President/Vice-President Runoff,2005,Presidential,2,274,8,282,"JOHNSON-SIRLEAF, Ellen",UP,234,432
+Lofa,21006 ,1,"Gbonyea Tow n Hall , Gbonyea",President/Vice-President Runoff,2005,Presidential,2,274,8,282,"WEAH, George Manneh",CDC,40,432
+Lofa,21008 ,2,"Gorlu Public School, Gorlu",President/Vice-President Runoff,2005,Presidential,2,311,10,321,"JOHNSON-SIRLEAF, Ellen",UP,272,513
+Lofa,21008 ,2,"Gorlu Public School, Gorlu",President/Vice-President Runoff,2005,Presidential,2,311,10,321,"WEAH, George Manneh",CDC,39,513
+Lofa,21010 ,2,"Salayea Public School, Salayea",President/Vice-President Runoff,2005,Presidential,2,258,19,277,"JOHNSON-SIRLEAF, Ellen",UP,180,546
+Lofa,21010 ,2,"Salayea Public School, Salayea",President/Vice-President Runoff,2005,Presidential,2,258,19,277,"WEAH, George Manneh",CDC,78,546
+Lofa,21012 ,1,"Yarpuah Public School , Yarpuah",President/Vice-President Runoff,2005,Presidential,2,244,6,250,"JOHNSON-SIRLEAF, Ellen",UP,226,385
+Lofa,21012 ,1,"Yarpuah Public School , Yarpuah",President/Vice-President Runoff,2005,Presidential,2,244,6,250,"WEAH, George Manneh",CDC,18,385
+Lofa,21013 ,2,"Kpeieyea Clinic , Kpeieyea",President/Vice-President Runoff,2005,Presidential,2,245,5,250,"JOHNSON-SIRLEAF, Ellen",UP,187,464
+Lofa,21013 ,2,"Kpeieyea Clinic , Kpeieyea",President/Vice-President Runoff,2005,Presidential,2,245,5,250,"WEAH, George Manneh",CDC,58,464
+Lofa,21015 ,2,"Public Building , Sucromu",President/Vice-President Runoff,2005,Presidential,2,355,4,359,"JOHNSON-SIRLEAF, Ellen",UP,320,516
+Lofa,21015 ,2,"Public Building , Sucromu",President/Vice-President Runoff,2005,Presidential,2,355,4,359,"WEAH, George Manneh",CDC,35,516
+Lofa,21016 ,3,"Guzal Public School, Zolow o",President/Vice-President Runoff,2005,Presidential,2,143,4,147,"JOHNSON-SIRLEAF, Ellen",UP,106,455
+Lofa,21016 ,3,"Guzal Public School, Zolow o",President/Vice-President Runoff,2005,Presidential,2,143,4,147,"WEAH, George Manneh",CDC,37,455
+Lofa,21019 ,1,"Zorzor Public School 11, Zorzor Tow n",President/Vice-President Runoff,2005,Presidential,2,194,6,200,"JOHNSON-SIRLEAF, Ellen",UP,152,539
+Lofa,21019 ,1,"Zorzor Public School 11, Zorzor Tow n",President/Vice-President Runoff,2005,Presidential,2,194,6,200,"WEAH, George Manneh",CDC,42,539
+Lofa,21020 ,2,"Zorzor Public School 1, Zorzor Tow n",President/Vice-President Runoff,2005,Presidential,2,214,10,224,"JOHNSON-SIRLEAF, Ellen",UP,144,548
+Lofa,21020 ,2,"Zorzor Public School 1, Zorzor Tow n",President/Vice-President Runoff,2005,Presidential,2,214,10,224,"WEAH, George Manneh",CDC,70,548
+Lofa,21021 ,1,"Kilw u Public School, Kiliw u",President/Vice-President Runoff,2005,Presidential,2,224,17,241,"JOHNSON-SIRLEAF, Ellen",UP,172,514
+Lofa,21021 ,1,"Kilw u Public School, Kiliw u",President/Vice-President Runoff,2005,Presidential,2,224,17,241,"WEAH, George Manneh",CDC,52,514
+Lofa,21023 ,1,"Fissebu Public School , Fissibu",President/Vice-President Runoff,2005,Presidential,2,247,10,257,"JOHNSON-SIRLEAF, Ellen",UP,218,478
+Lofa,21023 ,1,"Fissebu Public School , Fissibu",President/Vice-President Runoff,2005,Presidential,2,247,10,257,"WEAH, George Manneh",CDC,29,478
+Lofa,21023 ,4,"Fissebu Public School , Fissibu",President/Vice-President Runoff,2005,Presidential,2,261,10,271,"JOHNSON-SIRLEAF, Ellen",UP,216,461
+Lofa,21023 ,4,"Fissebu Public School , Fissibu",President/Vice-President Runoff,2005,Presidential,2,261,10,271,"WEAH, George Manneh",CDC,45,461
+Lofa,21024 ,3,"Borkeaza Public School, Borkeaza",President/Vice-President Runoff,2005,Presidential,2,314,23,337,"JOHNSON-SIRLEAF, Ellen",UP,258,523
+Lofa,21024 ,3,"Borkeaza Public School, Borkeaza",President/Vice-President Runoff,2005,Presidential,2,314,23,337,"WEAH, George Manneh",CDC,56,523
+Lofa,21027 ,1,"Garbo Public School 1, Konia",President/Vice-President Runoff,2005,Presidential,2,183,8,191,"JOHNSON-SIRLEAF, Ellen",UP,154,510
+Lofa,21027 ,1,"Garbo Public School 1, Konia",President/Vice-President Runoff,2005,Presidential,2,183,8,191,"WEAH, George Manneh",CDC,29,510
+Lofa,21029 ,1,"Garbo Public School 11, Konia",President/Vice-President Runoff,2005,Presidential,2,256,7,263,"JOHNSON-SIRLEAF, Ellen",UP,187,562
+Lofa,21029 ,1,"Garbo Public School 11, Konia",President/Vice-President Runoff,2005,Presidential,2,256,7,263,"WEAH, George Manneh",CDC,69,562
+Lofa,21031 ,1,"Wozi Public School, Wozi",President/Vice-President Runoff,2005,Presidential,2,157,5,162,"JOHNSON-SIRLEAF, Ellen",UP,145,249
+Lofa,21031 ,1,"Wozi Public School, Wozi",President/Vice-President Runoff,2005,Presidential,2,157,5,162,"WEAH, George Manneh",CDC,12,249
+Lofa,21033 ,1,"Luyema Tow n Hall , Luyeama",President/Vice-President Runoff,2005,Presidential,2,180,6,186,"JOHNSON-SIRLEAF, Ellen",UP,152,340
+Lofa,21033 ,1,"Luyema Tow n Hall , Luyeama",President/Vice-President Runoff,2005,Presidential,2,180,6,186,"WEAH, George Manneh",CDC,28,340
+Lofa,21036 ,1,"Kpasigia Tow n Hall, Kpasigizizia",President/Vice-President Runoff,2005,Presidential,2,308,1,309,"JOHNSON-SIRLEAF, Ellen",UP,264,488
+Lofa,21036 ,1,"Kpasigia Tow n Hall, Kpasigizizia",President/Vice-President Runoff,2005,Presidential,2,308,1,309,"WEAH, George Manneh",CDC,44,488
+Lofa,21039 ,1,"Lutizu Tow n Hall, Lutizu",President/Vice-President Runoff,2005,Presidential,2,120,1,121,"JOHNSON-SIRLEAF, Ellen",UP,114,231
+Lofa,21039 ,1,"Lutizu Tow n Hall, Lutizu",President/Vice-President Runoff,2005,Presidential,2,120,1,121,"WEAH, George Manneh",CDC,6,231
+Lofa,21042 ,1,"Karza Tow n Hall, Karza",President/Vice-President Runoff,2005,Presidential,2,104,0,104,"JOHNSON-SIRLEAF, Ellen",UP,98,125
+Lofa,21042 ,1,"Karza Tow n Hall, Karza",President/Vice-President Runoff,2005,Presidential,2,104,0,104,"WEAH, George Manneh",CDC,6,125
+Lofa,21045 ,1,"Kpandemai Public School, Kpandemai",President/Vice-President Runoff,2005,Presidential,2,116,3,119,"JOHNSON-SIRLEAF, Ellen",UP,37,318
+Lofa,21045 ,1,"Kpandemai Public School, Kpandemai",President/Vice-President Runoff,2005,Presidential,2,116,3,119,"WEAH, George Manneh",CDC,79,318
+Lofa,21048 ,1,"David Selma-ta Public School, David Selma-ta",President/Vice-President Runoff,2005,Presidential,2,182,5,187,"JOHNSON-SIRLEAF, Ellen",UP,154,428
+Lofa,21048 ,1,"David Selma-ta Public School, David Selma-ta",President/Vice-President Runoff,2005,Presidential,2,182,5,187,"WEAH, George Manneh",CDC,28,428
+Lofa,21051 ,1,"Voinjama F.p Mission School, Voinjama City",President/Vice-President Runoff,2005,Presidential,2,268,12,280,"JOHNSON-SIRLEAF, Ellen",UP,102,561
+Lofa,21051 ,1,"Voinjama F.p Mission School, Voinjama City",President/Vice-President Runoff,2005,Presidential,2,268,12,280,"WEAH, George Manneh",CDC,166,561
+Lofa,21052 ,1,"Voinjama Public School, Voinjama City",President/Vice-President Runoff,2005,Presidential,2,227,3,230,"JOHNSON-SIRLEAF, Ellen",UP,82,493
+Lofa,21052 ,1,"Voinjama Public School, Voinjama City",President/Vice-President Runoff,2005,Presidential,2,227,3,230,"WEAH, George Manneh",CDC,145,493
+Lofa,21052 ,4,"Voinjama Public School, Voinjama City",President/Vice-President Runoff,2005,Presidential,2,204,1,205,"JOHNSON-SIRLEAF, Ellen",UP,91,497
+Lofa,21052 ,4,"Voinjama Public School, Voinjama City",President/Vice-President Runoff,2005,Presidential,2,204,1,205,"WEAH, George Manneh",CDC,113,497
+Lofa,21053 ,3,"Voinjama Catholic School, Voinjama City",President/Vice-President Runoff,2005,Presidential,2,211,11,222,"JOHNSON-SIRLEAF, Ellen",UP,66,470
+Lofa,21053 ,3,"Voinjama Catholic School, Voinjama City",President/Vice-President Runoff,2005,Presidential,2,211,11,222,"WEAH, George Manneh",CDC,145,470
+Lofa,21054 ,2,"Voinjama Market Hall, Voinjama City",President/Vice-President Runoff,2005,Presidential,2,241,8,249,"JOHNSON-SIRLEAF, Ellen",UP,148,567
+Lofa,21054 ,2,"Voinjama Market Hall, Voinjama City",President/Vice-President Runoff,2005,Presidential,2,241,8,249,"WEAH, George Manneh",CDC,93,567
+Lofa,21054 ,5,"Voinjama Market Hall, Voinjama City",President/Vice-President Runoff,2005,Presidential,2,197,7,204,"JOHNSON-SIRLEAF, Ellen",UP,127,497
+Lofa,21054 ,5,"Voinjama Market Hall, Voinjama City",President/Vice-President Runoff,2005,Presidential,2,197,7,204,"WEAH, George Manneh",CDC,70,497
+Lofa,21055 ,2,"Bakiedou Public School, Bakiedou",President/Vice-President Runoff,2005,Presidential,2,330,3,333,"JOHNSON-SIRLEAF, Ellen",UP,12,505
+Lofa,21055 ,2,"Bakiedou Public School, Bakiedou",President/Vice-President Runoff,2005,Presidential,2,330,3,333,"WEAH, George Manneh",CDC,318,505
+Lofa,21057 ,1,"Kanela Tow n Hall, Kanela",President/Vice-President Runoff,2005,Presidential,2,115,0,115,"JOHNSON-SIRLEAF, Ellen",UP,21,365
+Lofa,21057 ,1,"Kanela Tow n Hall, Kanela",President/Vice-President Runoff,2005,Presidential,2,115,0,115,"WEAH, George Manneh",CDC,94,365
+Lofa,21058 ,2,"Tussu Tow n Hall, Tussu",President/Vice-President Runoff,2005,Presidential,2,168,10,178,"JOHNSON-SIRLEAF, Ellen",UP,16,322
+Lofa,21058 ,2,"Tussu Tow n Hall, Tussu",President/Vice-President Runoff,2005,Presidential,2,168,10,178,"WEAH, George Manneh",CDC,152,322
+Lofa,21059 ,3,"Kolela Tow n Hall, Kolela",President/Vice-President Runoff,2005,Presidential,2,150,0,150,"JOHNSON-SIRLEAF, Ellen",UP,12,429
+Lofa,21059 ,3,"Kolela Tow n Hall, Kolela",President/Vice-President Runoff,2005,Presidential,2,150,0,150,"WEAH, George Manneh",CDC,138,429
+Lofa,21061 ,1,"Kondadu Tow n Hall, Kondadu",President/Vice-President Runoff,2005,Presidential,2,99,19,118,"JOHNSON-SIRLEAF, Ellen",UP,24,522
+Lofa,21061 ,1,"Kondadu Tow n Hall, Kondadu",President/Vice-President Runoff,2005,Presidential,2,99,19,118,"WEAH, George Manneh",CDC,75,522
+Lofa,21061 ,4,"Kondadu Tow n Hall, Kondadu",President/Vice-President Runoff,2005,Presidential,2,158,2,160,"JOHNSON-SIRLEAF, Ellen",UP,26,565
+Lofa,21061 ,4,"Kondadu Tow n Hall, Kondadu",President/Vice-President Runoff,2005,Presidential,2,158,2,160,"WEAH, George Manneh",CDC,132,565
+Lofa,21064 ,1,"Sakomedu Public School, Sakomedu",President/Vice-President Runoff,2005,Presidential,2,181,16,197,"JOHNSON-SIRLEAF, Ellen",UP,35,492
+Lofa,21064 ,1,"Sakomedu Public School, Sakomedu",President/Vice-President Runoff,2005,Presidential,2,181,16,197,"WEAH, George Manneh",CDC,146,492
+Lofa,21064 ,4,"Sakomedu Public School, Sakomedu",President/Vice-President Runoff,2005,Presidential,2,183,0,183,"JOHNSON-SIRLEAF, Ellen",UP,25,502
+Lofa,21064 ,4,"Sakomedu Public School, Sakomedu",President/Vice-President Runoff,2005,Presidential,2,183,0,183,"WEAH, George Manneh",CDC,158,502
+Lofa,21067 ,1,"Law alazu Public School, Law alazu",President/Vice-President Runoff,2005,Presidential,2,230,15,245,"JOHNSON-SIRLEAF, Ellen",UP,174,551
+Lofa,21067 ,1,"Law alazu Public School, Law alazu",President/Vice-President Runoff,2005,Presidential,2,230,15,245,"WEAH, George Manneh",CDC,56,551
+Lofa,21068 ,2,"Tobogizizu Tow n Hall, Tobogizizu",President/Vice-President Runoff,2005,Presidential,2,191,4,195,"JOHNSON-SIRLEAF, Ellen",UP,156,344
+Lofa,21068 ,2,"Tobogizizu Tow n Hall, Tobogizizu",President/Vice-President Runoff,2005,Presidential,2,191,4,195,"WEAH, George Manneh",CDC,35,344
+Lofa,21071 ,1,"Bazagizia Tow n Hall , Bazagizia",President/Vice-President Runoff,2005,Presidential,2,198,3,201,"JOHNSON-SIRLEAF, Ellen",UP,152,386
+Lofa,21071 ,1,"Bazagizia Tow n Hall , Bazagizia",President/Vice-President Runoff,2005,Presidential,2,198,3,201,"WEAH, George Manneh",CDC,46,386
+Lofa,21073 ,2,"Tubman Elementary & Junior High School, Velezala",President/Vice-President Runoff,2005,Presidential,2,120,2,122,"JOHNSON-SIRLEAF, Ellen",UP,94,333
+Lofa,21073 ,2,"Tubman Elementary & Junior High School, Velezala",President/Vice-President Runoff,2005,Presidential,2,120,2,122,"WEAH, George Manneh",CDC,26,333
+Lofa,21075 ,2,"Zew ordamai Public School, Zew ordamai",President/Vice-President Runoff,2005,Presidential,2,137,1,138,"JOHNSON-SIRLEAF, Ellen",UP,45,358
+Lofa,21075 ,2,"Zew ordamai Public School, Zew ordamai",President/Vice-President Runoff,2005,Presidential,2,137,1,138,"WEAH, George Manneh",CDC,92,358
+Lofa,21078 ,2,"Nyandemorlahun Tow n Hall, Nyandemorlahun",President/Vice-President Runoff,2005,Presidential,2,156,1,157,"JOHNSON-SIRLEAF, Ellen",UP,51,321
+Lofa,21078 ,2,"Nyandemorlahun Tow n Hall, Nyandemorlahun",President/Vice-President Runoff,2005,Presidential,2,156,1,157,"WEAH, George Manneh",CDC,105,321
+Lofa,21081 ,1,"Balahun Publc School, Balahun",President/Vice-President Runoff,2005,Presidential,2,129,11,140,"JOHNSON-SIRLEAF, Ellen",UP,16,301
+Lofa,21081 ,1,"Balahun Publc School, Balahun",President/Vice-President Runoff,2005,Presidential,2,129,11,140,"WEAH, George Manneh",CDC,113,301
+Lofa,21083 ,2,"Kolahun El & Jr High School, Kolahun City",President/Vice-President Runoff,2005,Presidential,2,164,12,176,"JOHNSON-SIRLEAF, Ellen",UP,30,521
+Lofa,21083 ,2,"Kolahun El & Jr High School, Kolahun City",President/Vice-President Runoff,2005,Presidential,2,164,12,176,"WEAH, George Manneh",CDC,134,521
+Lofa,21084 ,2,"Kolahun El & Jr High School, Kolahun City",President/Vice-President Runoff,2005,Presidential,2,193,3,196,"JOHNSON-SIRLEAF, Ellen",UP,60,428
+Lofa,21084 ,2,"Kolahun El & Jr High School, Kolahun City",President/Vice-President Runoff,2005,Presidential,2,193,3,196,"WEAH, George Manneh",CDC,133,428
+Lofa,21086 ,1,"Kolahun El & Jr High School, Kolahun City",President/Vice-President Runoff,2005,Presidential,2,187,3,190,"JOHNSON-SIRLEAF, Ellen",UP,27,464
+Lofa,21086 ,1,"Kolahun El & Jr High School, Kolahun City",President/Vice-President Runoff,2005,Presidential,2,187,3,190,"WEAH, George Manneh",CDC,160,464
+Lofa,21087 ,1,"Bolahun Public School, Bolahun",President/Vice-President Runoff,2005,Presidential,2,273,4,277,"JOHNSON-SIRLEAF, Ellen",UP,25,540
+Lofa,21087 ,1,"Bolahun Public School, Bolahun",President/Vice-President Runoff,2005,Presidential,2,273,4,277,"WEAH, George Manneh",CDC,248,540
+Lofa,21089 ,2,"Masambolahun Tow n Hall, Masambolahun",President/Vice-President Runoff,2005,Presidential,2,214,1,215,"JOHNSON-SIRLEAF, Ellen",UP,13,357
+Lofa,21089 ,2,"Masambolahun Tow n Hall, Masambolahun",President/Vice-President Runoff,2005,Presidential,2,214,1,215,"WEAH, George Manneh",CDC,201,357
+Lofa,21092 ,1,"Savalahun Tow n Hall, Savalahun",President/Vice-President Runoff,2005,Presidential,2,123,2,125,"JOHNSON-SIRLEAF, Ellen",UP,9,167
+Lofa,21092 ,1,"Savalahun Tow n Hall, Savalahun",President/Vice-President Runoff,2005,Presidential,2,123,2,125,"WEAH, George Manneh",CDC,114,167
+Lofa,21094 ,2,"Popalahun Public School, Popalahun",President/Vice-President Runoff,2005,Presidential,2,187,13,200,"JOHNSON-SIRLEAF, Ellen",UP,7,339
+Lofa,21094 ,2,"Popalahun Public School, Popalahun",President/Vice-President Runoff,2005,Presidential,2,187,13,200,"WEAH, George Manneh",CDC,180,339
+Lofa,21097 ,1,"Yallahun Tow n Hall, Kangama",President/Vice-President Runoff,2005,Presidential,2,188,4,192,"JOHNSON-SIRLEAF, Ellen",UP,74,497
+Lofa,21097 ,1,"Yallahun Tow n Hall, Kangama",President/Vice-President Runoff,2005,Presidential,2,188,4,192,"WEAH, George Manneh",CDC,114,497
+Lofa,21100 ,1,"Fokolahun Tow n Hall, Foklahun",President/Vice-President Runoff,2005,Presidential,2,155,7,162,"JOHNSON-SIRLEAF, Ellen",UP,60,251
+Lofa,21100 ,1,"Fokolahun Tow n Hall, Foklahun",President/Vice-President Runoff,2005,Presidential,2,155,7,162,"WEAH, George Manneh",CDC,95,251
+Lofa,21103 ,1,"Lomboba Tow n Hall, Lomoboba",President/Vice-President Runoff,2005,Presidential,2,22,0,22,"JOHNSON-SIRLEAF, Ellen",UP,4,30
+Lofa,21103 ,1,"Lomboba Tow n Hall, Lomoboba",President/Vice-President Runoff,2005,Presidential,2,22,0,22,"WEAH, George Manneh",CDC,18,30
+Lofa,21105 ,2,"Yasselahun Tow n Hall, Yasselahun",President/Vice-President Runoff,2005,Presidential,2,100,2,102,"JOHNSON-SIRLEAF, Ellen",UP,34,322
+Lofa,21105 ,2,"Yasselahun Tow n Hall, Yasselahun",President/Vice-President Runoff,2005,Presidential,2,100,2,102,"WEAH, George Manneh",CDC,66,322
+Lofa,21108 ,1,"Somolahun Tow n Hall, Somolahun",President/Vice-President Runoff,2005,Presidential,2,104,4,108,"JOHNSON-SIRLEAF, Ellen",UP,78,221
+Lofa,21108 ,1,"Somolahun Tow n Hall, Somolahun",President/Vice-President Runoff,2005,Presidential,2,104,4,108,"WEAH, George Manneh",CDC,26,221
+Lofa,21111 ,1,"Foya Londu Tow n Hall, Foya  Londu",President/Vice-President Runoff,2005,Presidential,2,321,19,340,"JOHNSON-SIRLEAF, Ellen",UP,288,500
+Lofa,21111 ,1,"Foya Londu Tow n Hall, Foya  Londu",President/Vice-President Runoff,2005,Presidential,2,321,19,340,"WEAH, George Manneh",CDC,33,500
+Lofa,21113 ,2,"Foya Central High School, Foya City",President/Vice-President Runoff,2005,Presidential,2,333,12,345,"JOHNSON-SIRLEAF, Ellen",UP,313,573
+Lofa,21113 ,2,"Foya Central High School, Foya City",President/Vice-President Runoff,2005,Presidential,2,333,12,345,"WEAH, George Manneh",CDC,20,573
+Lofa,21113 ,5,"Foya Central High School, Foya City",President/Vice-President Runoff,2005,Presidential,2,401,8,409,"JOHNSON-SIRLEAF, Ellen",UP,357,539
+Lofa,21113 ,5,"Foya Central High School, Foya City",President/Vice-President Runoff,2005,Presidential,2,401,8,409,"WEAH, George Manneh",CDC,44,539
+Lofa,21113 ,8,"Foya Central High School, Foya City",President/Vice-President Runoff,2005,Presidential,2,396,6,402,"JOHNSON-SIRLEAF, Ellen",UP,362,597
+Lofa,21113 ,8,"Foya Central High School, Foya City",President/Vice-President Runoff,2005,Presidential,2,396,6,402,"WEAH, George Manneh",CDC,34,597
+Lofa,21115 ,1,"Kpengamai Tow n Hall, Kpengamai",President/Vice-President Runoff,2005,Presidential,2,184,3,187,"JOHNSON-SIRLEAF, Ellen",UP,180,273
+Lofa,21115 ,1,"Kpengamai Tow n Hall, Kpengamai",President/Vice-President Runoff,2005,Presidential,2,184,3,187,"WEAH, George Manneh",CDC,4,273
+Lofa,21117 ,1,"Medekorma Tow n Hall, Medekorma",President/Vice-President Runoff,2005,Presidential,2,341,0,341,"JOHNSON-SIRLEAF, Ellen",UP,332,517
+Lofa,21117 ,1,"Medekorma Tow n Hall, Medekorma",President/Vice-President Runoff,2005,Presidential,2,341,0,341,"WEAH, George Manneh",CDC,9,517
+Lofa,21120 ,1,"Worsonga Tow n Hall, Worsonga",President/Vice-President Runoff,2005,Presidential,2,401,16,417,"JOHNSON-SIRLEAF, Ellen",UP,398,588
+Lofa,21120 ,1,"Worsonga Tow n Hall, Worsonga",President/Vice-President Runoff,2005,Presidential,2,401,16,417,"WEAH, George Manneh",CDC,3,588
+Lofa,21122 ,2,"Solomba Public School, Solomba",President/Vice-President Runoff,2005,Presidential,2,240,9,249,"JOHNSON-SIRLEAF, Ellen",UP,227,403
+Lofa,21122 ,2,"Solomba Public School, Solomba",President/Vice-President Runoff,2005,Presidential,2,240,9,249,"WEAH, George Manneh",CDC,13,403
+Lofa,21125 ,1,"Porluma Tow n Hall, Porluma",President/Vice-President Runoff,2005,Presidential,2,242,8,250,"JOHNSON-SIRLEAF, Ellen",UP,206,423
+Lofa,21125 ,1,"Porluma Tow n Hall, Porluma",President/Vice-President Runoff,2005,Presidential,2,242,8,250,"WEAH, George Manneh",CDC,36,423
+Lofa,21127 ,1,"Kablamatow n Hall, Kablama",President/Vice-President Runoff,2005,Presidential,2,82,0,82,"JOHNSON-SIRLEAF, Ellen",UP,75,147
+Lofa,21127 ,1,"Kablamatow n Hall, Kablama",President/Vice-President Runoff,2005,Presidential,2,82,0,82,"WEAH, George Manneh",CDC,7,147
+Lofa,21130 ,1,"Foya Custom  Tow n Hall, Foya Customs",President/Vice-President Runoff,2005,Presidential,2,193,7,200,"JOHNSON-SIRLEAF, Ellen",UP,185,295
+Lofa,21130 ,1,"Foya Custom  Tow n Hall, Foya Customs",President/Vice-President Runoff,2005,Presidential,2,193,7,200,"WEAH, George Manneh",CDC,8,295
+Lofa,21131 ,2,"Vahun Public School, Vahun Tow n",President/Vice-President Runoff,2005,Presidential,2,138,2,140,"JOHNSON-SIRLEAF, Ellen",UP,79,497
+Lofa,21131 ,2,"Vahun Public School, Vahun Tow n",President/Vice-President Runoff,2005,Presidential,2,138,2,140,"WEAH, George Manneh",CDC,59,497
+Lofa,21132 ,2,"Vahun Council Hall, Vahun Tow n",President/Vice-President Runoff,2005,Presidential,2,552,2,554,"JOHNSON-SIRLEAF, Ellen",UP,198,550
+Lofa,21132 ,2,"Vahun Council Hall, Vahun Tow n",President/Vice-President Runoff,2005,Presidential,2,552,2,554,"WEAH, George Manneh",CDC,354,550
+Lofa,21134 ,1,"Kw ayana, Kw ayama",President/Vice-President Runoff,2005,Presidential,2,34,4,38,"JOHNSON-SIRLEAF, Ellen",UP,16,257
+Lofa,21134 ,1,"Kw ayana, Kw ayama",President/Vice-President Runoff,2005,Presidential,2,34,4,38,"WEAH, George Manneh",CDC,18,257
+Lofa,21137 ,1,"Folima Tow n Hall, Folima",President/Vice-President Runoff,2005,Presidential,2,150,0,150,"JOHNSON-SIRLEAF, Ellen",UP,112,616
+Lofa,21137 ,1,"Folima Tow n Hall, Folima",President/Vice-President Runoff,2005,Presidential,2,150,0,150,"WEAH, George Manneh",CDC,38,616

@@ -1,0 +1,85 @@
+election_county,precinct,polling_place,address,election,election_year,election_type,election_round,valid_votes,invalid_votes,total_votes,candidate,cand_party,cand_votes,registered_voters
+RiverCess,36001 ,1 ,"Cestos City High School, Cestos City ",President/Vice-President Runoff ,2005,Presidential,2,275 ,8 ,283 ,"JOHNSON-SIRLEAF, Ellen",UP,102 ,485 
+RiverCess,36001 ,1 ,"Cestos City High School, Cestos City ",President/Vice-President Runoff ,2005,Presidential,2,275 ,8 ,283 ,"WEAH, George Manneh",CDC,173 ,485 
+RiverCess,36001 ,4 ,"Cestos City High School, Cestos City ",President/Vice-President Runoff ,2005,Presidential,2,272 ,15 ,287 ,"JOHNSON-SIRLEAF, Ellen",UP,107 ,483 
+RiverCess,36001 ,4 ,"Cestos City High School, Cestos City ",President/Vice-President Runoff ,2005,Presidential,2,272 ,15 ,287 ,"WEAH, George Manneh",CDC,165 ,483 
+RiverCess,36003 ,2 ,"Charlie Tow n Community School, Charlie ",President/Vice-President Runoff ,2005,Presidential,2,185 ,14 ,199 ,"JOHNSON-SIRLEAF, Ellen",UP,134 ,406 
+RiverCess,36003 ,2 ,"Charlie Tow n Community School, Charlie ",President/Vice-President Runoff ,2005,Presidential,2,185 ,14 ,199 ,"WEAH, George Manneh",CDC,51 ,406 
+RiverCess,36004 ,3 ,"Little Liberia Community School , Little Liberia ",President/Vice-President Runoff ,2005,Presidential,2,266 ,9 ,275 ,"JOHNSON-SIRLEAF, Ellen",UP,159 ,512 
+RiverCess,36004 ,3 ,"Little Liberia Community School , Little Liberia ",President/Vice-President Runoff ,2005,Presidential,2,266 ,9 ,275 ,"WEAH, George Manneh",CDC,107 ,512 
+RiverCess,36006 ,1 ,"Rock Cess Public School, Pankloh ",President/Vice-President Runoff ,2005,Presidential,2,226 ,12 ,238 ,"JOHNSON-SIRLEAF, Ellen",UP,23 ,526 
+RiverCess,36006 ,1 ,"Rock Cess Public School, Pankloh ",President/Vice-President Runoff ,2005,Presidential,2,226 ,12 ,238 ,"WEAH, George Manneh",CDC,203 ,526 
+RiverCess,36008 ,2 ,"Yarpa Tow n Center, Yarpa ",President/Vice-President Runoff ,2005,Presidential,2,231 ,2 ,233 ,"JOHNSON-SIRLEAF, Ellen",UP,128 ,536 
+RiverCess,36008 ,2 ,"Yarpa Tow n Center, Yarpa ",President/Vice-President Runoff ,2005,Presidential,2,231 ,2 ,233 ,"WEAH, George Manneh",CDC,103 ,536 
+RiverCess,36009 ,2 ,"Goezohn Tow n Center, Geozohn ",President/Vice-President Runoff ,2005,Presidential,2,107 ,1 ,108 ,"JOHNSON-SIRLEAF, Ellen",UP,21 ,431 
+RiverCess,36009 ,2 ,"Goezohn Tow n Center, Geozohn ",President/Vice-President Runoff ,2005,Presidential,2,107 ,1 ,108 ,"WEAH, George Manneh",CDC,86 ,431 
+RiverCess,36010 ,2 ,"Gbolosseo Tow n Public School, Gbolossed ",President/Vice-President Runoff ,2005,Presidential,2,102 ,2 ,104 ,"JOHNSON-SIRLEAF, Ellen",UP,15 ,555 
+RiverCess,36010 ,2 ,"Gbolosseo Tow n Public School, Gbolossed ",President/Vice-President Runoff ,2005,Presidential,2,102 ,2 ,104 ,"WEAH, George Manneh",CDC,87 ,555 
+RiverCess,36012 ,1 ,"Garpue Tow n Center, Garpue ",President/Vice-President Runoff ,2005,Presidential,2,192 ,13 ,205 ,"JOHNSON-SIRLEAF, Ellen",UP,73 ,432 
+RiverCess,36012 ,1 ,"Garpue Tow n Center, Garpue ",President/Vice-President Runoff ,2005,Presidential,2,192 ,13 ,205 ,"WEAH, George Manneh",CDC,119 ,432 
+RiverCess,36014 ,2 ,"Kachukon Tow n Center, Kachukon ",President/Vice-President Runoff ,2005,Presidential,2,258 ,7 ,265 ,"JOHNSON-SIRLEAF, Ellen",UP,235 ,344 
+RiverCess,36014 ,2 ,"Kachukon Tow n Center, Kachukon ",President/Vice-President Runoff ,2005,Presidential,2,258 ,7 ,265 ,"WEAH, George Manneh",CDC,23 ,344 
+RiverCess,36016 ,1 ,"New  Creation School, Kangbo ",President/Vice-President Runoff ,2005,Presidential,2,194 ,5 ,199 ,"JOHNSON-SIRLEAF, Ellen",UP,137 ,584 
+RiverCess,36016 ,1 ,"New  Creation School, Kangbo ",President/Vice-President Runoff ,2005,Presidential,2,194 ,5 ,199 ,"WEAH, George Manneh",CDC,57 ,584 
+RiverCess,36017 ,3 ,"Bojeesay Tow n Center, Bojeesay ",President/Vice-President Runoff ,2005,Presidential,2,161 ,4 ,165 ,"JOHNSON-SIRLEAF, Ellen",UP,52 ,438 
+RiverCess,36017 ,3 ,"Bojeesay Tow n Center, Bojeesay ",President/Vice-President Runoff ,2005,Presidential,2,161 ,4 ,165 ,"WEAH, George Manneh",CDC,109 ,438 
+RiverCess,36019 ,2 ,"Paye Tow n Center, Paye ",President/Vice-President Runoff ,2005,Presidential,2,149 ,0 ,149 ,"JOHNSON-SIRLEAF, Ellen",UP,80 ,372 
+RiverCess,36019 ,2 ,"Paye Tow n Center, Paye ",President/Vice-President Runoff ,2005,Presidential,2,149 ,0 ,149 ,"WEAH, George Manneh",CDC,69 ,372 
+RiverCess,36021 ,2 ,"Bodow hea Tow n Center, Bodow hea ",President/Vice-President Runoff ,2005,Presidential,2,143 ,1 ,144 ,"JOHNSON-SIRLEAF, Ellen",UP,67 ,551 
+RiverCess,36021 ,2 ,"Bodow hea Tow n Center, Bodow hea ",President/Vice-President Runoff ,2005,Presidential,2,143 ,1 ,144 ,"WEAH, George Manneh",CDC,76 ,551 
+RiverCess,36001 ,2 ,"Cestos City High School, Cestos City ",President/Vice-President Runoff ,2005,Presidential,2,260 ,5 ,265 ,"JOHNSON-SIRLEAF, Ellen",UP,105 ,444 
+RiverCess,36001 ,2 ,"Cestos City High School, Cestos City ",President/Vice-President Runoff ,2005,Presidential,2,260 ,5 ,265 ,"WEAH, George Manneh",CDC,155 ,444 
+RiverCess,36002 ,1 ,"Garyezohn Public School, Garyezohn ",President/Vice-President Runoff ,2005,Presidential,2,276 ,7 ,283 ,"JOHNSON-SIRLEAF, Ellen",UP,18 ,522 
+RiverCess,36002 ,1 ,"Garyezohn Public School, Garyezohn ",President/Vice-President Runoff ,2005,Presidential,2,276 ,7 ,283 ,"WEAH, George Manneh",CDC,258 ,522 
+RiverCess,36004 ,1 ,"Little Liberia Community School , Little Liberia ",President/Vice-President Runoff ,2005,Presidential,2,187 ,8 ,195 ,"JOHNSON-SIRLEAF, Ellen",UP,59 ,500 
+RiverCess,36004 ,1 ,"Little Liberia Community School , Little Liberia ",President/Vice-President Runoff ,2005,Presidential,2,187 ,8 ,195 ,"WEAH, George Manneh",CDC,128 ,500 
+RiverCess,36005 ,1 ,"Broad Street Center, Broad Street ",President/Vice-President Runoff ,2005,Presidential,2,126 ,9 ,135 ,"JOHNSON-SIRLEAF, Ellen",UP,84 ,340 
+RiverCess,36005 ,1 ,"Broad Street Center, Broad Street ",President/Vice-President Runoff ,2005,Presidential,2,126 ,9 ,135 ,"WEAH, George Manneh",CDC,42 ,340 
+RiverCess,36007 ,1 ,"Krakpo Tow n Center, Krakpo ",President/Vice-President Runoff ,2005,Presidential,2,162 ,11 ,173 ,"JOHNSON-SIRLEAF, Ellen",UP,90 ,313 
+RiverCess,36007 ,1 ,"Krakpo Tow n Center, Krakpo ",President/Vice-President Runoff ,2005,Presidential,2,162 ,11 ,173 ,"WEAH, George Manneh",CDC,72 ,313 
+RiverCess,36008 ,3 ,"Yarpa Tow n Center, Yarpa ",President/Vice-President Runoff ,2005,Presidential,2,288 ,1 ,289 ,"JOHNSON-SIRLEAF, Ellen",UP,191 ,530 
+RiverCess,36008 ,3 ,"Yarpa Tow n Center, Yarpa ",President/Vice-President Runoff ,2005,Presidential,2,288 ,1 ,289 ,"WEAH, George Manneh",CDC,97 ,530 
+RiverCess,36009 ,3 ,"Goezohn Tow n Center, Geozohn ",President/Vice-President Runoff ,2005,Presidential,2,126 ,6 ,132 ,"JOHNSON-SIRLEAF, Ellen",UP,30 ,436 
+RiverCess,36009 ,3 ,"Goezohn Tow n Center, Geozohn ",President/Vice-President Runoff ,2005,Presidential,2,126 ,6 ,132 ,"WEAH, George Manneh",CDC,96 ,436 
+RiverCess,36011 ,1 ,"Neezoin Center, Neezoin ",President/Vice-President Runoff ,2005,Presidential,2,192 ,12 ,204 ,"JOHNSON-SIRLEAF, Ellen",UP,80 ,449 
+RiverCess,36011 ,1 ,"Neezoin Center, Neezoin ",President/Vice-President Runoff ,2005,Presidential,2,192 ,12 ,204 ,"WEAH, George Manneh",CDC,112 ,449 
+RiverCess,36013 ,1 ,"Zammie Tow n Public School, Zammie ",President/Vice-President Runoff ,2005,Presidential,2,207 ,7 ,214 ,"JOHNSON-SIRLEAF, Ellen",UP,175 ,390 
+RiverCess,36013 ,1 ,"Zammie Tow n Public School, Zammie ",President/Vice-President Runoff ,2005,Presidential,2,207 ,7 ,214 ,"WEAH, George Manneh",CDC,32 ,390 
+RiverCess,36015 ,1 ,"Gbarsleh Tow n Center, Gbarsleh ",President/Vice-President Runoff ,2005,Presidential,2,104 ,4 ,108 ,"JOHNSON-SIRLEAF, Ellen",UP,58 ,373 
+RiverCess,36015 ,1 ,"Gbarsleh Tow n Center, Gbarsleh ",President/Vice-President Runoff ,2005,Presidential,2,104 ,4 ,108 ,"WEAH, George Manneh",CDC,46 ,373 
+RiverCess,36017 ,1 ,"Bojeesay Tow n Center, Bojeesay ",President/Vice-President Runoff ,2005,Presidential,2,144 ,3 ,147 ,"JOHNSON-SIRLEAF, Ellen",UP,48 ,414 
+RiverCess,36017 ,1 ,"Bojeesay Tow n Center, Bojeesay ",President/Vice-President Runoff ,2005,Presidential,2,144 ,3 ,147 ,"WEAH, George Manneh",CDC,96 ,414 
+RiverCess,36018 ,1 ,"Debbah Tow n Center, Debbah ",President/Vice-President Runoff ,2005,Presidential,2,117 ,8 ,125 ,"JOHNSON-SIRLEAF, Ellen",UP,50 ,389 
+RiverCess,36018 ,1 ,"Debbah Tow n Center, Debbah ",President/Vice-President Runoff ,2005,Presidential,2,117 ,8 ,125 ,"WEAH, George Manneh",CDC,67 ,389 
+RiverCess,36020 ,1 ,"Bahn Tow n Center, Bahn ",President/Vice-President Runoff ,2005,Presidential,2,127 ,5 ,132 ,"JOHNSON-SIRLEAF, Ellen",UP,78 ,586 
+RiverCess,36020 ,1 ,"Bahn Tow n Center, Bahn ",President/Vice-President Runoff ,2005,Presidential,2,127 ,5 ,132 ,"WEAH, George Manneh",CDC,49 ,586 
+RiverCess,36022 ,1 ,"Gleiozohn Tow n Center, Gleozohn ",President/Vice-President Runoff ,2005,Presidential,2,77 ,5 ,82 ,"JOHNSON-SIRLEAF, Ellen",UP,29 ,328 
+RiverCess,36022 ,1 ,"Gleiozohn Tow n Center, Gleozohn ",President/Vice-President Runoff ,2005,Presidential,2,77 ,5 ,82 ,"WEAH, George Manneh",CDC,48 ,328 
+RiverCess,36001 ,3,"Cestos City High School, Cestos City",President/Vice-President Runoff,2005,Presidential,2,243,6,249,"JOHNSON-SIRLEAF, Ellen",UP,88,458
+RiverCess,36001 ,3,"Cestos City High School, Cestos City",President/Vice-President Runoff,2005,Presidential,2,243,6,249,"WEAH, George Manneh",CDC,155,458
+RiverCess,36003 ,1,"Charlie Tow n Community School, Charlie ",President/Vice-President Runoff,2005,Presidential,2,178,16,194,"JOHNSON-SIRLEAF, Ellen",UP,128,399
+RiverCess,36003 ,1,"Charlie Tow n Community School, Charlie ",President/Vice-President Runoff,2005,Presidential,2,178,16,194,"WEAH, George Manneh",CDC,50,399
+RiverCess,36004 ,2,"Little Liberia Community School , Little Liberia ",President/Vice-President Runoff,2005,Presidential,2,190,24,214,"JOHNSON-SIRLEAF, Ellen",UP,71,510
+RiverCess,36004 ,2,"Little Liberia Community School , Little Liberia ",President/Vice-President Runoff,2005,Presidential,2,190,24,214,"WEAH, George Manneh",CDC,119,510
+RiverCess,36005 ,2,"Broad Street Center, Broad Street",President/Vice-President Runoff,2005,Presidential,2,124,5,129,"JOHNSON-SIRLEAF, Ellen",UP,96,314
+RiverCess,36005 ,2,"Broad Street Center, Broad Street",President/Vice-President Runoff,2005,Presidential,2,124,5,129,"WEAH, George Manneh",CDC,28,314
+RiverCess,36008 ,1,"Yarpa Tow n Center, Yarpa ",President/Vice-President Runoff,2005,Presidential,2,210,7,217,"JOHNSON-SIRLEAF, Ellen",UP,113,506
+RiverCess,36008 ,1,"Yarpa Tow n Center, Yarpa ",President/Vice-President Runoff,2005,Presidential,2,210,7,217,"WEAH, George Manneh",CDC,97,506
+RiverCess,36009 ,1,"Goezohn Tow n Center, Geozohn ",President/Vice-President Runoff,2005,Presidential,2,99,0,99,"JOHNSON-SIRLEAF, Ellen",UP,11,442
+RiverCess,36009 ,1,"Goezohn Tow n Center, Geozohn ",President/Vice-President Runoff,2005,Presidential,2,99,0,99,"WEAH, George Manneh",CDC,88,442
+RiverCess,36010 ,1,"Gbolosseo Tow n Public School, Gbolossed ",President/Vice-President Runoff,2005,Presidential,2,200,2,202,"JOHNSON-SIRLEAF, Ellen",UP,12,565
+RiverCess,36010 ,1,"Gbolosseo Tow n Public School, Gbolossed ",President/Vice-President Runoff,2005,Presidential,2,200,2,202,"WEAH, George Manneh",CDC,188,565
+RiverCess,36011 ,2,"Neezoin Center, Neezoin ",President/Vice-President Runoff,2005,Presidential,2,395,3,398,"JOHNSON-SIRLEAF, Ellen",UP,280,474
+RiverCess,36011 ,2,"Neezoin Center, Neezoin ",President/Vice-President Runoff,2005,Presidential,2,395,3,398,"WEAH, George Manneh",CDC,115,474
+RiverCess,36014 ,1,"Kachukon Tow n Center, Kachukon ",President/Vice-President Runoff,2005,Presidential,2,273,18,291,"JOHNSON-SIRLEAF, Ellen",UP,240,374
+RiverCess,36014 ,1,"Kachukon Tow n Center, Kachukon ",President/Vice-President Runoff,2005,Presidential,2,273,18,291,"WEAH, George Manneh",CDC,33,374
+RiverCess,36015 ,2,"Gbarsleh Tow n Center, Gbarsleh ",President/Vice-President Runoff,2005,Presidential,2,146,3,149,"JOHNSON-SIRLEAF, Ellen",UP,103,408
+RiverCess,36015 ,2,"Gbarsleh Tow n Center, Gbarsleh ",President/Vice-President Runoff,2005,Presidential,2,146,3,149,"WEAH, George Manneh",CDC,43,408
+RiverCess,36017 ,2,"Bojeesay Tow n Center, Bojeesay ",President/Vice-President Runoff,2005,Presidential,2,155,4,159,"JOHNSON-SIRLEAF, Ellen",UP,58,441
+RiverCess,36017 ,2,"Bojeesay Tow n Center, Bojeesay ",President/Vice-President Runoff,2005,Presidential,2,155,4,159,"WEAH, George Manneh",CDC,97,441
+RiverCess,36019 ,1,"Paye Tow n Center, Paye ",President/Vice-President Runoff,2005,Presidential,2,203,3,206,"JOHNSON-SIRLEAF, Ellen",UP,101,358
+RiverCess,36019 ,1,"Paye Tow n Center, Paye ",President/Vice-President Runoff,2005,Presidential,2,203,3,206,"WEAH, George Manneh",CDC,102,358
+RiverCess,36021 ,1,"Bodow hea Tow n Center, Bodow hea ",President/Vice-President Runoff,2005,Presidential,2,147,5,152,"JOHNSON-SIRLEAF, Ellen",UP,74,553
+RiverCess,36021 ,1,"Bodow hea Tow n Center, Bodow hea ",President/Vice-President Runoff,2005,Presidential,2,147,5,152,"WEAH, George Manneh",CDC,73,553
+RiverCess,36022 ,2,"Gleiozohn Tow n Center, Gleozohn ",President/Vice-President Runoff,2005,Presidential,2,95,2,97,"JOHNSON-SIRLEAF, Ellen",UP,39,338
+RiverCess,36022 ,2,"Gleiozohn Tow n Center, Gleozohn ",President/Vice-President Runoff,2005,Presidential,2,95,2,97,"WEAH, George Manneh",CDC,56,338

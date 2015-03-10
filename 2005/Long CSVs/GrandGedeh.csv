@@ -1,0 +1,147 @@
+election_county,precinct,polling_place,address,election,election_year,election_type,election_round,valid_votes,invalid_votes,total_votes,candidate,cand_party,cand_votes,registered_voters
+GrandGedeh,15001 ,1,"Toe Tow n Public School, Toe Tow n ",President/Vice-President Runoff ,2005,Presidential,2,320,2,322,"JOHNSON-SIRLEAF, Ellen",UP,7,500
+GrandGedeh,15001 ,1,"Toe Tow n Public School, Toe Tow n ",President/Vice-President Runoff ,2005,Presidential,2,320,2,322,"WEAH, George Manneh",CDC,313,500
+GrandGedeh,15001 ,4,"Toe Tow n Public School, Toe Tow n ",President/Vice-President Runoff ,2005,Presidential,2,377,5,382,"JOHNSON-SIRLEAF, Ellen",UP,5,533
+GrandGedeh,15001 ,4,"Toe Tow n Public School, Toe Tow n ",President/Vice-President Runoff ,2005,Presidential,2,377,5,382,"WEAH, George Manneh",CDC,372,533
+GrandGedeh,15003 ,2,"Duogee Tow n Public School, Duogee Tow n ",President/Vice-President Runoff ,2005,Presidential,2,318,1,319,"JOHNSON-SIRLEAF, Ellen",UP,1,331
+GrandGedeh,15003 ,2,"Duogee Tow n Public School, Duogee Tow n ",President/Vice-President Runoff ,2005,Presidential,2,318,1,319,"WEAH, George Manneh",CDC,317,331
+GrandGedeh,15005 ,1,"Gaye Tow n Public School, Gaye Tow n ",President/Vice-President Runoff ,2005,Presidential,2,343,2,345,"JOHNSON-SIRLEAF, Ellen",UP,10,372
+GrandGedeh,15005 ,1,"Gaye Tow n Public School, Gaye Tow n ",President/Vice-President Runoff ,2005,Presidential,2,343,2,345,"WEAH, George Manneh",CDC,333,372
+GrandGedeh,15007 ,1,"Polar Tow n Public School, Polar Tow n ",President/Vice-President Runoff ,2005,Presidential,2,280,0,280,"JOHNSON-SIRLEAF, Ellen",UP,1,322
+GrandGedeh,15007 ,1,"Polar Tow n Public School, Polar Tow n ",President/Vice-President Runoff ,2005,Presidential,2,280,0,280,"WEAH, George Manneh",CDC,279,322
+GrandGedeh,15008 ,2,"Jarw odee Public School, Jarw odee Tow n ",President/Vice-President Runoff ,2005,Presidential,2,242,0,242,"JOHNSON-SIRLEAF, Ellen",UP,10,324
+GrandGedeh,15008 ,2,"Jarw odee Public School, Jarw odee Tow n ",President/Vice-President Runoff ,2005,Presidential,2,242,0,242,"WEAH, George Manneh",CDC,232,324
+GrandGedeh,15011 ,1,"Gbo-gew on Tow n Palava Hut, Gbo-gew on Tow n ",President/Vice-President Runoff ,2005,Presidential,2,308,2,310,"JOHNSON-SIRLEAF, Ellen",UP,14,541
+GrandGedeh,15011 ,1,"Gbo-gew on Tow n Palava Hut, Gbo-gew on Tow n ",President/Vice-President Runoff ,2005,Presidential,2,308,2,310,"WEAH, George Manneh",CDC,294,541
+GrandGedeh,15013 ,1,"Bargoblor Public School, Bargbolor Tow n ",President/Vice-President Runoff ,2005,Presidential,2,342,0,342,"JOHNSON-SIRLEAF, Ellen",UP,0,370
+GrandGedeh,15013 ,1,"Bargoblor Public School, Bargbolor Tow n ",President/Vice-President Runoff ,2005,Presidential,2,342,0,342,"WEAH, George Manneh",CDC,342,370
+GrandGedeh,15014 ,2,"Tuzon Tow n Public School, Tuzon Tow n ",President/Vice-President Runoff ,2005,Presidential,2,374,0,374,"JOHNSON-SIRLEAF, Ellen",UP,0,377
+GrandGedeh,15014 ,2,"Tuzon Tow n Public School, Tuzon Tow n ",President/Vice-President Runoff ,2005,Presidential,2,374,0,374,"WEAH, George Manneh",CDC,374,377
+GrandGedeh,15016 ,1,"City Hall Zw edru, Zw edru ",President/Vice-President Runoff ,2005,Presidential,2,305,1,306,"JOHNSON-SIRLEAF, Ellen",UP,9,464
+GrandGedeh,15016 ,1,"City Hall Zw edru, Zw edru ",President/Vice-President Runoff ,2005,Presidential,2,305,1,306,"WEAH, George Manneh",CDC,296,464
+GrandGedeh,15016 ,4,"City Hall Zw edru, Zw edru ",President/Vice-President Runoff ,2005,Presidential,2,325,4,329,"JOHNSON-SIRLEAF, Ellen",UP,16,505
+GrandGedeh,15016 ,4,"City Hall Zw edru, Zw edru ",President/Vice-President Runoff ,2005,Presidential,2,325,4,329,"WEAH, George Manneh",CDC,309,505
+GrandGedeh,15017 ,3,"Mult.high School Zw edru, Zw edru ",President/Vice-President Runoff ,2005,Presidential,2,319,5,324,"JOHNSON-SIRLEAF, Ellen",UP,22,495
+GrandGedeh,15017 ,3,"Mult.high School Zw edru, Zw edru ",President/Vice-President Runoff ,2005,Presidential,2,319,5,324,"WEAH, George Manneh",CDC,297,495
+GrandGedeh,15018 ,3,"Loic Building Zw edru, Zw edru ",President/Vice-President Runoff ,2005,Presidential,2,319,6,325,"JOHNSON-SIRLEAF, Ellen",UP,39,496
+GrandGedeh,15018 ,3,"Loic Building Zw edru, Zw edru ",President/Vice-President Runoff ,2005,Presidential,2,319,6,325,"WEAH, George Manneh",CDC,280,496
+GrandGedeh,15019 ,2,"Niabo Quarter School Building Zw edru, Zw edru ",President/Vice-President Runoff ,2005,Presidential,2,346,4,350,"JOHNSON-SIRLEAF, Ellen",UP,13,495
+GrandGedeh,15019 ,2,"Niabo Quarter School Building Zw edru, Zw edru ",President/Vice-President Runoff ,2005,Presidential,2,346,4,350,"WEAH, George Manneh",CDC,333,495
+GrandGedeh,15020 ,2,"Suah Quarter School Building Zw edru, Zw edru ",President/Vice-President Runoff ,2005,Presidential,2,345,11,356,"JOHNSON-SIRLEAF, Ellen",UP,29,559
+GrandGedeh,15020 ,2,"Suah Quarter School Building Zw edru, Zw edru ",President/Vice-President Runoff ,2005,Presidential,2,345,11,356,"WEAH, George Manneh",CDC,316,559
+GrandGedeh,15021 ,2,"Webbo Quarter Library, Zw edru ",President/Vice-President Runoff ,2005,Presidential,2,337,8,345,"JOHNSON-SIRLEAF, Ellen",UP,23,494
+GrandGedeh,15021 ,2,"Webbo Quarter Library, Zw edru ",President/Vice-President Runoff ,2005,Presidential,2,337,8,345,"WEAH, George Manneh",CDC,314,494
+GrandGedeh,15023 ,1,"Glaplay Tow n Palava Hut, Glaplaytow n ",President/Vice-President Runoff ,2005,Presidential,2,203,0,203,"JOHNSON-SIRLEAF, Ellen",UP,9,262
+GrandGedeh,15023 ,1,"Glaplay Tow n Palava Hut, Glaplaytow n ",President/Vice-President Runoff ,2005,Presidential,2,203,0,203,"WEAH, George Manneh",CDC,194,262
+GrandGedeh,15025 ,2,"Janzon Tow n Public School, Janzon  Tow n ",President/Vice-President Runoff ,2005,Presidential,2,427,6,433,"JOHNSON-SIRLEAF, Ellen",UP,7,556
+GrandGedeh,15025 ,2,"Janzon Tow n Public School, Janzon  Tow n ",President/Vice-President Runoff ,2005,Presidential,2,427,6,433,"WEAH, George Manneh",CDC,420,556
+GrandGedeh,15028 ,1,"Gardue Tow n Palava Hut, Gardue Tow n ",President/Vice-President Runoff ,2005,Presidential,2,183,11,194,"JOHNSON-SIRLEAF, Ellen",UP,7,297
+GrandGedeh,15028 ,1,"Gardue Tow n Palava Hut, Gardue Tow n ",President/Vice-President Runoff ,2005,Presidential,2,183,11,194,"WEAH, George Manneh",CDC,176,297
+GrandGedeh,15031 ,1,"Karlaw leh Tow n Public School, Karlaw leh Tow n ",President/Vice-President Runoff ,2005,Presidential,2,198,1,199,"JOHNSON-SIRLEAF, Ellen",UP,3,333
+GrandGedeh,15031 ,1,"Karlaw leh Tow n Public School, Karlaw leh Tow n ",President/Vice-President Runoff ,2005,Presidential,2,198,1,199,"WEAH, George Manneh",CDC,195,333
+GrandGedeh,15033 ,1,"Jarw odee Tow n Public School, Jarw odee Tow n ",President/Vice-President Runoff ,2005,Presidential,2,271,15,286,"JOHNSON-SIRLEAF, Ellen",UP,3,374
+GrandGedeh,15033 ,1,"Jarw odee Tow n Public School, Jarw odee Tow n ",President/Vice-President Runoff ,2005,Presidential,2,271,15,286,"WEAH, George Manneh",CDC,268,374
+GrandGedeh,15035 ,1,"Ziah Tow n Plava Hut, Ziah Tow n ",President/Vice-President Runoff ,2005,Presidential,2,315,5,320,"JOHNSON-SIRLEAF, Ellen",UP,7,543
+GrandGedeh,15035 ,1,"Ziah Tow n Plava Hut, Ziah Tow n ",President/Vice-President Runoff ,2005,Presidential,2,315,5,320,"WEAH, George Manneh",CDC,308,543
+GrandGedeh,15036 ,1,"Albert Memorial Institute Ziah Tow n, Ziah Tow n ",President/Vice-President Runoff ,2005,Presidential,2,250,3,253,"JOHNSON-SIRLEAF, Ellen",UP,4,421
+GrandGedeh,15036 ,1,"Albert Memorial Institute Ziah Tow n, Ziah Tow n ",President/Vice-President Runoff ,2005,Presidential,2,250,3,253,"WEAH, George Manneh",CDC,246,421
+GrandGedeh,15038 ,1,"Peoh Tow n Palava Hut, Peoh Tow n ",President/Vice-President Runoff ,2005,Presidential,2,181,5,186,"JOHNSON-SIRLEAF, Ellen",UP,5,185
+GrandGedeh,15038 ,1,"Peoh Tow n Palava Hut, Peoh Tow n ",President/Vice-President Runoff ,2005,Presidential,2,181,5,186,"WEAH, George Manneh",CDC,176,185
+GrandGedeh,15040 ,2,"Klotetee Tow n Palava Hut, Klotetee Tow n",President/Vice-President Runoff,2005,Presidential,2,232,3,235,"JOHNSON-SIRLEAF, Ellen",UP,4,362
+GrandGedeh,15040 ,2,"Klotetee Tow n Palava Hut, Klotetee Tow n",President/Vice-President Runoff,2005,Presidential,2,232,3,235,"WEAH, George Manneh",CDC,228,362
+GrandGedeh,15001 ,2,"Toe Tow n Public School, Toe Tow n ",President/Vice-President Runoff ,2005,Presidential,2,354,1,355,"JOHNSON-SIRLEAF, Ellen",UP,7,510
+GrandGedeh,15001 ,2,"Toe Tow n Public School, Toe Tow n ",President/Vice-President Runoff ,2005,Presidential,2,354,1,355,"WEAH, George Manneh",CDC,347,510
+GrandGedeh,15002 ,1,"Senniw en Tow n Public School, Senniw en Tow n ",President/Vice-President Runoff ,2005,Presidential,2,399,0,399,"JOHNSON-SIRLEAF, Ellen",UP,6,414
+GrandGedeh,15002 ,1,"Senniw en Tow n Public School, Senniw en Tow n ",President/Vice-President Runoff ,2005,Presidential,2,399,0,399,"WEAH, George Manneh",CDC,393,414
+GrandGedeh,15004 ,1,"Zleh Tow n Public School, Zleh Tow n ",President/Vice-President Runoff ,2005,Presidential,2,421,6,427,"JOHNSON-SIRLEAF, Ellen",UP,7,531
+GrandGedeh,15004 ,1,"Zleh Tow n Public School, Zleh Tow n ",President/Vice-President Runoff ,2005,Presidential,2,421,6,427,"WEAH, George Manneh",CDC,414,531
+GrandGedeh,15006 ,1,"Pouh Tow n Public School, Pouh Tow n ",President/Vice-President Runoff ,2005,Presidential,2,240,2,242,"JOHNSON-SIRLEAF, Ellen",UP,13,309
+GrandGedeh,15006 ,1,"Pouh Tow n Public School, Pouh Tow n ",President/Vice-President Runoff ,2005,Presidential,2,240,2,242,"WEAH, George Manneh",CDC,227,309
+GrandGedeh,15007 ,2,"Polar Tow n Public School, Polar Tow n ",President/Vice-President Runoff ,2005,Presidential,2,309,1,310,"JOHNSON-SIRLEAF, Ellen",UP,1,347
+GrandGedeh,15007 ,2,"Polar Tow n Public School, Polar Tow n ",President/Vice-President Runoff ,2005,Presidential,2,309,1,310,"WEAH, George Manneh",CDC,308,347
+GrandGedeh,15009 ,1,"Gbarkeh Tow n Palava Hut, Gbarkeh Tow n ",President/Vice-President Runoff ,2005,Presidential,2,393,16,409,"JOHNSON-SIRLEAF, Ellen",UP,1,526
+GrandGedeh,15009 ,1,"Gbarkeh Tow n Palava Hut, Gbarkeh Tow n ",President/Vice-President Runoff ,2005,Presidential,2,393,16,409,"WEAH, George Manneh",CDC,392,526
+GrandGedeh,15012 ,1,"Zia Tow n Public School, Zia Tow n ",President/Vice-President Runoff ,2005,Presidential,2,391,2,393,"JOHNSON-SIRLEAF, Ellen",UP,1,549
+GrandGedeh,15012 ,1,"Zia Tow n Public School, Zia Tow n ",President/Vice-President Runoff ,2005,Presidential,2,391,2,393,"WEAH, George Manneh",CDC,390,549
+GrandGedeh,15013 ,2,"Bargoblor Public School, Bargbolor Tow n ",President/Vice-President Runoff ,2005,Presidential,2,316,2,318,"JOHNSON-SIRLEAF, Ellen",UP,1,354
+GrandGedeh,15013 ,2,"Bargoblor Public School, Bargbolor Tow n ",President/Vice-President Runoff ,2005,Presidential,2,316,2,318,"WEAH, George Manneh",CDC,315,354
+GrandGedeh,15015 ,1,"Gboleken Tow n Public School, Gboleken Tow n ",President/Vice-President Runoff ,2005,Presidential,2,286,5,291,"JOHNSON-SIRLEAF, Ellen",UP,14,511
+GrandGedeh,15015 ,1,"Gboleken Tow n Public School, Gboleken Tow n ",President/Vice-President Runoff ,2005,Presidential,2,286,5,291,"WEAH, George Manneh",CDC,272,511
+GrandGedeh,15016 ,2,"City Hall Zw edru, Zw edru ",President/Vice-President Runoff ,2005,Presidential,2,287,8,295,"JOHNSON-SIRLEAF, Ellen",UP,32,459
+GrandGedeh,15016 ,2,"City Hall Zw edru, Zw edru ",President/Vice-President Runoff ,2005,Presidential,2,287,8,295,"WEAH, George Manneh",CDC,255,459
+GrandGedeh,15017 ,1,"Mult.high School Zw edru, Zw edru ",President/Vice-President Runoff ,2005,Presidential,2,335,5,340,"JOHNSON-SIRLEAF, Ellen",UP,16,531
+GrandGedeh,15017 ,1,"Mult.high School Zw edru, Zw edru ",President/Vice-President Runoff ,2005,Presidential,2,335,5,340,"WEAH, George Manneh",CDC,319,531
+GrandGedeh,15018 ,1,"Loic Building Zw edru, Zw edru ",President/Vice-President Runoff ,2005,Presidential,2,329,4,333,"JOHNSON-SIRLEAF, Ellen",UP,29,503
+GrandGedeh,15018 ,1,"Loic Building Zw edru, Zw edru ",President/Vice-President Runoff ,2005,Presidential,2,329,4,333,"WEAH, George Manneh",CDC,300,503
+GrandGedeh,15018 ,4,"Loic Building Zw edru, Zw edru ",President/Vice-President Runoff ,2005,Presidential,2,310,10,320,"JOHNSON-SIRLEAF, Ellen",UP,28,481
+GrandGedeh,15018 ,4,"Loic Building Zw edru, Zw edru ",President/Vice-President Runoff ,2005,Presidential,2,310,10,320,"WEAH, George Manneh",CDC,282,481
+GrandGedeh,15019 ,3,"Niabo Quarter School Building Zw edru, Zw edru ",President/Vice-President Runoff ,2005,Presidential,2,320,11,331,"JOHNSON-SIRLEAF, Ellen",UP,11,457
+GrandGedeh,15019 ,3,"Niabo Quarter School Building Zw edru, Zw edru ",President/Vice-President Runoff ,2005,Presidential,2,320,11,331,"WEAH, George Manneh",CDC,309,457
+GrandGedeh,15020 ,3,"Suah Quarter School Building Zw edru, Zw edru ",President/Vice-President Runoff ,2005,Presidential,2,341,5,346,"JOHNSON-SIRLEAF, Ellen",UP,23,559
+GrandGedeh,15020 ,3,"Suah Quarter School Building Zw edru, Zw edru ",President/Vice-President Runoff ,2005,Presidential,2,341,5,346,"WEAH, George Manneh",CDC,318,559
+GrandGedeh,15022 ,1,"Zanw o Quarter Finance Office Building, Zw edru ",President/Vice-President Runoff ,2005,Presidential,2,244,12,256,"JOHNSON-SIRLEAF, Ellen",UP,16,443
+GrandGedeh,15022 ,1,"Zanw o Quarter Finance Office Building, Zw edru ",President/Vice-President Runoff ,2005,Presidential,2,244,12,256,"WEAH, George Manneh",CDC,228,443
+GrandGedeh,15024 ,1,"Beh Tow n Palava Hut, Beh Tow n ",President/Vice-President Runoff ,2005,Presidential,2,173,3,176,"JOHNSON-SIRLEAF, Ellen",UP,3,276
+GrandGedeh,15024 ,1,"Beh Tow n Palava Hut, Beh Tow n ",President/Vice-President Runoff ,2005,Presidential,2,173,3,176,"WEAH, George Manneh",CDC,170,276
+GrandGedeh,15026 ,1,"Pellizohn Elementary Jr. High School, Pellizohn ",President/Vice-President Runoff ,2005,Presidential,2,244,2,246,"JOHNSON-SIRLEAF, Ellen",UP,12,332
+GrandGedeh,15026 ,1,"Pellizohn Elementary Jr. High School, Pellizohn ",President/Vice-President Runoff ,2005,Presidential,2,244,2,246,"WEAH, George Manneh",CDC,232,332
+GrandGedeh,15029 ,1,"Tuffi Tow n Palava Hut, Tuffi Tow n ",President/Vice-President Runoff ,2005,Presidential,2,208,0,208,"JOHNSON-SIRLEAF, Ellen",UP,5,264
+GrandGedeh,15029 ,1,"Tuffi Tow n Palava Hut, Tuffi Tow n ",President/Vice-President Runoff ,2005,Presidential,2,208,0,208,"WEAH, George Manneh",CDC,203,264
+GrandGedeh,15031 ,2,"Karlaw leh Tow n Public School, Karlaw leh Tow n ",President/Vice-President Runoff ,2005,Presidential,2,201,3,204,"JOHNSON-SIRLEAF, Ellen",UP,5,313
+GrandGedeh,15031 ,2,"Karlaw leh Tow n Public School, Karlaw leh Tow n ",President/Vice-President Runoff ,2005,Presidential,2,201,3,204,"WEAH, George Manneh",CDC,196,313
+GrandGedeh,15033 ,2,"Jarw odee Tow n Public School, Jarw odee Tow n ",President/Vice-President Runoff ,2005,Presidential,2,300,3,303,"JOHNSON-SIRLEAF, Ellen",UP,6,371
+GrandGedeh,15033 ,2,"Jarw odee Tow n Public School, Jarw odee Tow n ",President/Vice-President Runoff ,2005,Presidential,2,300,3,303,"WEAH, George Manneh",CDC,294,371
+GrandGedeh,15035 ,2,"Ziah Tow n Plava Hut, Ziah Tow n ",President/Vice-President Runoff ,2005,Presidential,2,318,15,333,"JOHNSON-SIRLEAF, Ellen",UP,6,571
+GrandGedeh,15035 ,2,"Ziah Tow n Plava Hut, Ziah Tow n ",President/Vice-President Runoff ,2005,Presidential,2,318,15,333,"WEAH, George Manneh",CDC,312,571
+GrandGedeh,15036 ,2,"Albert Memorial Institute Ziah Tow n, Ziah Tow n ",President/Vice-President Runoff ,2005,Presidential,2,254,10,264,"JOHNSON-SIRLEAF, Ellen",UP,4,430
+GrandGedeh,15036 ,2,"Albert Memorial Institute Ziah Tow n, Ziah Tow n ",President/Vice-President Runoff ,2005,Presidential,2,254,10,264,"WEAH, George Manneh",CDC,250,430
+GrandGedeh,15039 ,1,"Billibo Tow n Palava Hut, Billibo Tow n ",President/Vice-President Runoff ,2005,Presidential,2,224,9,233,"JOHNSON-SIRLEAF, Ellen",UP,6,330
+GrandGedeh,15039 ,1,"Billibo Tow n Palava Hut, Billibo Tow n ",President/Vice-President Runoff ,2005,Presidential,2,224,9,233,"WEAH, George Manneh",CDC,218,330
+GrandGedeh,15001 ,3,"Toe Tow n Public School, Toe Tow n",President/Vice-President Runoff,2005,Presidential,2,331,2,333,"JOHNSON-SIRLEAF, Ellen",UP,11,541
+GrandGedeh,15001 ,3,"Toe Tow n Public School, Toe Tow n",President/Vice-President Runoff,2005,Presidential,2,331,2,333,"WEAH, George Manneh",CDC,320,541
+GrandGedeh,15003 ,1,"Duogee Tow n Public School, Duogee Tow n",President/Vice-President Runoff,2005,Presidential,2,368,2,370,"JOHNSON-SIRLEAF, Ellen",UP,1,382
+GrandGedeh,15003 ,1,"Duogee Tow n Public School, Duogee Tow n",President/Vice-President Runoff,2005,Presidential,2,368,2,370,"WEAH, George Manneh",CDC,367,382
+GrandGedeh,15004 ,2,"Zleh Tow n Public School, Zleh Tow n",President/Vice-President Runoff,2005,Presidential,2,413,4,417,"JOHNSON-SIRLEAF, Ellen",UP,9,535
+GrandGedeh,15004 ,2,"Zleh Tow n Public School, Zleh Tow n",President/Vice-President Runoff,2005,Presidential,2,413,4,417,"WEAH, George Manneh",CDC,404,535
+GrandGedeh,15006 ,2,"Pouh Tow n Public School, Pouh Tow n",President/Vice-President Runoff,2005,Presidential,2,233,3,236,"JOHNSON-SIRLEAF, Ellen",UP,10,297
+GrandGedeh,15006 ,2,"Pouh Tow n Public School, Pouh Tow n",President/Vice-President Runoff,2005,Presidential,2,233,3,236,"WEAH, George Manneh",CDC,223,297
+GrandGedeh,15008 ,1,"Jarw odee Public School, Jarw odee Tow n",President/Vice-President Runoff,2005,Presidential,2,223,6,229,"JOHNSON-SIRLEAF, Ellen",UP,4,319
+GrandGedeh,15008 ,1,"Jarw odee Public School, Jarw odee Tow n",President/Vice-President Runoff,2005,Presidential,2,223,6,229,"WEAH, George Manneh",CDC,219,319
+GrandGedeh,15010 ,1,"Chayee Tow n Palava Hut, Chayee Tow n",President/Vice-President Runoff,2005,Presidential,2,258,2,260,"JOHNSON-SIRLEAF, Ellen",UP,15,338
+GrandGedeh,15010 ,1,"Chayee Tow n Palava Hut, Chayee Tow n",President/Vice-President Runoff,2005,Presidential,2,258,2,260,"WEAH, George Manneh",CDC,243,338
+GrandGedeh,15012 ,2,"Zia Tow n Public School, Zia Tow n",President/Vice-President Runoff,2005,Presidential,2,352,1,353,"JOHNSON-SIRLEAF, Ellen",UP,4,520
+GrandGedeh,15012 ,2,"Zia Tow n Public School, Zia Tow n",President/Vice-President Runoff,2005,Presidential,2,352,1,353,"WEAH, George Manneh",CDC,348,520
+GrandGedeh,15014 ,1,"Tuzon Tow n Public School, Tuzon Tow n",President/Vice-President Runoff,2005,Presidential,2,364,2,366,"JOHNSON-SIRLEAF, Ellen",UP,0,377
+GrandGedeh,15014 ,1,"Tuzon Tow n Public School, Tuzon Tow n",President/Vice-President Runoff,2005,Presidential,2,364,2,366,"WEAH, George Manneh",CDC,364,377
+GrandGedeh,15015 ,2,"Gboleken Tow n Public School, Gboleken Tow n",President/Vice-President Runoff,2005,Presidential,2,295,0,295,"JOHNSON-SIRLEAF, Ellen",UP,11,509
+GrandGedeh,15015 ,2,"Gboleken Tow n Public School, Gboleken Tow n",President/Vice-President Runoff,2005,Presidential,2,295,0,295,"WEAH, George Manneh",CDC,284,509
+GrandGedeh,15016 ,3,"City Hall Zw edru, Zw edru",President/Vice-President Runoff,2005,Presidential,2,298,4,302,"JOHNSON-SIRLEAF, Ellen",UP,21,471
+GrandGedeh,15016 ,3,"City Hall Zw edru, Zw edru",President/Vice-President Runoff,2005,Presidential,2,298,4,302,"WEAH, George Manneh",CDC,277,471
+GrandGedeh,15017 ,2,"Mult.high School Zw edru, Zw edru",President/Vice-President Runoff,2005,Presidential,2,286,7,293,"JOHNSON-SIRLEAF, Ellen",UP,28,488
+GrandGedeh,15017 ,2,"Mult.high School Zw edru, Zw edru",President/Vice-President Runoff,2005,Presidential,2,286,7,293,"WEAH, George Manneh",CDC,258,488
+GrandGedeh,15018 ,2,"Loic Building Zw edru, Zw edru",President/Vice-President Runoff,2005,Presidential,2,326,9,335,"JOHNSON-SIRLEAF, Ellen",UP,33,483
+GrandGedeh,15018 ,2,"Loic Building Zw edru, Zw edru",President/Vice-President Runoff,2005,Presidential,2,326,9,335,"WEAH, George Manneh",CDC,293,483
+GrandGedeh,15019 ,1,"Niabo Quarter School Building Zw edru, Zw edru",President/Vice-President Runoff,2005,Presidential,2,334,5,339,"JOHNSON-SIRLEAF, Ellen",UP,16,460
+GrandGedeh,15019 ,1,"Niabo Quarter School Building Zw edru, Zw edru",President/Vice-President Runoff,2005,Presidential,2,334,5,339,"WEAH, George Manneh",CDC,318,460
+GrandGedeh,15020 ,1,"Suah Quarter School Building Zw edru, Zw edru",President/Vice-President Runoff,2005,Presidential,2,363,5,368,"JOHNSON-SIRLEAF, Ellen",UP,28,565
+GrandGedeh,15020 ,1,"Suah Quarter School Building Zw edru, Zw edru",President/Vice-President Runoff,2005,Presidential,2,363,5,368,"WEAH, George Manneh",CDC,335,565
+GrandGedeh,15021 ,1,"Webbo Quarter Library, Zw edru",President/Vice-President Runoff,2005,Presidential,2,352,7,359,"JOHNSON-SIRLEAF, Ellen",UP,33,511
+GrandGedeh,15021 ,1,"Webbo Quarter Library, Zw edru",President/Vice-President Runoff,2005,Presidential,2,352,7,359,"WEAH, George Manneh",CDC,319,511
+GrandGedeh,15022 ,2,"Zanw o Quarter Finance Office Building, Zw edru",President/Vice-President Runoff,2005,Presidential,2,270,6,276,"JOHNSON-SIRLEAF, Ellen",UP,29,455
+GrandGedeh,15022 ,2,"Zanw o Quarter Finance Office Building, Zw edru",President/Vice-President Runoff,2005,Presidential,2,270,6,276,"WEAH, George Manneh",CDC,241,455
+GrandGedeh,15025 ,1,"Janzon Tow n Public School, Janzon  Tow n",President/Vice-President Runoff,2005,Presidential,2,389,2,391,"JOHNSON-SIRLEAF, Ellen",UP,5,528
+GrandGedeh,15025 ,1,"Janzon Tow n Public School, Janzon  Tow n",President/Vice-President Runoff,2005,Presidential,2,389,2,391,"WEAH, George Manneh",CDC,384,528
+GrandGedeh,15027 ,1,"Kumah Tow n Public School, Kumah Tow n",President/Vice-President Runoff,2005,Presidential,2,240,0,240,"JOHNSON-SIRLEAF, Ellen",UP,12,329
+GrandGedeh,15027 ,1,"Kumah Tow n Public School, Kumah Tow n",President/Vice-President Runoff,2005,Presidential,2,240,0,240,"WEAH, George Manneh",CDC,228,329
+GrandGedeh,15030 ,1,"Petroken Tow n Public School, Petroken Tow n",President/Vice-President Runoff,2005,Presidential,2,429,0,429,"JOHNSON-SIRLEAF, Ellen",UP,3,445
+GrandGedeh,15030 ,1,"Petroken Tow n Public School, Petroken Tow n",President/Vice-President Runoff,2005,Presidential,2,429,0,429,"WEAH, George Manneh",CDC,426,445
+GrandGedeh,15032 ,1,"Penneken Tow n Public School , Penneken Tow n",President/Vice-President Runoff,2005,Presidential,2,499,5,504,"JOHNSON-SIRLEAF, Ellen",UP,2,580
+GrandGedeh,15032 ,1,"Penneken Tow n Public School , Penneken Tow n",President/Vice-President Runoff,2005,Presidential,2,499,5,504,"WEAH, George Manneh",CDC,497,580
+GrandGedeh,15034 ,1,"Boundary Tow n Palava Hut, Boundary Tow n",President/Vice-President Runoff,2005,Presidential,2,475,2,477,"JOHNSON-SIRLEAF, Ellen",UP,1,597
+GrandGedeh,15034 ,1,"Boundary Tow n Palava Hut, Boundary Tow n",President/Vice-President Runoff,2005,Presidential,2,475,2,477,"WEAH, George Manneh",CDC,474,597
+GrandGedeh,15035 ,3,"Ziah Tow n Plava Hut, Ziah Tow n",President/Vice-President Runoff,2005,Presidential,2,323,3,326,"JOHNSON-SIRLEAF, Ellen",UP,9,551
+GrandGedeh,15035 ,3,"Ziah Tow n Plava Hut, Ziah Tow n",President/Vice-President Runoff,2005,Presidential,2,323,3,326,"WEAH, George Manneh",CDC,314,551
+GrandGedeh,15037 ,1,"Druoglor Tow n Palava Hut, Druoglor Tow n",President/Vice-President Runoff,2005,Presidential,2,102,0,102,"JOHNSON-SIRLEAF, Ellen",UP,12,156
+GrandGedeh,15037 ,1,"Druoglor Tow n Palava Hut, Druoglor Tow n",President/Vice-President Runoff,2005,Presidential,2,102,0,102,"WEAH, George Manneh",CDC,90,156
+GrandGedeh,15040 ,1,"Klotetee Tow n Palava Hut, Klotetee Tow n",President/Vice-President Runoff,2005,Presidential,2,290,1,291,"JOHNSON-SIRLEAF, Ellen",UP,2,411
+GrandGedeh,15040 ,1,"Klotetee Tow n Palava Hut, Klotetee Tow n",President/Vice-President Runoff,2005,Presidential,2,290,1,291,"WEAH, George Manneh",CDC,288,411

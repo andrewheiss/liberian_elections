@@ -1,0 +1,213 @@
+election_county,precinct,polling_place,address,election,election_year,election_type,election_round,valid_votes,invalid_votes,total_votes,candidate,cand_party,cand_votes,registered_voters
+Maryland,27001 ,1,"Feloken Elementary School, Feloken ",President/Vice-President Runoff ,2005,Presidential,2,206,3,209,"JOHNSON-SIRLEAF, Ellen",UP,93,379
+Maryland,27001 ,1,"Feloken Elementary School, Feloken ",President/Vice-President Runoff ,2005,Presidential,2,206,3,209,"WEAH, George Manneh",CDC,113,379
+Maryland,27004 ,1,"Dw ejah Tow n Hall, Dw ejah ",President/Vice-President Runoff ,2005,Presidential,2,143,7,150,"JOHNSON-SIRLEAF, Ellen",UP,74,248
+Maryland,27004 ,1,"Dw ejah Tow n Hall, Dw ejah ",President/Vice-President Runoff ,2005,Presidential,2,143,7,150,"WEAH, George Manneh",CDC,69,248
+Maryland,27007 ,1,"Cavalla Tow n Hall, Cavalla ",President/Vice-President Runoff ,2005,Presidential,2,249,6,255,"JOHNSON-SIRLEAF, Ellen",UP,143,411
+Maryland,27007 ,1,"Cavalla Tow n Hall, Cavalla ",President/Vice-President Runoff ,2005,Presidential,2,249,6,255,"WEAH, George Manneh",CDC,106,411
+Maryland,27010 ,1,"Dugboken Elementary School, Dugboken ",President/Vice-President Runoff ,2005,Presidential,2,282,3,285,"JOHNSON-SIRLEAF, Ellen",UP,111,542
+Maryland,27010 ,1,"Dugboken Elementary School, Dugboken ",President/Vice-President Runoff ,2005,Presidential,2,282,3,285,"WEAH, George Manneh",CDC,171,542
+Maryland,27013 ,1,"Soloken Tow n Hall, Soloken ",President/Vice-President Runoff ,2005,Presidential,2,40,1,41,"JOHNSON-SIRLEAF, Ellen",UP,31,66
+Maryland,27013 ,1,"Soloken Tow n Hall, Soloken ",President/Vice-President Runoff ,2005,Presidential,2,40,1,41,"WEAH, George Manneh",CDC,9,66
+Maryland,27016 ,1,"Barrobo Central High School, Glofaken ",President/Vice-President Runoff ,2005,Presidential,2,200,1,201,"JOHNSON-SIRLEAF, Ellen",UP,78,323
+Maryland,27016 ,1,"Barrobo Central High School, Glofaken ",President/Vice-President Runoff ,2005,Presidential,2,200,1,201,"WEAH, George Manneh",CDC,122,323
+Maryland,27019 ,1,"Setor Tow n Hall, Setor ",President/Vice-President Runoff ,2005,Presidential,2,42,0,42,"JOHNSON-SIRLEAF, Ellen",UP,22,84
+Maryland,27019 ,1,"Setor Tow n Hall, Setor ",President/Vice-President Runoff ,2005,Presidential,2,42,0,42,"WEAH, George Manneh",CDC,20,84
+Maryland,27022 ,1,"Karloke Elementary & Jr. High School , Karloke ",President/Vice-President Runoff ,2005,Presidential,2,264,4,268,"JOHNSON-SIRLEAF, Ellen",UP,169,499
+Maryland,27022 ,1,"Karloke Elementary & Jr. High School , Karloke ",President/Vice-President Runoff ,2005,Presidential,2,264,4,268,"WEAH, George Manneh",CDC,95,499
+Maryland,27023 ,1,"Free Tow n I. Elementary School, Dorrobo Freetow n ",President/Vice-President Runoff ,2005,Presidential,2,165,7,172,"JOHNSON-SIRLEAF, Ellen",UP,117,485
+Maryland,27023 ,1,"Free Tow n I. Elementary School, Dorrobo Freetow n ",President/Vice-President Runoff ,2005,Presidential,2,165,7,172,"WEAH, George Manneh",CDC,48,485
+Maryland,27025 ,1,"Pogbaken Elementary School , Pogbaken ",President/Vice-President Runoff ,2005,Presidential,2,102,5,107,"JOHNSON-SIRLEAF, Ellen",UP,70,196
+Maryland,27025 ,1,"Pogbaken Elementary School , Pogbaken ",President/Vice-President Runoff ,2005,Presidential,2,102,5,107,"WEAH, George Manneh",CDC,32,196
+Maryland,27028 ,1,"Henogbe Elementary School, Henogbe ",President/Vice-President Runoff ,2005,Presidential,2,215,3,218,"JOHNSON-SIRLEAF, Ellen",UP,172,303
+Maryland,27028 ,1,"Henogbe Elementary School, Henogbe ",President/Vice-President Runoff ,2005,Presidential,2,215,3,218,"WEAH, George Manneh",CDC,43,303
+Maryland,27031 ,1,"Boniken Sr. High School, Boniken ",President/Vice-President Runoff ,2005,Presidential,2,181,15,196,"JOHNSON-SIRLEAF, Ellen",UP,100,321
+Maryland,27031 ,1,"Boniken Sr. High School, Boniken ",President/Vice-President Runoff ,2005,Presidential,2,181,15,196,"WEAH, George Manneh",CDC,81,321
+Maryland,27034 ,1,"Nyanw roken Community School, Nyanw roken ",President/Vice-President Runoff ,2005,Presidential,2,152,14,166,"JOHNSON-SIRLEAF, Ellen",UP,134,358
+Maryland,27034 ,1,"Nyanw roken Community School, Nyanw roken ",President/Vice-President Runoff ,2005,Presidential,2,152,14,166,"WEAH, George Manneh",CDC,18,358
+Maryland,27037 ,1,"Yederobo Elementary School, Yederobo ",President/Vice-President Runoff ,2005,Presidential,2,239,8,247,"JOHNSON-SIRLEAF, Ellen",UP,185,590
+Maryland,27037 ,1,"Yederobo Elementary School, Yederobo ",President/Vice-President Runoff ,2005,Presidential,2,239,8,247,"WEAH, George Manneh",CDC,54,590
+Maryland,27039 ,2,"Pleebo I, Pleebo City Hall ",President/Vice-President Runoff ,2005,Presidential,2,260,17,277,"JOHNSON-SIRLEAF, Ellen",UP,119,563
+Maryland,27039 ,2,"Pleebo I, Pleebo City Hall ",President/Vice-President Runoff ,2005,Presidential,2,260,17,277,"WEAH, George Manneh",CDC,141,563
+Maryland,27039 ,5,"Pleebo I, Pleebo City Hall ",President/Vice-President Runoff ,2005,Presidential,2,264,16,280,"JOHNSON-SIRLEAF, Ellen",UP,135,500
+Maryland,27039 ,5,"Pleebo I, Pleebo City Hall ",President/Vice-President Runoff ,2005,Presidential,2,264,16,280,"WEAH, George Manneh",CDC,129,500
+Maryland,27040 ,3,"Pleebo Ii, Pleebo High School ",President/Vice-President Runoff ,2005,Presidential,2,254,11,265,"JOHNSON-SIRLEAF, Ellen",UP,97,484
+Maryland,27040 ,3,"Pleebo Ii, Pleebo High School ",President/Vice-President Runoff ,2005,Presidential,2,254,11,265,"WEAH, George Manneh",CDC,157,484
+Maryland,27041 ,1,"Pleebo Iii, Grand Public School ",President/Vice-President Runoff ,2005,Presidential,2,260,13,273,"JOHNSON-SIRLEAF, Ellen",UP,110,498
+Maryland,27041 ,1,"Pleebo Iii, Grand Public School ",President/Vice-President Runoff ,2005,Presidential,2,260,13,273,"WEAH, George Manneh",CDC,150,498
+Maryland,27042 ,1,"Bassa Community, Pleebo Bassa Tow n ",President/Vice-President Runoff ,2005,Presidential,2,252,9,261,"JOHNSON-SIRLEAF, Ellen",UP,121,446
+Maryland,27042 ,1,"Bassa Community, Pleebo Bassa Tow n ",President/Vice-President Runoff ,2005,Presidential,2,252,9,261,"WEAH, George Manneh",CDC,131,446
+Maryland,27043 ,1,"Geebio, Geebio Tow n ",President/Vice-President Runoff ,2005,Presidential,2,147,7,154,"JOHNSON-SIRLEAF, Ellen",UP,56,335
+Maryland,27043 ,1,"Geebio, Geebio Tow n ",President/Vice-President Runoff ,2005,Presidential,2,147,7,154,"WEAH, George Manneh",CDC,91,335
+Maryland,27044 ,2,"Gedetarbo, Gedetarbo Tow n ",President/Vice-President Runoff ,2005,Presidential,2,230,10,240,"JOHNSON-SIRLEAF, Ellen",UP,55,385
+Maryland,27044 ,2,"Gedetarbo, Gedetarbo Tow n ",President/Vice-President Runoff ,2005,Presidential,2,230,10,240,"WEAH, George Manneh",CDC,175,385
+Maryland,27047 ,1,"Daeke Tow n Hall, Daeke Tow n ",President/Vice-President Runoff ,2005,Presidential,2,102,5,107,"JOHNSON-SIRLEAF, Ellen",UP,24,360
+Maryland,27047 ,1,"Daeke Tow n Hall, Daeke Tow n ",President/Vice-President Runoff ,2005,Presidential,2,102,5,107,"WEAH, George Manneh",CDC,78,360
+Maryland,27050 ,1,"Old Sodoken, Community Center ",President/Vice-President Runoff ,2005,Presidential,2,224,40,264,"JOHNSON-SIRLEAF, Ellen",UP,143,426
+Maryland,27050 ,1,"Old Sodoken, Community Center ",President/Vice-President Runoff ,2005,Presidential,2,224,40,264,"WEAH, George Manneh",CDC,81,426
+Maryland,27053 ,1,"Golobo Elementary School, Golobo ",President/Vice-President Runoff ,2005,Presidential,2,134,8,142,"JOHNSON-SIRLEAF, Ellen",UP,100,483
+Maryland,27053 ,1,"Golobo Elementary School, Golobo ",President/Vice-President Runoff ,2005,Presidential,2,134,8,142,"WEAH, George Manneh",CDC,34,483
+Maryland,27055 ,1,"Barake Elementary School, Barake ",President/Vice-President Runoff ,2005,Presidential,2,223,6,229,"JOHNSON-SIRLEAF, Ellen",UP,156,399
+Maryland,27055 ,1,"Barake Elementary School, Barake ",President/Vice-President Runoff ,2005,Presidential,2,223,6,229,"WEAH, George Manneh",CDC,67,399
+Maryland,27057 ,1,"Jedebiaken Community School, Jedebiaken ",President/Vice-President Runoff ,2005,Presidential,2,122,6,128,"JOHNSON-SIRLEAF, Ellen",UP,73,422
+Maryland,27057 ,1,"Jedebiaken Community School, Jedebiaken ",President/Vice-President Runoff ,2005,Presidential,2,122,6,128,"WEAH, George Manneh",CDC,49,422
+Maryland,27060 ,1,"Pedebo Elementary School, Pedebo ",President/Vice-President Runoff ,2005,Presidential,2,202,8,210,"JOHNSON-SIRLEAF, Ellen",UP,135,553
+Maryland,27060 ,1,"Pedebo Elementary School, Pedebo ",President/Vice-President Runoff ,2005,Presidential,2,202,8,210,"WEAH, George Manneh",CDC,67,553
+Maryland,27062 ,1,"Little Wlebo Tow n Hall, Little Wlebo 1 ",President/Vice-President Runoff ,2005,Presidential,2,86,2,88,"JOHNSON-SIRLEAF, Ellen",UP,64,255
+Maryland,27062 ,1,"Little Wlebo Tow n Hall, Little Wlebo 1 ",President/Vice-President Runoff ,2005,Presidential,2,86,2,88,"WEAH, George Manneh",CDC,22,255
+Maryland,27064 ,1,"Rock Tow n Public School, Rock Tow n ",President/Vice-President Runoff ,2005,Presidential,2,192,7,199,"JOHNSON-SIRLEAF, Ellen",UP,170,541
+Maryland,27064 ,1,"Rock Tow n Public School, Rock Tow n ",President/Vice-President Runoff ,2005,Presidential,2,192,7,199,"WEAH, George Manneh",CDC,22,541
+Maryland,27067 ,1,"Cavalla Public School, Cavalla ",President/Vice-President Runoff ,2005,Presidential,2,265,26,291,"JOHNSON-SIRLEAF, Ellen",UP,214,497
+Maryland,27067 ,1,"Cavalla Public School, Cavalla ",President/Vice-President Runoff ,2005,Presidential,2,265,26,291,"WEAH, George Manneh",CDC,51,497
+Maryland,27070 ,1,"East Harper Elementary School, Jackson Ville ",President/Vice-President Runoff ,2005,Presidential,2,310,4,314,"JOHNSON-SIRLEAF, Ellen",UP,211,472
+Maryland,27070 ,1,"East Harper Elementary School, Jackson Ville ",President/Vice-President Runoff ,2005,Presidential,2,310,4,314,"WEAH, George Manneh",CDC,99,472
+Maryland,27071 ,2,"Harper Cityt Hall, City Hall ",President/Vice-President Runoff ,2005,Presidential,2,305,3,308,"JOHNSON-SIRLEAF, Ellen",UP,202,450
+Maryland,27071 ,2,"Harper Cityt Hall, City Hall ",President/Vice-President Runoff ,2005,Presidential,2,305,3,308,"WEAH, George Manneh",CDC,103,450
+Maryland,27072 ,3,"New kru Tow n Hall, New kru Tow n ",President/Vice-President Runoff ,2005,Presidential,2,293,9,302,"JOHNSON-SIRLEAF, Ellen",UP,98,419
+Maryland,27072 ,3,"New kru Tow n Hall, New kru Tow n ",President/Vice-President Runoff ,2005,Presidential,2,293,9,302,"WEAH, George Manneh",CDC,195,419
+Maryland,27073 ,3,"Big Tow n Public School, Hoffman Station ",President/Vice-President Runoff ,2005,Presidential,2,323,8,331,"JOHNSON-SIRLEAF, Ellen",UP,215,506
+Maryland,27073 ,3,"Big Tow n Public School, Hoffman Station ",President/Vice-President Runoff ,2005,Presidential,2,323,8,331,"WEAH, George Manneh",CDC,108,506
+Maryland,27074 ,3,"Agnes Thompson Kindergarten, Happer 1 Urbane Zon ",President/Vice-President Runoff ,2005,Presidential,2,278,6,284,"JOHNSON-SIRLEAF, Ellen",UP,170,411
+Maryland,27074 ,3,"Agnes Thompson Kindergarten, Happer 1 Urbane Zon ",President/Vice-President Runoff ,2005,Presidential,2,278,6,284,"WEAH, George Manneh",CDC,108,411
+Maryland,27075 ,3,"Merry-go-round, Harper 2 Urbane Zone",President/Vice-President Runoff,2005,Presidential,2,324,4,328,"JOHNSON-SIRLEAF, Ellen",UP,167,470
+Maryland,27075 ,3,"Merry-go-round, Harper 2 Urbane Zone",President/Vice-President Runoff,2005,Presidential,2,324,4,328,"WEAH, George Manneh",CDC,157,470
+Maryland,27002 ,1,"Gbakliken Tow n Hall, Gbakliken ",President/Vice-President Runoff ,2005,Presidential,2,170,1,171,"JOHNSON-SIRLEAF, Ellen",UP,41,249
+Maryland,27002 ,1,"Gbakliken Tow n Hall, Gbakliken ",President/Vice-President Runoff ,2005,Presidential,2,170,1,171,"WEAH, George Manneh",CDC,129,249
+Maryland,27005 ,1,"Gortoken Tow n Hall, Gortiken ",President/Vice-President Runoff ,2005,Presidential,2,180,0,180,"JOHNSON-SIRLEAF, Ellen",UP,31,258
+Maryland,27005 ,1,"Gortoken Tow n Hall, Gortiken ",President/Vice-President Runoff ,2005,Presidential,2,180,0,180,"WEAH, George Manneh",CDC,149,258
+Maryland,27008 ,1,"Gutuken Tow n Hall, Wutuken ",President/Vice-President Runoff ,2005,Presidential,2,130,1,131,"JOHNSON-SIRLEAF, Ellen",UP,78,146
+Maryland,27008 ,1,"Gutuken Tow n Hall, Wutuken ",President/Vice-President Runoff ,2005,Presidential,2,130,1,131,"WEAH, George Manneh",CDC,52,146
+Maryland,27011 ,1,"Jarjeloken Tow n Hall, Jarjeloken ",President/Vice-President Runoff ,2005,Presidential,2,48,2,50,"JOHNSON-SIRLEAF, Ellen",UP,36,64
+Maryland,27011 ,1,"Jarjeloken Tow n Hall, Jarjeloken ",President/Vice-President Runoff ,2005,Presidential,2,48,2,50,"WEAH, George Manneh",CDC,12,64
+Maryland,27014 ,1,"Wissiken Tow n Hall, Wissiken ",President/Vice-President Runoff ,2005,Presidential,2,108,1,109,"JOHNSON-SIRLEAF, Ellen",UP,80,126
+Maryland,27014 ,1,"Wissiken Tow n Hall, Wissiken ",President/Vice-President Runoff ,2005,Presidential,2,108,1,109,"WEAH, George Manneh",CDC,28,126
+Maryland,27017 ,1,"Kerjue Elementary School, Rock Tow n ",President/Vice-President Runoff ,2005,Presidential,2,190,2,192,"JOHNSON-SIRLEAF, Ellen",UP,152,342
+Maryland,27017 ,1,"Kerjue Elementary School, Rock Tow n ",President/Vice-President Runoff ,2005,Presidential,2,190,2,192,"WEAH, George Manneh",CDC,38,342
+Maryland,27020 ,1,"Warteke Elementary School, Warteke ",President/Vice-President Runoff ,2005,Presidential,2,247,9,256,"JOHNSON-SIRLEAF, Ellen",UP,223,515
+Maryland,27020 ,1,"Warteke Elementary School, Warteke ",President/Vice-President Runoff ,2005,Presidential,2,247,9,256,"WEAH, George Manneh",CDC,24,515
+Maryland,27022 ,2,"Karloke Elementary & Jr. High School , Karloke ",President/Vice-President Runoff ,2005,Presidential,2,250,4,254,"JOHNSON-SIRLEAF, Ellen",UP,151,524
+Maryland,27022 ,2,"Karloke Elementary & Jr. High School , Karloke ",President/Vice-President Runoff ,2005,Presidential,2,250,4,254,"WEAH, George Manneh",CDC,99,524
+Maryland,27023 ,2,"Free Tow n I. Elementary School, Dorrobo Freetow n ",President/Vice-President Runoff ,2005,Presidential,2,157,20,177,"JOHNSON-SIRLEAF, Ellen",UP,137,476
+Maryland,27023 ,2,"Free Tow n I. Elementary School, Dorrobo Freetow n ",President/Vice-President Runoff ,2005,Presidential,2,157,20,177,"WEAH, George Manneh",CDC,20,476
+Maryland,27026 ,1,"Manolu Elementary School, Manolu ",President/Vice-President Runoff ,2005,Presidential,2,247,11,258,"JOHNSON-SIRLEAF, Ellen",UP,196,428
+Maryland,27026 ,1,"Manolu Elementary School, Manolu ",President/Vice-President Runoff ,2005,Presidential,2,247,11,258,"WEAH, George Manneh",CDC,51,428
+Maryland,27029 ,1,"Wlow ein Tow n Hall, Wlow ein ",President/Vice-President Runoff ,2005,Presidential,2,162,2,164,"JOHNSON-SIRLEAF, Ellen",UP,134,419
+Maryland,27029 ,1,"Wlow ein Tow n Hall, Wlow ein ",President/Vice-President Runoff ,2005,Presidential,2,162,2,164,"WEAH, George Manneh",CDC,28,419
+Maryland,27032 ,1,"Doloken Boys Dormitory, Doloken ",President/Vice-President Runoff ,2005,Presidential,2,154,2,156,"JOHNSON-SIRLEAF, Ellen",UP,117,212
+Maryland,27032 ,1,"Doloken Boys Dormitory, Doloken ",President/Vice-President Runoff ,2005,Presidential,2,154,2,156,"WEAH, George Manneh",CDC,37,212
+Maryland,27035 ,1,"Tarw roken Tow n Hall, Tarw roken ",President/Vice-President Runoff ,2005,Presidential,2,62,5,67,"JOHNSON-SIRLEAF, Ellen",UP,34,109
+Maryland,27035 ,1,"Tarw roken Tow n Hall, Tarw roken ",President/Vice-President Runoff ,2005,Presidential,2,62,5,67,"WEAH, George Manneh",CDC,28,109
+Maryland,27038 ,1,"Yobloke Tow n Hall, Yobloke ",President/Vice-President Runoff ,2005,Presidential,2,140,11,151,"JOHNSON-SIRLEAF, Ellen",UP,109,274
+Maryland,27038 ,1,"Yobloke Tow n Hall, Yobloke ",President/Vice-President Runoff ,2005,Presidential,2,140,11,151,"WEAH, George Manneh",CDC,31,274
+Maryland,27039 ,3,"Pleebo I, Pleebo City Hall ",President/Vice-President Runoff ,2005,Presidential,2,286,1,287,"JOHNSON-SIRLEAF, Ellen",UP,147,525
+Maryland,27039 ,3,"Pleebo I, Pleebo City Hall ",President/Vice-President Runoff ,2005,Presidential,2,286,1,287,"WEAH, George Manneh",CDC,139,525
+Maryland,27040 ,1,"Pleebo Ii, Pleebo High School ",President/Vice-President Runoff ,2005,Presidential,2,266,13,279,"JOHNSON-SIRLEAF, Ellen",UP,103,495
+Maryland,27040 ,1,"Pleebo Ii, Pleebo High School ",President/Vice-President Runoff ,2005,Presidential,2,266,13,279,"WEAH, George Manneh",CDC,163,495
+Maryland,27040 ,4,"Pleebo Ii, Pleebo High School ",President/Vice-President Runoff ,2005,Presidential,2,282,1,283,"JOHNSON-SIRLEAF, Ellen",UP,111,480
+Maryland,27040 ,4,"Pleebo Ii, Pleebo High School ",President/Vice-President Runoff ,2005,Presidential,2,282,1,283,"WEAH, George Manneh",CDC,171,480
+Maryland,27041 ,2,"Pleebo Iii, Grand Public School ",President/Vice-President Runoff ,2005,Presidential,2,266,8,274,"JOHNSON-SIRLEAF, Ellen",UP,113,503
+Maryland,27041 ,2,"Pleebo Iii, Grand Public School ",President/Vice-President Runoff ,2005,Presidential,2,266,8,274,"WEAH, George Manneh",CDC,153,503
+Maryland,27042 ,2,"Bassa Community, Pleebo Bassa Tow n ",President/Vice-President Runoff ,2005,Presidential,2,229,8,237,"JOHNSON-SIRLEAF, Ellen",UP,118,432
+Maryland,27042 ,2,"Bassa Community, Pleebo Bassa Tow n ",President/Vice-President Runoff ,2005,Presidential,2,229,8,237,"WEAH, George Manneh",CDC,111,432
+Maryland,27043 ,2,"Geebio, Geebio Tow n ",President/Vice-President Runoff ,2005,Presidential,2,171,4,175,"JOHNSON-SIRLEAF, Ellen",UP,69,340
+Maryland,27043 ,2,"Geebio, Geebio Tow n ",President/Vice-President Runoff ,2005,Presidential,2,171,4,175,"WEAH, George Manneh",CDC,102,340
+Maryland,27045 ,1,"Crc Elementary School, Crc Rubber Plantation ",President/Vice-President Runoff ,2005,Presidential,2,260,6,266,"JOHNSON-SIRLEAF, Ellen",UP,90,460
+Maryland,27045 ,1,"Crc Elementary School, Crc Rubber Plantation ",President/Vice-President Runoff ,2005,Presidential,2,260,6,266,"WEAH, George Manneh",CDC,170,460
+Maryland,27048 ,1,"Crc Kindergarten, Crc Rubber Plantation ",President/Vice-President Runoff ,2005,Presidential,2,375,2,377,"JOHNSON-SIRLEAF, Ellen",UP,129,542
+Maryland,27048 ,1,"Crc Kindergarten, Crc Rubber Plantation ",President/Vice-President Runoff ,2005,Presidential,2,375,2,377,"WEAH, George Manneh",CDC,246,542
+Maryland,27051 ,1,"Gbololu, Gbololu Tow n Hall ",President/Vice-President Runoff ,2005,Presidential,2,197,4,201,"JOHNSON-SIRLEAF, Ellen",UP,155,336
+Maryland,27051 ,1,"Gbololu, Gbololu Tow n Hall ",President/Vice-President Runoff ,2005,Presidential,2,197,4,201,"WEAH, George Manneh",CDC,42,336
+Maryland,27053 ,2,"Golobo Elementary School, Golobo ",President/Vice-President Runoff ,2005,Presidential,2,134,3,137,"JOHNSON-SIRLEAF, Ellen",UP,100,491
+Maryland,27053 ,2,"Golobo Elementary School, Golobo ",President/Vice-President Runoff ,2005,Presidential,2,134,3,137,"WEAH, George Manneh",CDC,34,491
+Maryland,27055 ,2,"Barake Elementary School, Barake ",President/Vice-President Runoff ,2005,Presidential,2,191,13,204,"JOHNSON-SIRLEAF, Ellen",UP,132,371
+Maryland,27055 ,2,"Barake Elementary School, Barake ",President/Vice-President Runoff ,2005,Presidential,2,191,13,204,"WEAH, George Manneh",CDC,59,371
+Maryland,27058 ,1,"Golobo Elementary School, Golobo ",President/Vice-President Runoff ,2005,Presidential,2,147,6,153,"JOHNSON-SIRLEAF, Ellen",UP,29,206
+Maryland,27058 ,1,"Golobo Elementary School, Golobo ",President/Vice-President Runoff ,2005,Presidential,2,147,6,153,"WEAH, George Manneh",CDC,118,206
+Maryland,27061 ,1,"Yookudi Elementary School, Yookudi ",President/Vice-President Runoff ,2005,Presidential,2,136,4,140,"JOHNSON-SIRLEAF, Ellen",UP,107,353
+Maryland,27061 ,1,"Yookudi Elementary School, Yookudi ",President/Vice-President Runoff ,2005,Presidential,2,136,4,140,"WEAH, George Manneh",CDC,29,353
+Maryland,27063 ,1,"Fish Tow n Public School, Fish Tow n ",President/Vice-President Runoff ,2005,Presidential,2,247,12,259,"JOHNSON-SIRLEAF, Ellen",UP,189,336
+Maryland,27063 ,1,"Fish Tow n Public School, Fish Tow n ",President/Vice-President Runoff ,2005,Presidential,2,247,12,259,"WEAH, George Manneh",CDC,58,336
+Maryland,27065 ,1,"Yealu Tow n Hall, Spring Hill ",President/Vice-President Runoff ,2005,Presidential,2,102,4,106,"JOHNSON-SIRLEAF, Ellen",UP,58,281
+Maryland,27065 ,1,"Yealu Tow n Hall, Spring Hill ",President/Vice-President Runoff ,2005,Presidential,2,102,4,106,"WEAH, George Manneh",CDC,44,281
+Maryland,27068 ,1,"Kablake Tow n Hall, Kablake ",President/Vice-President Runoff ,2005,Presidential,2,54,2,56,"JOHNSON-SIRLEAF, Ellen",UP,49,108
+Maryland,27068 ,1,"Kablake Tow n Hall, Kablake ",President/Vice-President Runoff ,2005,Presidential,2,54,2,56,"WEAH, George Manneh",CDC,5,108
+Maryland,27070 ,2,"East Harper Elementary School, Jackson Ville ",President/Vice-President Runoff ,2005,Presidential,2,330,7,337,"JOHNSON-SIRLEAF, Ellen",UP,209,497
+Maryland,27070 ,2,"East Harper Elementary School, Jackson Ville ",President/Vice-President Runoff ,2005,Presidential,2,330,7,337,"WEAH, George Manneh",CDC,121,497
+Maryland,27072 ,1,"New kru Tow n Hall, New kru Tow n ",President/Vice-President Runoff ,2005,Presidential,2,297,3,300,"JOHNSON-SIRLEAF, Ellen",UP,113,424
+Maryland,27072 ,1,"New kru Tow n Hall, New kru Tow n ",President/Vice-President Runoff ,2005,Presidential,2,297,3,300,"WEAH, George Manneh",CDC,184,424
+Maryland,27073 ,1,"Big Tow n Public School, Hoffman Station ",President/Vice-President Runoff ,2005,Presidential,2,323,6,329,"JOHNSON-SIRLEAF, Ellen",UP,221,515
+Maryland,27073 ,1,"Big Tow n Public School, Hoffman Station ",President/Vice-President Runoff ,2005,Presidential,2,323,6,329,"WEAH, George Manneh",CDC,102,515
+Maryland,27074 ,1,"Agnes Thompson Kindergarten, Happer 1 Urbane Zon ",President/Vice-President Runoff ,2005,Presidential,2,330,2,332,"JOHNSON-SIRLEAF, Ellen",UP,175,407
+Maryland,27074 ,1,"Agnes Thompson Kindergarten, Happer 1 Urbane Zon ",President/Vice-President Runoff ,2005,Presidential,2,330,2,332,"WEAH, George Manneh",CDC,155,407
+Maryland,27075 ,1,"Merry-go-round, Harper 2 Urbane Zone ",President/Vice-President Runoff ,2005,Presidential,2,310,4,314,"JOHNSON-SIRLEAF, Ellen",UP,131,456
+Maryland,27075 ,1,"Merry-go-round, Harper 2 Urbane Zone ",President/Vice-President Runoff ,2005,Presidential,2,310,4,314,"WEAH, George Manneh",CDC,179,456
+Maryland,27003 ,1,"Joe Clark Elementary School, Juduken 1",President/Vice-President Runoff,2005,Presidential,2,250,6,256,"JOHNSON-SIRLEAF, Ellen",UP,49,506
+Maryland,27003 ,1,"Joe Clark Elementary School, Juduken 1",President/Vice-President Runoff,2005,Presidential,2,250,6,256,"WEAH, George Manneh",CDC,201,506
+Maryland,27006 ,1,"Gbeaken Tow n Hall, Gbeaken",President/Vice-President Runoff,2005,Presidential,2,29,0,29,"JOHNSON-SIRLEAF, Ellen",UP,11,40
+Maryland,27006 ,1,"Gbeaken Tow n Hall, Gbeaken",President/Vice-President Runoff,2005,Presidential,2,29,0,29,"WEAH, George Manneh",CDC,18,40
+Maryland,27009 ,1,"James T. Hinnen Elementary School, Sarjeloken",President/Vice-President Runoff,2005,Presidential,2,103,2,105,"JOHNSON-SIRLEAF, Ellen",UP,22,150
+Maryland,27009 ,1,"James T. Hinnen Elementary School, Sarjeloken",President/Vice-President Runoff,2005,Presidential,2,103,2,105,"WEAH, George Manneh",CDC,81,150
+Maryland,27012 ,1,"Sampson Goe Elementary School, New aken",President/Vice-President Runoff,2005,Presidential,2,134,1,135,"JOHNSON-SIRLEAF, Ellen",UP,112,172
+Maryland,27012 ,1,"Sampson Goe Elementary School, New aken",President/Vice-President Runoff,2005,Presidential,2,134,1,135,"WEAH, George Manneh",CDC,22,172
+Maryland,27015 ,1,"Maflaken Tow n Hall, Maflaken",President/Vice-President Runoff,2005,Presidential,2,52,0,52,"JOHNSON-SIRLEAF, Ellen",UP,21,65
+Maryland,27015 ,1,"Maflaken Tow n Hall, Maflaken",President/Vice-President Runoff,2005,Presidential,2,52,0,52,"WEAH, George Manneh",CDC,31,65
+Maryland,27018 ,1,"Saw token Tow n Hall, Saw token 2",President/Vice-President Runoff,2005,Presidential,2,86,1,87,"JOHNSON-SIRLEAF, Ellen",UP,25,134
+Maryland,27018 ,1,"Saw token Tow n Hall, Saw token 2",President/Vice-President Runoff,2005,Presidential,2,86,1,87,"WEAH, George Manneh",CDC,61,134
+Maryland,27021 ,1,"Suasu Tow n Hall, Suasu",President/Vice-President Runoff,2005,Presidential,2,60,3,63,"JOHNSON-SIRLEAF, Ellen",UP,50,99
+Maryland,27021 ,1,"Suasu Tow n Hall, Suasu",President/Vice-President Runoff,2005,Presidential,2,60,3,63,"WEAH, George Manneh",CDC,10,99
+Maryland,27022 ,3,"Karloke Elementary & Jr. High School , Karloke",President/Vice-President Runoff,2005,Presidential,2,245,5,250,"JOHNSON-SIRLEAF, Ellen",UP,143,520
+Maryland,27022 ,3,"Karloke Elementary & Jr. High School , Karloke",President/Vice-President Runoff,2005,Presidential,2,245,5,250,"WEAH, George Manneh",CDC,102,520
+Maryland,27024 ,1,"Wutuke Elementary School, Wutuke",President/Vice-President Runoff,2005,Presidential,2,342,4,346,"JOHNSON-SIRLEAF, Ellen",UP,314,459
+Maryland,27024 ,1,"Wutuke Elementary School, Wutuke",President/Vice-President Runoff,2005,Presidential,2,342,4,346,"WEAH, George Manneh",CDC,28,459
+Maryland,27027 ,1,"Gbamake Tow n Hall, Gbaeken Gbamake",President/Vice-President Runoff,2005,Presidential,2,146,2,148,"JOHNSON-SIRLEAF, Ellen",UP,84,443
+Maryland,27027 ,1,"Gbamake Tow n Hall, Gbaeken Gbamake",President/Vice-President Runoff,2005,Presidential,2,146,2,148,"WEAH, George Manneh",CDC,62,443
+Maryland,27030 ,1,"Tugbaken Elementary School, Tugbaken",President/Vice-President Runoff,2005,Presidential,2,195,6,201,"JOHNSON-SIRLEAF, Ellen",UP,141,217
+Maryland,27030 ,1,"Tugbaken Elementary School, Tugbaken",President/Vice-President Runoff,2005,Presidential,2,195,6,201,"WEAH, George Manneh",CDC,54,217
+Maryland,27033 ,1,"Doeklaken Tow n Hall, Doeklaken",President/Vice-President Runoff,2005,Presidential,2,53,2,55,"JOHNSON-SIRLEAF, Ellen",UP,23,77
+Maryland,27033 ,1,"Doeklaken Tow n Hall, Doeklaken",President/Vice-President Runoff,2005,Presidential,2,53,2,55,"WEAH, George Manneh",CDC,30,77
+Maryland,27036 ,1,"Gbiabosuken Tow n Hall, Gbiabosuken",President/Vice-President Runoff,2005,Presidential,2,43,2,45,"JOHNSON-SIRLEAF, Ellen",UP,13,109
+Maryland,27036 ,1,"Gbiabosuken Tow n Hall, Gbiabosuken",President/Vice-President Runoff,2005,Presidential,2,43,2,45,"WEAH, George Manneh",CDC,30,109
+Maryland,27039 ,1,"Pleebo I, Pleebo City Hall",President/Vice-President Runoff,2005,Presidential,2,297,6,303,"JOHNSON-SIRLEAF, Ellen",UP,173,530
+Maryland,27039 ,1,"Pleebo I, Pleebo City Hall",President/Vice-President Runoff,2005,Presidential,2,297,6,303,"WEAH, George Manneh",CDC,124,530
+Maryland,27039 ,4,"Pleebo I, Pleebo City Hall",President/Vice-President Runoff,2005,Presidential,2,279,7,286,"JOHNSON-SIRLEAF, Ellen",UP,135,547
+Maryland,27039 ,4,"Pleebo I, Pleebo City Hall",President/Vice-President Runoff,2005,Presidential,2,279,7,286,"WEAH, George Manneh",CDC,144,547
+Maryland,27040 ,2,"Pleebo Ii, Pleebo High School ",President/Vice-President Runoff,2005,Presidential,2,264,11,275,"JOHNSON-SIRLEAF, Ellen",UP,92,492
+Maryland,27040 ,2,"Pleebo Ii, Pleebo High School ",President/Vice-President Runoff,2005,Presidential,2,264,11,275,"WEAH, George Manneh",CDC,172,492
+Maryland,27040 ,5,"Pleebo Ii, Pleebo High School ",President/Vice-President Runoff,2005,Presidential,2,252,8,260,"JOHNSON-SIRLEAF, Ellen",UP,98,463
+Maryland,27040 ,5,"Pleebo Ii, Pleebo High School ",President/Vice-President Runoff,2005,Presidential,2,252,8,260,"WEAH, George Manneh",CDC,154,463
+Maryland,27041 ,3,"Pleebo Iii, Grand Public School",President/Vice-President Runoff,2005,Presidential,2,250,12,262,"JOHNSON-SIRLEAF, Ellen",UP,101,478
+Maryland,27041 ,3,"Pleebo Iii, Grand Public School",President/Vice-President Runoff,2005,Presidential,2,250,12,262,"WEAH, George Manneh",CDC,149,478
+Maryland,27042 ,3,"Bassa Community, Pleebo Bassa Tow n",President/Vice-President Runoff,2005,Presidential,2,257,12,269,"JOHNSON-SIRLEAF, Ellen",UP,123,477
+Maryland,27042 ,3,"Bassa Community, Pleebo Bassa Tow n",President/Vice-President Runoff,2005,Presidential,2,257,12,269,"WEAH, George Manneh",CDC,134,477
+Maryland,27044 ,1,"Gedetarbo, Gedetarbo Tow n",President/Vice-President Runoff,2005,Presidential,2,213,34,247,"JOHNSON-SIRLEAF, Ellen",UP,63,401
+Maryland,27044 ,1,"Gedetarbo, Gedetarbo Tow n",President/Vice-President Runoff,2005,Presidential,2,213,34,247,"WEAH, George Manneh",CDC,150,401
+Maryland,27046 ,1,"Nemeke Tow n Hall, Nemeke",President/Vice-President Runoff,2005,Presidential,2,209,0,209,"JOHNSON-SIRLEAF, Ellen",UP,59,340
+Maryland,27046 ,1,"Nemeke Tow n Hall, Nemeke",President/Vice-President Runoff,2005,Presidential,2,209,0,209,"WEAH, George Manneh",CDC,150,340
+Maryland,27049 ,1,"Sedeke Tow n Hall, Sedeke",President/Vice-President Runoff,2005,Presidential,2,271,16,287,"JOHNSON-SIRLEAF, Ellen",UP,69,403
+Maryland,27049 ,1,"Sedeke Tow n Hall, Sedeke",President/Vice-President Runoff,2005,Presidential,2,271,16,287,"WEAH, George Manneh",CDC,202,403
+Maryland,27052 ,1,"Gbeaw ein Elementary School, Gbeaw ein",President/Vice-President Runoff,2005,Presidential,2,121,7,128,"JOHNSON-SIRLEAF, Ellen",UP,28,205
+Maryland,27052 ,1,"Gbeaw ein Elementary School, Gbeaw ein",President/Vice-President Runoff,2005,Presidential,2,121,7,128,"WEAH, George Manneh",CDC,93,205
+Maryland,27054 ,1,"Gbloke Elementary School, Gbloke",President/Vice-President Runoff,2005,Presidential,2,188,12,200,"JOHNSON-SIRLEAF, Ellen",UP,103,418
+Maryland,27054 ,1,"Gbloke Elementary School, Gbloke",President/Vice-President Runoff,2005,Presidential,2,188,12,200,"WEAH, George Manneh",CDC,85,418
+Maryland,27056 ,1,"Gbeke Tow n Hall, Gbeke",President/Vice-President Runoff,2005,Presidential,2,27,1,28,"JOHNSON-SIRLEAF, Ellen",UP,16,53
+Maryland,27056 ,1,"Gbeke Tow n Hall, Gbeke",President/Vice-President Runoff,2005,Presidential,2,27,1,28,"WEAH, George Manneh",CDC,11,53
+Maryland,27059 ,1,"Wetchuken Elementary School, Wetchuken",President/Vice-President Runoff,2005,Presidential,2,186,4,190,"JOHNSON-SIRLEAF, Ellen",UP,85,390
+Maryland,27059 ,1,"Wetchuken Elementary School, Wetchuken",President/Vice-President Runoff,2005,Presidential,2,186,4,190,"WEAH, George Manneh",CDC,101,390
+Maryland,27061 ,2,"Yookudi Elementary School, Yookudi",President/Vice-President Runoff,2005,Presidential,2,134,7,141,"JOHNSON-SIRLEAF, Ellen",UP,89,363
+Maryland,27061 ,2,"Yookudi Elementary School, Yookudi",President/Vice-President Runoff,2005,Presidential,2,134,7,141,"WEAH, George Manneh",CDC,45,363
+Maryland,27063 ,2,"Fish Tow n Public School, Fish Tow n",President/Vice-President Runoff,2005,Presidential,2,78,2,80,"JOHNSON-SIRLEAF, Ellen",UP,56,352
+Maryland,27063 ,2,"Fish Tow n Public School, Fish Tow n",President/Vice-President Runoff,2005,Presidential,2,78,2,80,"WEAH, George Manneh",CDC,22,352
+Maryland,27066 ,1,"Whole Graw ay Elementary School, Whole Graw ay",President/Vice-President Runoff,2005,Presidential,2,133,8,141,"JOHNSON-SIRLEAF, Ellen",UP,114,349
+Maryland,27066 ,1,"Whole Graw ay Elementary School, Whole Graw ay",President/Vice-President Runoff,2005,Presidential,2,133,8,141,"WEAH, George Manneh",CDC,19,349
+Maryland,27069 ,1,"Worteke Tow n Hall, Worteke",President/Vice-President Runoff,2005,Presidential,2,60,4,64,"JOHNSON-SIRLEAF, Ellen",UP,44,119
+Maryland,27069 ,1,"Worteke Tow n Hall, Worteke",President/Vice-President Runoff,2005,Presidential,2,60,4,64,"WEAH, George Manneh",CDC,16,119
+Maryland,27071 ,1,"Harper Cityt Hall, City Hall",President/Vice-President Runoff,2005,Presidential,2,287,5,292,"JOHNSON-SIRLEAF, Ellen",UP,173,457
+Maryland,27071 ,1,"Harper Cityt Hall, City Hall",President/Vice-President Runoff,2005,Presidential,2,287,5,292,"WEAH, George Manneh",CDC,114,457
+Maryland,27072 ,2,"New kru Tow n Hall, New kru Tow n",President/Vice-President Runoff,2005,Presidential,2,306,9,315,"JOHNSON-SIRLEAF, Ellen",UP,93,434
+Maryland,27072 ,2,"New kru Tow n Hall, New kru Tow n",President/Vice-President Runoff,2005,Presidential,2,306,9,315,"WEAH, George Manneh",CDC,213,434
+Maryland,27073 ,2,"Big Tow n Public School, Hoffman Station",President/Vice-President Runoff,2005,Presidential,2,317,7,324,"JOHNSON-SIRLEAF, Ellen",UP,231,514
+Maryland,27073 ,2,"Big Tow n Public School, Hoffman Station",President/Vice-President Runoff,2005,Presidential,2,317,7,324,"WEAH, George Manneh",CDC,86,514
+Maryland,27074 ,2,"Agnes Thompson Kindergarten, Happer 1 Urbane Zon",President/Vice-President Runoff,2005,Presidential,2,262,4,266,"JOHNSON-SIRLEAF, Ellen",UP,164,421
+Maryland,27074 ,2,"Agnes Thompson Kindergarten, Happer 1 Urbane Zon",President/Vice-President Runoff,2005,Presidential,2,262,4,266,"WEAH, George Manneh",CDC,98,421
+Maryland,27075 ,2,"Merry-go-round, Harper 2 Urbane Zone",President/Vice-President Runoff,2005,Presidential,2,290,10,300,"JOHNSON-SIRLEAF, Ellen",UP,129,432
+Maryland,27075 ,2,"Merry-go-round, Harper 2 Urbane Zone",President/Vice-President Runoff,2005,Presidential,2,290,10,300,"WEAH, George Manneh",CDC,161,432

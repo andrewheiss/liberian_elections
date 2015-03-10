@@ -1,0 +1,95 @@
+election_county,precinct,polling_place,address,election,election_year,election_type,election_round,valid_votes,invalid_votes,total_votes,candidate,cand_party,cand_votes,registered_voters
+GrandKru,18001 ,1,"Sasstow n High School, Sasstow n City ",President/Vice-President Runoff ,2005,Presidential,2,255,5,260,"JOHNSON-SIRLEAF, Ellen",UP,4,347
+GrandKru,18001 ,1,"Sasstow n High School, Sasstow n City ",President/Vice-President Runoff ,2005,Presidential,2,255,5,260,"WEAH, George Manneh",CDC,251,347
+GrandKru,18002 ,2,"Nrokw a Public School, Nrokw a ",President/Vice-President Runoff ,2005,Presidential,2,286,8,294,"JOHNSON-SIRLEAF, Ellen",UP,6,442
+GrandKru,18002 ,2,"Nrokw a Public School, Nrokw a ",President/Vice-President Runoff ,2005,Presidential,2,286,8,294,"WEAH, George Manneh",CDC,280,442
+GrandKru,18004 ,2,"Nifu Public School, Nifu ",President/Vice-President Runoff ,2005,Presidential,2,228,0,228,"JOHNSON-SIRLEAF, Ellen",UP,7,356
+GrandKru,18004 ,2,"Nifu Public School, Nifu ",President/Vice-President Runoff ,2005,Presidential,2,228,0,228,"WEAH, George Manneh",CDC,221,356
+GrandKru,18007 ,1,"F.f. Doe Junior High School, Barforw in ",President/Vice-President Runoff ,2005,Presidential,2,249,7,256,"JOHNSON-SIRLEAF, Ellen",UP,12,561
+GrandKru,18007 ,1,"F.f. Doe Junior High School, Barforw in ",President/Vice-President Runoff ,2005,Presidential,2,249,7,256,"WEAH, George Manneh",CDC,237,561
+GrandKru,18010 ,1,"Ambrose Worjloh Elementary School, Doesw en ",President/Vice-President Runoff ,2005,Presidential,2,190,2,192,"JOHNSON-SIRLEAF, Ellen",UP,8,396
+GrandKru,18010 ,1,"Ambrose Worjloh Elementary School, Doesw en ",President/Vice-President Runoff ,2005,Presidential,2,190,2,192,"WEAH, George Manneh",CDC,182,396
+GrandKru,18012 ,2,"Buah Jr. High School, Gee City ",President/Vice-President Runoff ,2005,Presidential,2,211,3,214,"JOHNSON-SIRLEAF, Ellen",UP,6,479
+GrandKru,18012 ,2,"Buah Jr. High School, Gee City ",President/Vice-President Runoff ,2005,Presidential,2,211,3,214,"WEAH, George Manneh",CDC,205,479
+GrandKru,18015 ,1,"Dw eken Elementary School, Dw eken ",President/Vice-President Runoff ,2005,Presidential,2,203,10,213,"JOHNSON-SIRLEAF, Ellen",UP,23,390
+GrandKru,18015 ,1,"Dw eken Elementary School, Dw eken ",President/Vice-President Runoff ,2005,Presidential,2,203,10,213,"WEAH, George Manneh",CDC,180,390
+GrandKru,18017 ,1,"Behw an Jr. High School, Behw an City ",President/Vice-President Runoff ,2005,Presidential,2,159,2,161,"JOHNSON-SIRLEAF, Ellen",UP,119,334
+GrandKru,18017 ,1,"Behw an Jr. High School, Behw an City ",President/Vice-President Runoff ,2005,Presidential,2,159,2,161,"WEAH, George Manneh",CDC,40,334
+GrandKru,18018 ,2,"New arken Jr. High School, New arken ",President/Vice-President Runoff ,2005,Presidential,2,139,0,139,"JOHNSON-SIRLEAF, Ellen",UP,68,466
+GrandKru,18018 ,2,"New arken Jr. High School, New arken ",President/Vice-President Runoff ,2005,Presidential,2,139,0,139,"WEAH, George Manneh",CDC,71,466
+GrandKru,18019 ,2,"Garraw ay Beach Jr. High School, Garraw ay Beach ",President/Vice-President Runoff ,2005,Presidential,2,217,6,223,"JOHNSON-SIRLEAF, Ellen",UP,131,551
+GrandKru,18019 ,2,"Garraw ay Beach Jr. High School, Garraw ay Beach ",President/Vice-President Runoff ,2005,Presidential,2,217,6,223,"WEAH, George Manneh",CDC,86,551
+GrandKru,18020 ,2,"Genoyah Elementary School, Genoyah ",President/Vice-President Runoff ,2005,Presidential,2,176,4,180,"JOHNSON-SIRLEAF, Ellen",UP,114,463
+GrandKru,18020 ,2,"Genoyah Elementary School, Genoyah ",President/Vice-President Runoff ,2005,Presidential,2,176,4,180,"WEAH, George Manneh",CDC,62,463
+GrandKru,18021 ,3,"Barclayville Central High School, Barclayville City ",President/Vice-President Runoff ,2005,Presidential,2,257,10,267,"JOHNSON-SIRLEAF, Ellen",UP,34,496
+GrandKru,18021 ,3,"Barclayville Central High School, Barclayville City ",President/Vice-President Runoff ,2005,Presidential,2,257,10,267,"WEAH, George Manneh",CDC,223,496
+GrandKru,18023 ,1,"Richard A. Henries Jr. High School, Filoken ",President/Vice-President Runoff ,2005,Presidential,2,148,3,151,"JOHNSON-SIRLEAF, Ellen",UP,19,364
+GrandKru,18023 ,1,"Richard A. Henries Jr. High School, Filoken ",President/Vice-President Runoff ,2005,Presidential,2,148,3,151,"WEAH, George Manneh",CDC,129,364
+GrandKru,18025 ,1,"St. Patrick’s School, Grand Cess ",President/Vice-President Runoff ,2005,Presidential,2,326,10,336,"JOHNSON-SIRLEAF, Ellen",UP,64,481
+GrandKru,18025 ,1,"St. Patrick’s School, Grand Cess ",President/Vice-President Runoff ,2005,Presidential,2,326,10,336,"WEAH, George Manneh",CDC,262,481
+GrandKru,18026 ,2,"Juduken Jr. High School, Juduken ",President/Vice-President Runoff ,2005,Presidential,2,184,6,190,"JOHNSON-SIRLEAF, Ellen",UP,95,389
+GrandKru,18026 ,2,"Juduken Jr. High School, Juduken ",President/Vice-President Runoff ,2005,Presidential,2,184,6,190,"WEAH, George Manneh",CDC,89,389
+GrandKru,18028 ,1,"Zoloken Public School, Zoloken ",President/Vice-President Runoff ,2005,Presidential,2,290,12,302,"JOHNSON-SIRLEAF, Ellen",UP,23,346
+GrandKru,18028 ,1,"Zoloken Public School, Zoloken ",President/Vice-President Runoff ,2005,Presidential,2,290,12,302,"WEAH, George Manneh",CDC,267,346
+GrandKru,18001 ,2,"Sasstow n High School, Sasstow n City ",President/Vice-President Runoff ,2005,Presidential,2,218,17,235,"JOHNSON-SIRLEAF, Ellen",UP,6,322
+GrandKru,18001 ,2,"Sasstow n High School, Sasstow n City ",President/Vice-President Runoff ,2005,Presidential,2,218,17,235,"WEAH, George Manneh",CDC,212,322
+GrandKru,18003 ,1,"Betu Public School, Betu ",President/Vice-President Runoff ,2005,Presidential,2,152,12,164,"JOHNSON-SIRLEAF, Ellen",UP,15,205
+GrandKru,18003 ,1,"Betu Public School, Betu ",President/Vice-President Runoff ,2005,Presidential,2,152,12,164,"WEAH, George Manneh",CDC,137,205
+GrandKru,18005 ,1,"Neroh Oublic School, Neroh ",President/Vice-President Runoff ,2005,Presidential,2,111,0,111,"JOHNSON-SIRLEAF, Ellen",UP,3,224
+GrandKru,18005 ,1,"Neroh Oublic School, Neroh ",President/Vice-President Runoff ,2005,Presidential,2,111,0,111,"WEAH, George Manneh",CDC,108,224
+GrandKru,18008 ,1,"Wakpo Public School, Wakpo ",President/Vice-President Runoff ,2005,Presidential,2,54,0,54,"JOHNSON-SIRLEAF, Ellen",UP,1,121
+GrandKru,18008 ,1,"Wakpo Public School, Wakpo ",President/Vice-President Runoff ,2005,Presidential,2,54,0,54,"WEAH, George Manneh",CDC,53,121
+GrandKru,18011 ,1,"Poe Public School, Bolloh Poe ",President/Vice-President Runoff ,2005,Presidential,2,64,2,66,"JOHNSON-SIRLEAF, Ellen",UP,16,199
+GrandKru,18011 ,1,"Poe Public School, Bolloh Poe ",President/Vice-President Runoff ,2005,Presidential,2,64,2,66,"WEAH, George Manneh",CDC,48,199
+GrandKru,18013 ,1,"Jlateken Public School, Jlateken ",President/Vice-President Runoff ,2005,Presidential,2,240,2,242,"JOHNSON-SIRLEAF, Ellen",UP,17,534
+GrandKru,18013 ,1,"Jlateken Public School, Jlateken ",President/Vice-President Runoff ,2005,Presidential,2,240,2,242,"WEAH, George Manneh",CDC,223,534
+GrandKru,18016 ,1,"Parluken Public School, Parluken ",President/Vice-President Runoff ,2005,Presidential,2,238,2,240,"JOHNSON-SIRLEAF, Ellen",UP,5,380
+GrandKru,18016 ,1,"Parluken Public School, Parluken ",President/Vice-President Runoff ,2005,Presidential,2,238,2,240,"WEAH, George Manneh",CDC,233,380
+GrandKru,18017 ,2,"Behw an Jr. High School, Behw an City ",President/Vice-President Runoff ,2005,Presidential,2,191,8,199,"JOHNSON-SIRLEAF, Ellen",UP,148,312
+GrandKru,18017 ,2,"Behw an Jr. High School, Behw an City ",President/Vice-President Runoff ,2005,Presidential,2,191,8,199,"WEAH, George Manneh",CDC,43,312
+GrandKru,18018 ,3,"New arken Jr. High School, New arken ",President/Vice-President Runoff ,2005,Presidential,2,116,0,116,"JOHNSON-SIRLEAF, Ellen",UP,58,465
+GrandKru,18018 ,3,"New arken Jr. High School, New arken ",President/Vice-President Runoff ,2005,Presidential,2,116,0,116,"WEAH, George Manneh",CDC,58,465
+GrandKru,18019 ,3,"Garraw ay Beach Jr. High School, Garraw ay Beach ",President/Vice-President Runoff ,2005,Presidential,2,200,13,213,"JOHNSON-SIRLEAF, Ellen",UP,138,543
+GrandKru,18019 ,3,"Garraw ay Beach Jr. High School, Garraw ay Beach ",President/Vice-President Runoff ,2005,Presidential,2,200,13,213,"WEAH, George Manneh",CDC,62,543
+GrandKru,18021 ,1,"Barclayville Central High School, Barclayville City ",President/Vice-President Runoff ,2005,Presidential,2,281,8,289,"JOHNSON-SIRLEAF, Ellen",UP,29,525
+GrandKru,18021 ,1,"Barclayville Central High School, Barclayville City ",President/Vice-President Runoff ,2005,Presidential,2,281,8,289,"WEAH, George Manneh",CDC,252,525
+GrandKru,18022 ,1,"Gbeta Jr. High School, Chinakaleh ",President/Vice-President Runoff ,2005,Presidential,2,225,5,230,"JOHNSON-SIRLEAF, Ellen",UP,79,399
+GrandKru,18022 ,1,"Gbeta Jr. High School, Chinakaleh ",President/Vice-President Runoff ,2005,Presidential,2,225,5,230,"WEAH, George Manneh",CDC,146,399
+GrandKru,18023 ,2,"Richard A. Henries Jr. High School, Filoken ",President/Vice-President Runoff ,2005,Presidential,2,152,1,153,"JOHNSON-SIRLEAF, Ellen",UP,15,331
+GrandKru,18023 ,2,"Richard A. Henries Jr. High School, Filoken ",President/Vice-President Runoff ,2005,Presidential,2,152,1,153,"WEAH, George Manneh",CDC,137,331
+GrandKru,18025 ,2,"St. Patrick’s School, Grand Cess ",President/Vice-President Runoff ,2005,Presidential,2,305,7,312,"JOHNSON-SIRLEAF, Ellen",UP,58,451
+GrandKru,18025 ,2,"St. Patrick’s School, Grand Cess ",President/Vice-President Runoff ,2005,Presidential,2,305,7,312,"WEAH, George Manneh",CDC,247,451
+GrandKru,18027 ,1,"St. Barnabas School, Gbanken ",President/Vice-President Runoff ,2005,Presidential,2,286,2,288,"JOHNSON-SIRLEAF, Ellen",UP,53,388
+GrandKru,18027 ,1,"St. Barnabas School, Gbanken ",President/Vice-President Runoff ,2005,Presidential,2,286,2,288,"WEAH, George Manneh",CDC,233,388
+GrandKru,18028 ,2,"Zoloken Public School, Zoloken",President/Vice-President Runoff,2005,Presidential,2,268,8,276,"JOHNSON-SIRLEAF, Ellen",UP,40,360
+GrandKru,18028 ,2,"Zoloken Public School, Zoloken",President/Vice-President Runoff,2005,Presidential,2,268,8,276,"WEAH, George Manneh",CDC,228,360
+GrandKru,18002 ,1,"Nrokw a Public School, Nrokw a",President/Vice-President Runoff,2005,Presidential,2,259,12,271,"JOHNSON-SIRLEAF, Ellen",UP,8,439
+GrandKru,18002 ,1,"Nrokw a Public School, Nrokw a",President/Vice-President Runoff,2005,Presidential,2,259,12,271,"WEAH, George Manneh",CDC,251,439
+GrandKru,18004 ,1,"Nifu Public School, Nifu",President/Vice-President Runoff,2005,Presidential,2,212,1,213,"JOHNSON-SIRLEAF, Ellen",UP,8,331
+GrandKru,18004 ,1,"Nifu Public School, Nifu",President/Vice-President Runoff,2005,Presidential,2,212,1,213,"WEAH, George Manneh",CDC,204,331
+GrandKru,18006 ,1,"Niplekpo Public School, Niplekpo",President/Vice-President Runoff,2005,Presidential,2,48,3,51,"JOHNSON-SIRLEAF, Ellen",UP,7,51
+GrandKru,18006 ,1,"Niplekpo Public School, Niplekpo",President/Vice-President Runoff,2005,Presidential,2,48,3,51,"WEAH, George Manneh",CDC,41,51
+GrandKru,18009 ,1,"Jarkakpor Public School, Jarkakpor",President/Vice-President Runoff,2005,Presidential,2,150,0,150,"JOHNSON-SIRLEAF, Ellen",UP,7,351
+GrandKru,18009 ,1,"Jarkakpor Public School, Jarkakpor",President/Vice-President Runoff,2005,Presidential,2,150,0,150,"WEAH, George Manneh",CDC,143,351
+GrandKru,18012 ,1,"Buah Jr. High School, Gee City",President/Vice-President Runoff,2005,Presidential,2,215,4,219,"JOHNSON-SIRLEAF, Ellen",UP,10,484
+GrandKru,18012 ,1,"Buah Jr. High School, Gee City",President/Vice-President Runoff,2005,Presidential,2,215,4,219,"WEAH, George Manneh",CDC,205,484
+GrandKru,18014 ,1,"Wlopluken Public School, Wlopluken",President/Vice-President Runoff,2005,Presidential,2,159,2,161,"JOHNSON-SIRLEAF, Ellen",UP,4,485
+GrandKru,18014 ,1,"Wlopluken Public School, Wlopluken",President/Vice-President Runoff,2005,Presidential,2,159,2,161,"WEAH, George Manneh",CDC,155,485
+GrandKru,18016 ,2,"Parluken Public School, Parluken",President/Vice-President Runoff,2005,Presidential,2,231,0,231,"JOHNSON-SIRLEAF, Ellen",UP,12,419
+GrandKru,18016 ,2,"Parluken Public School, Parluken",President/Vice-President Runoff,2005,Presidential,2,231,0,231,"WEAH, George Manneh",CDC,219,419
+GrandKru,18018 ,1,"New arken Jr. High School, New arken",President/Vice-President Runoff,2005,Presidential,2,129,0,129,"JOHNSON-SIRLEAF, Ellen",UP,86,444
+GrandKru,18018 ,1,"New arken Jr. High School, New arken",President/Vice-President Runoff,2005,Presidential,2,129,0,129,"WEAH, George Manneh",CDC,43,444
+GrandKru,18019 ,1,"Garraw ay Beach Jr. High School, Garraw ay Beach",President/Vice-President Runoff,2005,Presidential,2,194,11,205,"JOHNSON-SIRLEAF, Ellen",UP,124,542
+GrandKru,18019 ,1,"Garraw ay Beach Jr. High School, Garraw ay Beach",President/Vice-President Runoff,2005,Presidential,2,194,11,205,"WEAH, George Manneh",CDC,70,542
+GrandKru,18020 ,1,"Genoyah Elementary School, Genoyah",President/Vice-President Runoff,2005,Presidential,2,191,1,192,"JOHNSON-SIRLEAF, Ellen",UP,83,507
+GrandKru,18020 ,1,"Genoyah Elementary School, Genoyah",President/Vice-President Runoff,2005,Presidential,2,191,1,192,"WEAH, George Manneh",CDC,108,507
+GrandKru,18021 ,2,"Barclayville Central High School, Barclayville City",President/Vice-President Runoff,2005,Presidential,2,260,16,276,"JOHNSON-SIRLEAF, Ellen",UP,31,533
+GrandKru,18021 ,2,"Barclayville Central High School, Barclayville City",President/Vice-President Runoff,2005,Presidential,2,260,16,276,"WEAH, George Manneh",CDC,229,533
+GrandKru,18022 ,2,"Gbeta Jr. High School, Chinakaleh",President/Vice-President Runoff,2005,Presidential,2,259,5,264,"JOHNSON-SIRLEAF, Ellen",UP,105,434
+GrandKru,18022 ,2,"Gbeta Jr. High School, Chinakaleh",President/Vice-President Runoff,2005,Presidential,2,259,5,264,"WEAH, George Manneh",CDC,154,434
+GrandKru,18024 ,1,"Advertus A. Hoff Junior High School, Big Suehn",President/Vice-President Runoff,2005,Presidential,2,303,1,304,"JOHNSON-SIRLEAF, Ellen",UP,52,506
+GrandKru,18024 ,1,"Advertus A. Hoff Junior High School, Big Suehn",President/Vice-President Runoff,2005,Presidential,2,303,1,304,"WEAH, George Manneh",CDC,251,506
+GrandKru,18026 ,1,"Juduken Jr. High School, Juduken",President/Vice-President Runoff,2005,Presidential,2,163,14,177,"JOHNSON-SIRLEAF, Ellen",UP,96,373
+GrandKru,18026 ,1,"Juduken Jr. High School, Juduken",President/Vice-President Runoff,2005,Presidential,2,163,14,177,"WEAH, George Manneh",CDC,67,373
+GrandKru,18027 ,2,"St. Barnabas School, Gbanken",President/Vice-President Runoff,2005,Presidential,2,263,5,268,"JOHNSON-SIRLEAF, Ellen",UP,46,378
+GrandKru,18027 ,2,"St. Barnabas School, Gbanken",President/Vice-President Runoff,2005,Presidential,2,263,5,268,"WEAH, George Manneh",CDC,217,378
