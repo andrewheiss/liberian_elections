@@ -34,14 +34,14 @@ class OrderedDefaultdict(OrderedDict):
 # -----------------------
 election_year = 2005
 election_round = 1
-election_county = "Montserrado"
+election_county = "Maryland"
 
 
 # -------------------------------
 # Convert raw wide CSVs to long
 # -------------------------------
 # Load CSV file
-f = open("2005/1st round/Raw CSVs/MontserradoByPollingPlace.csv")
+f = open("2005/1st round/Raw CSVs/MarylandByPollingPlace.csv")
 csv_file = csv.reader(f)
 
 
