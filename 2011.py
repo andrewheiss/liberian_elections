@@ -9,6 +9,21 @@ import re
 import csv
 
 
+# TODO: Crawling logic...
+# Loop through each county link at http://www.necliberia.org/results2011/results.html
+#   <a><h2>County name</h2></a>
+# Get turnout numbers and percent
+#   2nd round first
+#   Then 1st round
+# Go to "Results by Polling Place" link (i.e. http://www.necliberia.org/results2011/county_3_vpr.html)
+#   <a><span>Results by Polling Place</span></a>
+# Get precinct number and name
+#   Everything in a super buried table
+# Go to individual precinct page (i.e. http://www.necliberia.org/results2011/pp_results/03001r.html)
+#   <td><a>Precinct number</a></td>
+# Create long data with other data collected earlier and save to CSV
+#   Done.
+
 def clean_num(x):
     return(int(re.sub(r"\D+", "", x)))
 
