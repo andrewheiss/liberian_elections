@@ -13,8 +13,12 @@ def clean_num(x):
     return(int(re.sub(r"\D+", "", x)))
 
 
-def parse_precinct(html_file):
+def parse_precinct(html_file, house_district, voters, place_name, turnout):
     metadata = {}
+    metadata['house_district'] = house_district
+    metadata['county_voters'] = voters
+    metadata['county_turnout'] = turnout
+    metadata['address'] = place_name
 
     soup = BeautifulSoup(open(html_file, 'r'))
 
@@ -45,33 +49,47 @@ def parse_precinct(html_file):
     # Deal with actual results
     actual_results = results[1].select('.res table')
 
-    # Presidential data
-    pres_data_raw = extract_data(actual_results[0])
-    pres_data_long = convert_to_long(pres_data_raw, "Presidential", metadata)
+    if len(actual_results) > 1:
+        metadata['election_round'] = 1
 
-    # Senate data
-    senate_data_raw = extract_data(actual_results[1])
-    senate_data_long = convert_to_long(senate_data_raw, "Senate", metadata)
+        # Presidential data
+        pres_data_raw = extract_data(actual_results[0])
+        pres_data_long = convert_to_long(pres_data_raw, "Presidential", metadata)
 
-    # House data
-    house_data_raw = extract_data(actual_results[2])
-    house_data_long = convert_to_long(house_data_raw, "House", metadata)
+        # Senate data
+        senate_data_raw = extract_data(actual_results[1])
+        senate_data_long = convert_to_long(senate_data_raw, "Senate", metadata)
 
-    # Combine the three into one big long dictionary
-    final_results = defaultdict(dict)
-    entry_num = -1
+        # House data
+        house_data_raw = extract_data(actual_results[2])
+        house_data_long = convert_to_long(house_data_raw, "House", metadata)
 
-    for key, value in chain(pres_data_long.items(),
-            senate_data_long.items(), house_data_long.items()):
-        entry_num += 1
-        final_results[entry_num] = value
+        # Combine the three into one big long dictionary
+        final_results = defaultdict(dict)
+        entry_num = -1
+
+        for key, value in chain(pres_data_long.items(),
+                senate_data_long.items(), house_data_long.items()):
+            entry_num += 1
+            final_results[entry_num] = value
+    else:
+        metadata['election_round'] = 2
+
+        # Presidential data
+        pres_data_raw = extract_data(actual_results[0])
+        pres_data_long = convert_to_long(pres_data_raw, "Presidential", metadata)
+        final_results = pres_data_long
 
     # print(final_results)
 
-    # csv_out = open('test.csv', 'w')
+    # csv_out = open('test1.csv', 'w')
     # writer = csv.writer(csv_out)
 
-    # fieldnames = 'invalid_votes', 'candidate', 'valid_votes', 'polling_place', 'total_votes', 'election_year', 'cand_votes', 'cand_race', 'election_county', 'cand_party', 'precinct'
+    # fieldnames = ['election_county', 'precinct', 'polling_place', 'address',
+    #               'election_year', 'election_round', 'senate_district',
+    #               'house_district', 'valid_votes', 'invalid_votes',
+    #               'total_votes', 'candidate', 'cand_votes', 'cand_party',
+    #               'cand_race', 'county_voters', 'county_turnout']
 
     # for key, value in final_results.items():
     #     w = csv.DictWriter(csv_out, fieldnames)
@@ -81,10 +99,6 @@ def parse_precinct(html_file):
 
 
 def convert_to_long(raw_data, cand_race, metadata):
-    # TODO: election_round
-    # TODO: senate_district
-    # TODO: house_district
-    # TODO: registered_voters
     long_results = defaultdict(dict)
     entry_num = -1
 
@@ -94,8 +108,17 @@ def convert_to_long(raw_data, cand_race, metadata):
             entry_num += 1
 
             # Save general information
+            house_district = "{0}, Electoral District {1}".format(
+                metadata['election_county'], metadata['house_district'])
+
             long_results[entry_num]['cand_race'] = cand_race
+            long_results[entry_num]['election_round'] = metadata['election_round']
             long_results[entry_num]['election_county'] = metadata['election_county']
+            long_results[entry_num]['senate_district'] = metadata['election_county']
+            long_results[entry_num]['address'] = metadata['address']
+            long_results[entry_num]['county_voters'] = metadata['county_voters']
+            long_results[entry_num]['county_turnout'] = metadata['county_turnout']
+            long_results[entry_num]['house_district'] = house_district
             long_results[entry_num]['precinct'] = metadata['precinct']
             long_results[entry_num]['election_year'] = metadata['year']
             long_results[entry_num]['polling_place'] = raw_data['polling_places'][i]
@@ -163,4 +186,4 @@ def extract_data(table):
     return(clean_results)
 
 
-parse_precinct('2011/montserrado_test.html')
+parse_precinct('2011/test_first.html', 1, 1500, 'Some place', 15)
