@@ -5,18 +5,17 @@
 from bs4 import BeautifulSoup
 from collections import defaultdict
 from itertools import chain
+from random import choice
+from decimal import Decimal
 import re
 import csv
+import urllib.request
 
 
 # TODO: Crawling logic...
 # Loop through each county link at http://www.necliberia.org/results2011/results.html
-#   <a><h2>County name</h2></a>
 # Get turnout numbers and percent
-#   2nd round first
-#   Then 1st round
 # Go to "Results by Polling Place" link (i.e. http://www.necliberia.org/results2011/county_3_vpr.html)
-#   <a><span>Results by Polling Place</span></a>
 # Get precinct number and name
 #   Everything in a super buried table
 # Go to individual precinct page (i.e. http://www.necliberia.org/results2011/pp_results/03001r.html)
@@ -24,8 +23,28 @@ import csv
 # Create long data with other data collected earlier and save to CSV
 #   Done.
 
+
 def clean_num(x):
     return(int(re.sub(r"\D+", "", x)))
+
+
+# TODO: Add courtesy wait period
+def get_url(url):
+    user_agents = [
+      'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25',
+      'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36',
+      'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:32.0) Gecko/20100101 Firefox/32.0',
+      'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10',
+      'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36',
+      'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36'
+    ]
+
+    agent = choice(user_agents)
+
+    response = urllib.request.Request(url, headers={'User-Agent': agent})
+    handler = urllib.request.urlopen(response).read()
+
+    return(handler)
 
 
 def parse_precinct(html_file, house_district, voters, place_name, turnout):
@@ -201,4 +220,73 @@ def extract_data(table):
     return(clean_results)
 
 
-parse_precinct('2011/test_first.html', 1, 1500, 'Some place', 15)
+def get_county_list():
+    # Yeah, yeah, yeah. I know.
+    global base_url
+
+    # Parse HTML
+    soup = BeautifulSoup(get_url(base_url + "results.html"))
+
+    # All the counties are <h2>s wrapped in <a>s
+    # Return a tuple of (County name, full URL)
+    county_tags = soup.findAll('h2')
+    counties = [(tag.contents[0], base_url + tag.parent['href']) for tag in county_tags]
+    return(counties)
+
+
+def parse_county(county_url):
+    # Global again. ¯\_(ツ)_/¯
+    global base_url
+
+    soup = BeautifulSoup(get_url(county_url[1]))
+
+    # There are 3 <h2>s on the page: the county name and turnout numbers for
+    # both rounds of the election. We just need the last two.
+    turnout_raw = [x.contents[0] for x in soup.findAll('h2')[1:]]
+
+    # Extract turnout data from headers
+    # All follow this pattern: "Turnout: 22,428 (47.1%)"
+    # So use regex to get the two numbers as groups
+    pattern = re.compile(r"Turnout: ([\d,]+) \(([\d\.]+)%\)")
+    turnout_numbers = [re.search(pattern, x).groups() for x in turnout_raw]
+
+    # float(Decimal(x)) to make Python treat the decimal number right
+    turnout_clean = [(int(x[0].replace(',', '')), float(Decimal(x[1])/100))
+                     for x in turnout_numbers]
+
+    # Get "Results by Polling Place" links
+    polling_places_raw = soup(text="Results by Polling Place")
+    polling_places = [base_url + x.parent.parent['href'] for x in polling_places_raw]
+
+    # Nimba has a bug and only shows the first round on the main results page
+    # The hardcoded results come from the interactive map on the home page:
+    # http://www.necliberia.org/results2011/
+
+    # The link for the by-polling-place results works, it's just not on the
+    # county page, so it has to be prepended to the list of polling place URLs.
+    if len(turnout_clean) == 1:
+        runoff = (120683, 0.524)
+        polling_places.insert(0, 'http://www.necliberia.org/results2011/county_33_vpr.html')
+    else:
+        runoff = turnout_clean[1]
+
+    # Save to dictionary
+    turnout = {}
+    turnout['county'] = county_url[0]
+    turnout['runoff'] = runoff
+    turnout['first_round'] = turnout_clean[0]
+    turnout['round1_link'] = polling_places[1]
+    turnout['round2_link'] = polling_places[0]
+
+    return(turnout)
+
+
+# Actual logic
+base_url = "http://www.necliberia.org/results2011/"
+
+counties = get_county_list()
+county_details = parse_county(counties[0])
+print(county_details)
+# print([parse_county(county) for county in counties])
+
+# parse_precinct('2011/test_first.html', 1, 1500, 'Some place', 15)
