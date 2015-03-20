@@ -331,9 +331,9 @@ def parse_county_precincts(county):
         for precinct in precincts:
             parse_precinct(precinct[1],  # url
                            "?",  # house_district
-                           county['first_round'][0],  # voters
+                           x[0][0],  # voters
                            precinct[0],  # place_name
-                           county['first_round'][1])  # turnout
+                           x[0][1])  # turnout
 
 
 # --------------
