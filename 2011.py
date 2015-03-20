@@ -14,14 +14,6 @@ import urllib.request
 import logging
 
 
-# TODO: Crawling logic...
-# Loop through each county link at http://www.necliberia.org/results2011/results.html
-# Get turnout numbers and percent
-# Go to "Results by Polling Place" link (i.e. http://www.necliberia.org/results2011/county_3_vpr.html)
-# Get precinct number and name
-# Go to individual precinct page (i.e. http://www.necliberia.org/results2011/pp_results/03001r.html)
-
-
 def clean_num(x):
     return(int(re.sub(r"\D+", "", x)))
 
@@ -352,6 +344,7 @@ logging.basicConfig(filename='2011.log', filemode='w', level=logging.DEBUG,
                     format='%(levelname)s %(asctime)s: %(message)s')
 logging.captureWarnings(True)
 
+# GLobal variables
 base_url = "http://www.necliberia.org/results2011/"
 csv_started = False
 
