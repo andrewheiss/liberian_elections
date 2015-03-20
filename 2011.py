@@ -7,9 +7,11 @@ from collections import defaultdict
 from itertools import chain
 from random import choice
 from decimal import Decimal
+from time import sleep
 import re
 import csv
 import urllib.request
+import logging
 
 
 # TODO: Crawling logic...
@@ -17,18 +19,13 @@ import urllib.request
 # Get turnout numbers and percent
 # Go to "Results by Polling Place" link (i.e. http://www.necliberia.org/results2011/county_3_vpr.html)
 # Get precinct number and name
-#   Everything in a super buried table
 # Go to individual precinct page (i.e. http://www.necliberia.org/results2011/pp_results/03001r.html)
-#   <td><a>Precinct number</a></td>
-# Create long data with other data collected earlier and save to CSV
-#   Done.
 
 
 def clean_num(x):
     return(int(re.sub(r"\D+", "", x)))
 
 
-# TODO: Add courtesy wait period
 def get_url(url):
     user_agents = [
       'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25',
@@ -40,24 +37,34 @@ def get_url(url):
     ]
 
     agent = choice(user_agents)
+    wait = choice(range(1, 3))
 
     response = urllib.request.Request(url, headers={'User-Agent': agent})
     handler = urllib.request.urlopen(response).read()
 
+    sleep(wait)
+
     return(handler)
 
 
-def parse_precinct(html_file, house_district, voters, place_name, turnout):
+def parse_precinct(url, house_district, voters, place_name, turnout):
+    global csv_started
+
     metadata = {}
     metadata['house_district'] = house_district
     metadata['county_voters'] = voters
     metadata['county_turnout'] = turnout
     metadata['address'] = place_name
 
-    soup = BeautifulSoup(open(html_file, 'r'))
+    soup = BeautifulSoup(get_url(url))
 
     # The actual results are in a table with a PNG background
     results_section = soup.find('td', background='../images/main_back.png')
+
+    # Some URLs don't work...
+    if not results_section:
+        logging.error("{0} doesn't exist!".format(url))
+        return(False)
 
     # That table is actually 2 tables---the results are in the 2nd one
     results_section = results_section.findAll('table')[1]
@@ -114,22 +121,23 @@ def parse_precinct(html_file, house_district, voters, place_name, turnout):
         pres_data_long = convert_to_long(pres_data_raw, "Presidential", metadata)
         final_results = pres_data_long
 
-    # print(final_results)
+    logging.info("Saved {0}, {1} (round {2}): {3}".format(metadata['election_county'],
+                                                    metadata['address'],
+                                                    metadata['election_round'],
+                                                    url))
 
-    # csv_out = open('test1.csv', 'w')
-    # writer = csv.writer(csv_out)
+    fieldnames = ['election_county', 'precinct', 'polling_place', 'address',
+                  'election_year', 'election_round', 'senate_district',
+                  'house_district', 'valid_votes', 'invalid_votes',
+                  'total_votes', 'candidate', 'cand_votes', 'cand_party',
+                  'cand_race', 'county_voters', 'county_turnout']
 
-    # fieldnames = ['election_county', 'precinct', 'polling_place', 'address',
-    #               'election_year', 'election_round', 'senate_district',
-    #               'house_district', 'valid_votes', 'invalid_votes',
-    #               'total_votes', 'candidate', 'cand_votes', 'cand_party',
-    #               'cand_race', 'county_voters', 'county_turnout']
-
-    # for key, value in final_results.items():
-    #     w = csv.DictWriter(csv_out, fieldnames)
-    #     if key == 0:
-    #         w.writeheader()
-    #     w.writerow(value)
+    for key, value in final_results.items():
+        w = csv.DictWriter(open('2011.csv', 'a'), fieldnames)
+        if csv_started is False:
+            w.writeheader()
+            csv_started = True
+        w.writerow(value)
 
 
 def convert_to_long(raw_data, cand_race, metadata):
@@ -220,23 +228,36 @@ def extract_data(table):
     return(clean_results)
 
 
+# Returns a list of tuples: [(County name, full URL), (..., ...)]
 def get_county_list():
     # Yeah, yeah, yeah. I know.
     global base_url
 
     # Parse HTML
-    soup = BeautifulSoup(get_url(base_url + "results.html"))
+    full_url = base_url + "results.html"
+    soup = BeautifulSoup(get_url(full_url))
+    logging.info("Getting the list of all the "
+                 "counties from {0}".format(full_url))
 
     # All the counties are <h2>s wrapped in <a>s
-    # Return a tuple of (County name, full URL)
     county_tags = soup.findAll('h2')
     counties = [(tag.contents[0], base_url + tag.parent['href']) for tag in county_tags]
     return(counties)
 
 
+# Accepts a (County name, URL) tuple
+# Returns a dictionary with:
+#   * county: County name
+#   * first_round: Tuple of (votes, turnout)
+#   * runoff: Tuple of (votes, turnout)
+#   * first_round_link: URL to results by polling place
+#   * runoff_link: URL to results by polling place
 def parse_county(county_url):
     # Global again. ¯\_(ツ)_/¯
     global base_url
+
+    logging.info("Parsing information for {0} "
+                 "county from {1}".format(county_url[0], county_url[1]))
 
     soup = BeautifulSoup(get_url(county_url[1]))
 
@@ -273,20 +294,72 @@ def parse_county(county_url):
     # Save to dictionary
     turnout = {}
     turnout['county'] = county_url[0]
-    turnout['runoff'] = runoff
     turnout['first_round'] = turnout_clean[0]
-    turnout['round1_link'] = polling_places[1]
-    turnout['round2_link'] = polling_places[0]
+    turnout['runoff'] = runoff
+    turnout['first_round_link'] = polling_places[1]
+    turnout['runoff_link'] = polling_places[0]
 
     return(turnout)
 
 
+# Accepts turnout dictionary from parse_county()
+# Returns nothing, since it calls parse_precinct(), which writes to CSV
+def parse_county_precincts(county):
+    # Boo globals.
+    global base_url
+
+    loop = [(county['first_round'], county['first_round_link']),
+            (county['runoff'], county['runoff_link'])]
+
+    for x in loop:
+        precincts = []
+
+        soup = BeautifulSoup(get_url(x[1]))
+
+        # The actual content is in a table with a PNG background
+        precinct_list = soup.find('td', background='images/main_back.png')
+
+        # That table is actually 2 tables---we care about the 2nd one
+        precinct_list = precinct_list.findAll('table')[1]
+
+        # And *that* table has 3 rows, but only the 2nd is important
+        precinct_list = precinct_list.findAll('tr')[1]
+
+        # Finally, the table is in a div with class="res"
+        precinct_list = precinct_list.select('.res table')
+
+        for row in precinct_list[0].findAll('tr'):
+            cells = row.findAll('td')
+
+            if cells is not None:
+                precinct_name = cells[1].contents[0]
+                precinct_url = base_url + cells[0].select('a')[0]['href']
+                precincts.append((precinct_name, precinct_url))
+
+        for precinct in precincts:
+            parse_precinct(precinct[1],  # url
+                           "?",  # house_district
+                           county['first_round'][0],  # voters
+                           precinct[0],  # place_name
+                           county['first_round'][1])  # turnout
+
+
+# --------------
 # Actual logic
+# --------------
+# Set up log
+logging.basicConfig(filename='2011.log', filemode='w', level=logging.DEBUG,
+                    format='%(levelname)s %(asctime)s: %(message)s')
+logging.captureWarnings(True)
+
 base_url = "http://www.necliberia.org/results2011/"
+csv_started = False
 
-counties = get_county_list()
-county_details = parse_county(counties[0])
-print(county_details)
-# print([parse_county(county) for county in counties])
+# Parse each county for total voters and turnout
+county_details = [parse_county(county) for county in get_county_list()]
 
-# parse_precinct('2011/test_first.html', 1, 1500, 'Some place', 15)
+# Go through each county and save precinct-level vote information to CSV
+for county in county_details:
+    parse_county_precincts(county)
+
+logging.info("All done!")
