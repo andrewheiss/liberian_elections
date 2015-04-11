@@ -19,8 +19,7 @@ for i in $(seq 1 $NUM_PAGES); do
     # Tabula struggles with the general information for 2014, so this grabs too
     # much data on purpose, which (unfortunately) means more post-extraction
     # cleaning. ¯\_(ツ)_/¯
-    tabula -p $i -a 109.03603603603604,40.73873873873874,164.15315315315314,612.2792792792793 -o output/${i}_info.csv $PDF_FILE 2> /dev/null
-    tabula -p $i -a 154.56756756756755,44.333333333333336,817.1711711711712,605.09009009009 -o output/${i}_data.csv $PDF_FILE 2> /dev/null
+    tabula -p $i -a 110.23423423423424,45.53153153153153,820.7657657657658,603.8918918918919 -o output/${i}_all.csv $PDF_FILE 2> /dev/null
 done
 
 echo "All done!"
