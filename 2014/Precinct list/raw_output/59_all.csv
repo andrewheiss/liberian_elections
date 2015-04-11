@@ -1,18 +1,18 @@
-Voting ,"","","","",General 
-Precinct ,COUNTY :NIMBA ,ELECTORAL DISTRICT : 1 ,"","",Polling 
-Code ,Locality ,Address ,"",Voters ,Places
-33032 ,Pledehyee Public School ,Pledehyee ,"",333 ,1
-33069 ,Gbloyee United Methodist School ,Ganta ,"",2173 ,5
-33071 ,Small Ganta Palava Hut ,Ganta ,"",955 ,2
-33072 ,J.W. Pearlson School ,Ganta ,"",1996 ,5
-33073 ,YMCA High School ,Ganta ,"",2233 ,5
-33074 ,Yini High School ,Ganta ,"",1752 ,4
-33075 ,Messiah Christian Academy ,Ganta ,"",2347 ,5
-33076 ,Geolando Public School ,Ganta ,"",3117 ,7
-33077 ,Vision International School ,Ganta ,"",2008 ,5
-33078 ,Foundation Academic Day Care & Elem School Ganta ,"","",1547 ,4
-33079 ,Gbartu Quarter Palava Hut ,Ganta ,"",2884 ,6
-33080 ,Liberty Christian Institute ,Ganta ,"",1704 ,4
-33081 ,Ganta Rehab Palava Hut ,Ganta ,"",782 ,2
-33132 ,George Dumber School ,Nengben ,"",1199 ,3
-33188 ,Yelekoryee Public School ,Yelekoryee ,"",280 ,1
+"Voting ",,,,,"General "
+"Precinct ","COUNTY :NIMBA ","ELECTORAL DISTRICT : 1 ",,,"Polling "
+"Code ","Locality ","Address ",,"Voters ","Places"
+33032,"Pledehyee Public School ","Pledehyee ",,333,1
+33069,"Gbloyee United Methodist School ","Ganta ",,2173,5
+33071,"Small Ganta Palava Hut ","Ganta ",,955,2
+33072,"J.W. Pearlson School ","Ganta ",,1996,5
+33073,"YMCA High School ","Ganta ",,2233,5
+33074,"Yini High School ","Ganta ",,1752,4
+33075,"Messiah Christian Academy ","Ganta ",,2347,5
+33076,"Geolando Public School ","Ganta ",,3117,7
+33077,"Vision International School ","Ganta ",,2008,5
+33078,"Foundation Academic Day Care & Elem School ","Ganta",,1547,4
+33079,"Gbartu Quarter Palava Hut ","Ganta ",,2884,6
+33080,"Liberty Christian Institute ","Ganta ",,1704,4
+33081,"Ganta Rehab Palava Hut ","Ganta ",,782,2
+33132,"George Dumber School ","Nengben ",,1199,3
+33188,"Yelekoryee Public School ","Yelekoryee ",,280,1

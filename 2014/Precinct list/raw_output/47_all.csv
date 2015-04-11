@@ -1,17 +1,17 @@
-Voting ,"","","","",General 
-Precinct ,COUNTY :MONTSERRADO ,ELECTORAL DISTRICT : 6 ,"","",Polling 
-Code ,Locality ,Address ,"",Voters ,Places
-30307 ,Kendejah High School/Rehab ,Rehab Community ,"",2253 ,5
-30308 ,Kendejah Community School ,Old Kendejah Community/ Beach ,"",2030 ,5
-30309 ,Love A Child Ophanage Home ,"Baptist Seminary  Communty,Kendejah ","",3020 ,7
-30310 ,Helen Teah Memory Christian Institute ,Borbor Town-Thinker Village ,"",3246 ,7
-30311 ,Cavalry Chapel Mission School ,Borbor Town/RIA Road ,"",2402 ,5
-30312 ,Solid Rock Christian School ,"Opp. Golden Key, King Gray Community ","",2621 ,6
-30313 ,Sis. Kathleen McQuire Memorial Catholic High Rehab Cooper Farm ,"","",1579 ,4
-30319 ,Broluco Christian School System ,Kpelle Town/ELWA ,"",2999 ,7
-30320 ,David Gueh Memorial UMC ,GSA Road ,"",2532 ,6
-30321 ,Mount Carmel Institute ,GSA Road ,"",2703 ,6
-30322 ,Wilbel Foundation Elem. School- Rock Hill ,Rock Hill/ GSA Road ,"",2044 ,5
-30323 ,Carver Mission School ,Opp. ELWA Compound ,"",3135 ,7
-30324 ,Seventh Day Adventist School ,ELWA Junction ,"",3666 ,8
-30325 ,Immanuel Christian Academy ,S.D. Cooper Road ,"",3039 ,7
+"Voting ",,,,,"General "
+"Precinct ","COUNTY :MONTSERRADO ","ELECTORAL DISTRICT : 6 ",,,"Polling "
+"Code ","Locality ","Address ",,"Voters ","Places"
+30307,"Kendejah High School/Rehab ","Rehab Community ",,2253,5
+30308,"Kendejah Community School ","Old Kendejah Community/ Beach ",,2030,5
+30309,"Love A Child Ophanage Home ","Baptist Seminary  Communty,Kendejah ",,3020,7
+30310,"Helen Teah Memory Christian Institute ","Borbor Town-Thinker Village ",,3246,7
+30311,"Cavalry Chapel Mission School ","Borbor Town/RIA Road ",,2402,5
+30312,"Solid Rock Christian School ","Opp. Golden Key, King Gray Community ",,2621,6
+30313,"Sis. Kathleen McQuire Memorial Catholic High","Rehab Cooper Farm ",,1579,4
+30319,"Broluco Christian School System ","Kpelle Town/ELWA ",,2999,7
+30320,"David Gueh Memorial UMC ","GSA Road ",,2532,6
+30321,"Mount Carmel Institute ","GSA Road ",,2703,6
+30322,"Wilbel Foundation Elem. School- Rock Hill ","Rock Hill/ GSA Road ",,2044,5
+30323,"Carver Mission School ","Opp. ELWA Compound ",,3135,7
+30324,"Seventh Day Adventist School ","ELWA Junction ",,3666,8
+30325,"Immanuel Christian Academy ","S.D. Cooper Road ",,3039,7

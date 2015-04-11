@@ -1,21 +1,21 @@
-Voting ,"","","","",General 
-Precinct ,COUNTY :MONTSERRADO ,ELECTORAL DISTRICT : 2 ,"","",Polling 
-Code ,Locality ,Address ,"",Voters ,Places
-30036 ,Johnsonville Public School ,Johnsonville ,"",1571 ,4
-30091 ,Fairfield Baptist School ,Neezoe ,"",1904 ,4
-30099 ,Hope For Life School ,"After the Towel on Pipe line road, City View ","",1567 ,4
-30100 ,Our Lady of Fatama School ,"After the Towel on Pipe line road, City View ","",2731 ,6
-30192 ,Light Enterprises Academy & Vocational SchooLower Johnsonville ,"","",1798 ,4
-30193 ,YMCA - Nekely Town ,Lower Johnsonville ,"",2089 ,5
-30213 ,NRC School ,Mount Barclay ,"",1911 ,4
-30214 ,Child Friendly Space ,Mount Barclay ,"",1123 ,3
-30223 ,Monrovia Vocational Training Center ,Double Bridge ,"",2275 ,5
-30224 ,Monrovia Vocational Training Center ,Double Bridge ,"",1753 ,4
-30225 ,New Hope Academy ,Double Bridge/Peace Island ,"",2065 ,5
-30226 ,Bassa Town Community School ,Double Bridge/Peace Island ,"",628 ,2
-30227 ,St. Francis School ,Jacob Town ,"",3207 ,7
-30228 ,Calvary Temple A.G.M. High School ,Jacob Town ,"",2211 ,5
-30229 ,Calvary Temple A.G.M. High School ,Jacob Town ,"",2339 ,5
-30230 ,Ma Bendu I. Sheriff School ,Zinc Factory ,"",1866 ,4
-30231 ,Muslim Solidarity Arabic & English School ,Zinc Factory ,"",2370 ,5
-30232 ,Star Baptist School ,Rock Hill ,"",1791 ,4
+"Voting ",,,,,"General "
+"Precinct ","COUNTY :MONTSERRADO ","ELECTORAL DISTRICT : 2 ",,,"Polling "
+"Code ","Locality ","Address ",,"Voters ","Places"
+30036,"Johnsonville Public School ","Johnsonville ",,1571,4
+30091,"Fairfield Baptist School ","Neezoe ",,1904,4
+30099,"Hope For Life School ","After the Towel on Pipe line road, City View ",,1567,4
+30100,"Our Lady of Fatama School ","After the Towel on Pipe line road, City View ",,2731,6
+30192,"Light Enterprises Academy & Vocational Schoo","Lower Johnsonville ",,1798,4
+30193,"YMCA - Nekely Town ","Lower Johnsonville ",,2089,5
+30213,"NRC School ","Mount Barclay ",,1911,4
+30214,"Child Friendly Space ","Mount Barclay ",,1123,3
+30223,"Monrovia Vocational Training Center ","Double Bridge ",,2275,5
+30224,"Monrovia Vocational Training Center ","Double Bridge ",,1753,4
+30225,"New Hope Academy ","Double Bridge/Peace Island ",,2065,5
+30226,"Bassa Town Community School ","Double Bridge/Peace Island ",,628,2
+30227,"St. Francis School ","Jacob Town ",,3207,7
+30228,"Calvary Temple A.G.M. High School ","Jacob Town ",,2211,5
+30229,"Calvary Temple A.G.M. High School ","Jacob Town ",,2339,5
+30230,"Ma Bendu I. Sheriff School ","Zinc Factory ",,1866,4
+30231,"Muslim Solidarity Arabic & English School ","Zinc Factory ",,2370,5
+30232,"Star Baptist School ","Rock Hill ",,1791,4

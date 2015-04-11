@@ -1,19 +1,19 @@
-Voting ,"","","","",General 
-Precinct ,COUNTY :MONTSERRADO ,ELECTORAL DISTRICT : 3 ,"","",Polling 
-Code ,Locality ,Address ,"",Voters ,Places
-30092 ,Aaron G. Burgess Momerial Academy ,Neezoe ,"",2347 ,5
-30093 ,Christian Methodist School ,Neezoe ,"",2008 ,5
-30094 ,New Jerusalem Baptist Church ,"Adjacent to the Police Station, Neezoe ","",2616 ,6
-30095 ,Salvation Army ,Pipe Line A ,"",2988 ,7
-30096 ,International Christian School of Prime SystemPipe Line B ,"","",2156 ,5
-30097 ,Small Catholic & IDP Camp ,Pipe Line B ,"",2102 ,5
-30271 ,Revival Temple A.G.M School ,Wood Camp Road ,"",2421 ,5
-30272 ,Jawalla Community School ,Wood Camp ,"",1675 ,4
-30273 ,Billie Call Christian Institute ,Wood Camp A ,"",2314 ,5
-30274 ,Billie Call Christian Institute ,Wood Camp B ,"",2238 ,5
-30275 ,Victorial A. William High School ,Morris Farm ,"",1463 ,3
-30276 ,Factory Community Christian Academy ,Coco Cola Factory Community/ Morris Farm Ent ,"",2426 ,5
-30277 ,Practical Trade Training Center ,Coco Cola Factory Community ,"",2811 ,6
-30280 ,Messiah Mission School ,Morris Farm/ Inside ,"",1933 ,4
-30283 ,David G. Barshell Sr. School ,Barclay Mission Road/Red Light ,"",2703 ,6
-30288 ,Paynesville Central Academy ,Red Light/ Freeway ,"",3731 ,8
+"Voting ",,,,,"General "
+"Precinct ","COUNTY :MONTSERRADO ","ELECTORAL DISTRICT : 3 ",,,"Polling "
+"Code ","Locality ","Address ",,"Voters ","Places"
+30092,"Aaron G. Burgess Momerial Academy ","Neezoe ",,2347,5
+30093,"Christian Methodist School ","Neezoe ",,2008,5
+30094,"New Jerusalem Baptist Church ","Adjacent to the Police Station, Neezoe ",,2616,6
+30095,"Salvation Army ","Pipe Line A ",,2988,7
+30096,"International Christian School of Prime System","Pipe Line B ",,2156,5
+30097,"Small Catholic & IDP Camp ","Pipe Line B ",,2102,5
+30271,"Revival Temple A.G.M School ","Wood Camp Road ",,2421,5
+30272,"Jawalla Community School ","Wood Camp ",,1675,4
+30273,"Billie Call Christian Institute ","Wood Camp A ",,2314,5
+30274,"Billie Call Christian Institute ","Wood Camp B ",,2238,5
+30275,"Victorial A. William High School ","Morris Farm ",,1463,3
+30276,"Factory Community Christian Academy ","Coco Cola Factory Community/ Morris Farm Ent ",,2426,5
+30277,"Practical Trade Training Center ","Coco Cola Factory Community ",,2811,6
+30280,"Messiah Mission School ","Morris Farm/ Inside ",,1933,4
+30283,"David G. Barshell Sr. School ","Barclay Mission Road/Red Light ",,2703,6
+30288,"Paynesville Central Academy ","Red Light/ Freeway ",,3731,8

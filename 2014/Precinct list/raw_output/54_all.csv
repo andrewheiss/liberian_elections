@@ -1,29 +1,29 @@
-Voting ,"","","","",General 
-Precinct ,COUNTY :MONTSERRADO ,ELECTORAL DISTRICT : 13 ,"","",Polling 
-Code ,Locality ,Address ,"",Voters ,Places
-30012 ,Mother Kebbeh's Academy ,Battery Factory ,"",905 ,2
-30056 ,Allen Bryant School ,Chocolate City A ,"",1356 ,3
-30057 ,Allen Bryant School ,Chocolate City A ,"",1267 ,3
-30058 ,Deaf Ministry INC/ Elizabeth Silem School of H  Chocolate City B ,"","",1072 ,3
-30059 ,Elizabeth Blunt Elem & Jr. High School , Chocolate City B ,"",948 ,2
-30118 ,Flahn Town Community School ,Flahn Town/Opp. Topoe Village ,"",1099 ,3
-30130 ,R & R Central ,Free Port Community ,"",1941 ,4
-30131 ,R & R Central ,Free Port Community ,"",1927 ,4
-30146 ,Kula Memorial Academy ,Grass Field ,"",1627 ,4
-30152 ,Freeway Baptish School ,Iron Factory ,"",783 ,2
-30153 ,Freeway Baptish School ,Iron Factory ,"",983 ,2
-30156 ,St. Michael's Catholic School ,Supermarket Community ,"",2698 ,6
-30161 ,Trumpet of Faith School ,Jamaica Road ,"",1041 ,3
-30209 ,St. James Episcopal Church ,Mangrove Island ,"",694 ,2
-30218 ,St. Michael Catholic High School ,New Georgia Road ,"",1888 ,4
-30219 ,St. Michael Catholic High School ,New Georgia Road ,"",1683 ,4
-30220 ,Christiana Comfort Bedell Preparatory School ,New Georgia Estate ,"",2066 ,5
-30221 ,William Gabriel Kpolleh Memorial High School New Georgia Estate ,"","",3302 ,7
-30222 ,Jennie Prepartory School ,New Georgia Estate ,"",2156 ,5
-30237 ,Kula Memorial Academy ,Grass Field ,"",2047 ,5
-30238 ,Grace A.G.M School ,Old Field Gulf/Sign Board ,"",1388 ,3
-30239 ,Grace A.G.M. School ,Old Field Gulf/Sign Board ,"",1050 ,3
-30293 ,Freeway Baptist School ,Iron Factory ,"",986 ,2
-30296 ,New Life School ,"Opp. Plank Field, Battery Factory ","",1772 ,4
-30314 ,Salvation & Deliverance Christ Academy ,Topoe Village ,"",1903 ,4
-30315 ,Henri W. Dennis Methodist School ,Topoe Village ,"",1578 ,4
+"Voting ",,,,,"General "
+"Precinct ","COUNTY :MONTSERRADO ","ELECTORAL DISTRICT : 13 ",,,"Polling "
+"Code ","Locality ","Address ",,"Voters ","Places"
+30012,"Mother Kebbeh's Academy ","Battery Factory ",,905,2
+30056,"Allen Bryant School ","Chocolate City A ",,1356,3
+30057,"Allen Bryant School ","Chocolate City A ",,1267,3
+30058,"Deaf Ministry INC/ Elizabeth Silem School of H  ","Chocolate City B ",,1072,3
+30059,"Elizabeth Blunt Elem & Jr. High School ","Chocolate City B ",,948,2
+30118,"Flahn Town Community School ","Flahn Town/Opp. Topoe Village ",,1099,3
+30130,"R & R Central ","Free Port Community ",,1941,4
+30131,"R & R Central ","Free Port Community ",,1927,4
+30146,"Kula Memorial Academy ","Grass Field ",,1627,4
+30152,"Freeway Baptish School ","Iron Factory ",,783,2
+30153,"Freeway Baptish School ","Iron Factory ",,983,2
+30156,"St. Michael's Catholic School ","Supermarket Community ",,2698,6
+30161,"Trumpet of Faith School ","Jamaica Road ",,1041,3
+30209,"St. James Episcopal Church ","Mangrove Island ",,694,2
+30218,"St. Michael Catholic High School ","New Georgia Road ",,1888,4
+30219,"St. Michael Catholic High School ","New Georgia Road ",,1683,4
+30220,"Christiana Comfort Bedell Preparatory School ","New Georgia Estate ",,2066,5
+30221,"William Gabriel Kpolleh Memorial High School","New Georgia Estate ",,3302,7
+30222,"Jennie Prepartory School ","New Georgia Estate ",,2156,5
+30237,"Kula Memorial Academy ","Grass Field ",,2047,5
+30238,"Grace A.G.M School ","Old Field Gulf/Sign Board ",,1388,3
+30239,"Grace A.G.M. School ","Old Field Gulf/Sign Board ",,1050,3
+30293,"Freeway Baptist School ","Iron Factory ",,986,2
+30296,"New Life School ","Opp. Plank Field, Battery Factory ",,1772,4
+30314,"Salvation & Deliverance Christ Academy ","Topoe Village ",,1903,4
+30315,"Henri W. Dennis Methodist School ","Topoe Village ",,1578,4
