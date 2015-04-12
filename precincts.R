@@ -163,10 +163,18 @@ p.2014.info <- bind_rows(lapply(p.2014.info.list, FUN=extract.info)) %>%
 
 p.2014.list.shrunk <- lapply(p.2014.list, FUN=shrink.columns)
 
-p.2014.raw <- bind_rows(p.2014.list.shrunk)
-
-
 # Simultaneously loop through the data and info lists and bind the 
 # precinct information to each actual data dataframe
 p.2014.raw <- bind_rows(lapply(1:nrow(p.2014.info), FUN=add.columns,
-                               data.list=p.2014.list.shrunk, info=p.2014.info))
+                               data.list=p.2014.list.shrunk, info=p.2014.info)) 
+
+p.2014 <- p.2014.raw %>%
+  rename(code = V1, locality = V2, address = V3, voters = V4, polling.places = V5) %>%
+  mutate(code = str_pad(code, width=5, pad="0")) %>%
+  mutate(locality = title.case(locality),
+         address = title.case(address)) %>%
+  mutate(polling.places = as.numeric(gsub("\\D+", "", polling.places)),
+         voters = as.numeric(gsub("\\D+", "", voters)))
+
+# Write CSV file
+write_csv(p.2014, path="2014/Precinct list/precincts_2014.csv")
