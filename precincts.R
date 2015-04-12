@@ -88,7 +88,9 @@ p.2005 <- p.2005.raw %>%
          voters = as.numeric(gsub("\\D+", "", voters)),
          non.ret.places = as.numeric(gsub("\\D+", "", non.ret.places)),
          non.ret.voters = as.numeric(gsub("\\D+", "", non.ret.voters))) %>%
-  select(code, locality, address, voters, polling.places, county, district, 
+  mutate(election.year = 2005) %>%
+  select(code, locality, address, voters, polling.places, 
+         county, district, election.year, 
          non.ret.places, non.ret.voters, consolidated)
 
 # Write CSV file
@@ -133,7 +135,9 @@ p.2011 <- p.2011.raw %>%
          address = title.case(address)) %>%
   mutate(polling.places = as.numeric(gsub("\\D+", "", polling.places)),
          voters = as.numeric(gsub("\\D+", "", voters))) %>%
-  select(code, locality, address, voters, polling.places, county, district)
+  mutate(election.year = 2011) %>%
+  select(code, locality, address, voters, polling.places, 
+         county, district, election.year)
 
 # Write CSV file
 write_csv(p.2011, path="2011/Precinct list/precincts_2011.csv")
@@ -177,7 +181,13 @@ p.2014 <- p.2014.raw %>%
   mutate(locality = title.case(locality),
          address = title.case(address)) %>%
   mutate(polling.places = as.numeric(gsub("\\D+", "", polling.places)),
-         voters = as.numeric(gsub("\\D+", "", voters)))
+         voters = as.numeric(gsub("\\D+", "", voters))) %>%
+  mutate(election.year = 2014)
 
 # Write CSV file
 write_csv(p.2014, path="2014/Precinct list/precincts_2014.csv")
+
+
+# Combine all precincts into one
+p.all <- bind_rows(p.2005, p.2011, p.2014)
+write_csv(p.all, path="precints_combined.csv")
