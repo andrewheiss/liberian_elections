@@ -190,4 +190,4 @@ write_csv(p.2014, path="2014/Precinct list/precincts_2014.csv")
 
 # Combine all precincts into one
 p.all <- bind_rows(p.2005, p.2011, p.2014)
-write_csv(p.all, path="precints_combined.csv")
+write_csv(p.all, path="precincts_combined.csv")
