@@ -27,6 +27,23 @@ add.columns <- function(i, data.list, info.df) {
   df
 }
 
+# Remove columns where every value is NA (used with 2014)
+shrink.columns <- function(df) {
+  df.return <- Filter(function(x) !all(is.na(x)), data.frame(df))
+  colnames(df.return) <- paste0("V", 1:ncol(df.return))
+  df.return
+}
+
+# Search the whole dataframe for cells that contain county and district info
+extract.info <- function(df) {
+  df <- data.frame(df)  # Convert to actual dataframe
+  
+  matches <- apply(df, c(1, 2), function(x) grepl("COUNTY|ELECTORAL", x))
+  extracted <- df[matches]
+  return(data_frame(county = extracted[1], district = extracted[2]))
+}
+
+
 
 #-----------------
 # 2005 precincts
@@ -118,3 +135,38 @@ p.2011 <- p.2011.raw %>%
 # Write CSV file
 write_csv(p.2011, path="2011/Precinct list/precincts_2011.csv")
 
+
+
+#-----------------
+# 2014 precincts
+#-----------------
+path.to.raw <- "2014/Precinct list/raw_output/"
+
+# Get list of files to parse
+p.2014.files <- list.files(path.to.raw)
+
+# Load the files as a list of dataframes
+# Need to use read.csv instead of read_csv because some CSV have
+# different numbers of columns
+p.2014.list <- lapply(paste0(path.to.raw, "/", p.2014.files), 
+                      FUN=read.csv, stringsAsFactors=FALSE, skip=3, 
+                      header=FALSE)
+
+p.2014.info.list <- lapply(paste0(path.to.raw, "/", p.2014.files), 
+                      FUN=read.csv, stringsAsFactors=FALSE, nrows=3, 
+                      header=FALSE)
+
+p.2014.info <- bind_rows(lapply(p.2014.info.list, FUN=extract.info)) %>% 
+  mutate(county = title.case(gsub("COUNTY :", "", county)),
+         district = as.numeric(gsub("\\D+", "", district)))
+
+
+p.2014.list.shrunk <- lapply(p.2014.list, FUN=shrink.columns)
+
+p.2014.raw <- bind_rows(p.2014.list.shrunk)
+
+
+# Simultaneously loop through the data and info lists and bind the 
+# precinct information to each actual data dataframe
+p.2014.raw <- bind_rows(lapply(1:nrow(p.2014.info), FUN=add.columns,
+                               data.list=p.2014.list.shrunk, info=p.2014.info))
